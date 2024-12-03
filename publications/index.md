@@ -13,16 +13,28 @@ Our laboratory actively contributes to the scientific community through a range 
 {%
   include button.html
   type="link"
-  text="International Journals"
-  link="publications/#international-journals"
+  text="International Conferences"
+  link="publications/#international-conferences"
 %}
 
 {%
   include button.html
   type="link"
-  text="International Conferences"
-  link="publications/#international-conferences"
+  text="International Journals"
+  link="publications/#international-journals"
 %}
+
+
+
+{% include section.html %}
+
+## International Conferences
+
+{% include search-box.html %}
+
+{% include search-info.html %}
+
+{% include list.html data="citations" component="citation" style="rich" filters="type: paper" %}
 
 {% include section.html %}
 
@@ -34,12 +46,4 @@ Our laboratory actively contributes to the scientific community through a range 
 
 {% include list.html data="citations" component="citation" style="rich" filters="type: journal" %}
 
-{% include section.html %}
 
-## International Conferences
-
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" filters="type: paper" %}
