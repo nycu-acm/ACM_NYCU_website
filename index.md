@@ -95,7 +95,7 @@ Our lab members attend ACM Multimedia 2024 with the work "TimeNeRF: Building Gen
 {% capture col2 %}
 {%
   include figure.html
-  image="images/homepage-highlight/2024_ACM_MULTIMEDIA_3.jpg"
+  image="images/homepage-highlight/2024_ACM_MULTIMEDIA_2.jpg"
   caption=""
   link="team"
 %}
