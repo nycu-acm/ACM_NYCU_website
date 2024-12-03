@@ -33,11 +33,83 @@ Besides, we also try to build an international environment in our lab, you may f
   link="https://www.facebook.com/profile.php?id=100057112133591"
 %}
 
+<!--- START HIGHLIGHT -->
+
 {% include section.html %}
 
 ## Highlights
 
-{% include citation.html lookup="Boosting Diffusion" style="rich" %}
+<!--- Highlight 1 -->
+
+### We are at ICIP 2024!
+Professor and our lab members attend ICIP 2024 with three works: 
+* Lipface: Lipschitz-Conditioned for Resolution Robus Face Recognition
+* Aerial view river landform video segmentation: A weakly supervised context-aware temporal consistency distillation approach
+* Two Heads Better than One: Dual Degradation Representation for Blind Super-Resolution
+
+{% capture col1 %}
+{%
+  include figure.html
+  image="images/homepage-highlight/2024_ICIP_1.jpg"
+  caption=""
+  link="team"
+%}
+{% endcapture %}
+
+{% capture col2 %}
+{%
+  include figure.html
+  image="images/homepage-highlight/2024_ICIP_2.jpg"
+  caption=""
+  link="team"
+%}
+{% endcapture %}
+
+{% capture col3 %}
+{%
+  include figure.html
+  image="images/homepage-highlight/2024_ICIP_3.jpg"
+  caption=""
+  link="team"
+%}
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
+
+<!--- Highlight 2 -->
+
+{% include section.html %}
+
+### We are at ACM Multimedia 2024!
+Our lab member Huu-Phu Do attend ACM Multimedia 2024 with the work "TimeNeRF: Building Generalizable Neural Radiance Fields across Time from Few-Shot Input Views".
+
+{% capture col1 %}
+{%
+  include figure.html
+  image="images/homepage-highlight/2024_ACM_MULTIMEDIA_1.jpg"
+  caption=""
+  link="team"
+%}
+{% endcapture %}
+
+{% capture col2 %}
+{%
+  include figure.html
+  image="images/homepage-highlight/2024_ACM_MULTIMEDIA_2.jpg"
+  caption=""
+  link="team"
+%}
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
+
+<!--- END HIGHLIGHT -->
+
+<!--- START 'ABOUT US' -->
+
+{% include section.html %}
+
+## About us
 
 <!--- Part "Our research" -->
 
