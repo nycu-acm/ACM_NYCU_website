@@ -116,7 +116,7 @@ Our lab members with the work "DetailSemNet: Elevating Signature Verification wi
 {% capture col1 %}
 {%
   include figure.html
-  image="images/homepage-highlight/2024_ECCV.jpg"
+  image="images/homepage-highlight/2024_ECCV_1.jpg"
   caption=""
   link="team"
 %}
