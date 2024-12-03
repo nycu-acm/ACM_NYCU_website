@@ -81,7 +81,7 @@ Professor and our lab members attend ICIP 2024 with three works:
 {% include section.html %}
 
 ### We are at ACM Multimedia 2024!
-Our lab member Huu-Phu Do attend ACM Multimedia 2024 with the work "TimeNeRF: Building Generalizable Neural Radiance Fields across Time from Few-Shot Input Views".
+Our lab members attend ACM Multimedia 2024 with the work "TimeNeRF: Building Generalizable Neural Radiance Fields across Time from Few-Shot Input Views".
 
 {% capture col1 %}
 {%
@@ -95,7 +95,48 @@ Our lab member Huu-Phu Do attend ACM Multimedia 2024 with the work "TimeNeRF: Bu
 {% capture col2 %}
 {%
   include figure.html
-  image="images/homepage-highlight/2024_ACM_MULTIMEDIA_2.jpg"
+  image="images/homepage-highlight/2024_ACM_MULTIMEDIA_3.jpg"
+  caption=""
+  link="team"
+%}
+{% endcapture %}
+
+{% capture col3 %}
+{%
+  include figure.html
+  image="images/homepage-highlight/2024_ACM_MULTIMEDIA_3.jpg"
+  caption=""
+  link="team"
+%}
+{% endcapture %}
+
+{% capture col4 %}
+{%
+  include figure.html
+  image="images/homepage-highlight/2024_ACM_MULTIMEDIA_4.jpg"
+  caption=""
+  link="team"
+%}
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 col4=col4%}
+
+### ECCV 2024, here we come!
+Our lab members with the work "DetailSemNet: Elevating Signature Verification with Captured Details and Semantics by Feature Disentanglement and Re-entanglement".
+
+{% capture col1 %}
+{%
+  include figure.html
+  image="images/homepage-highlight/2024_ECCV_1.jpg"
+  caption=""
+  link="team"
+%}
+{% endcapture %}
+
+{% capture col2 %}
+{%
+  include figure.html
+  image="images/homepage-highlight/2024_ECCV_2.jpg"
   caption=""
   link="team"
 %}
