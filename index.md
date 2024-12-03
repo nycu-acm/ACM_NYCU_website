@@ -5,7 +5,7 @@ nav:
   tooltip: Homepage
 ---
 
-{% include section.html dark=true %}
+{% include section.html %}
 
 {% capture lorem %}
 ACM 2025 Recruitment for Internship / Master / Ph.D. program / Full-time researcher is open! [Join us](join-us)
