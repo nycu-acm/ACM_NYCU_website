@@ -129,7 +129,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research/image_processing.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -153,7 +153,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/international-journals/01-indirect.webp"
   link="publications"
   title="Our Publications"
   style="bare"
@@ -178,7 +178,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/pages-title-background/team.jpg"
   link="team"
   title="Our Team"
   text=text
