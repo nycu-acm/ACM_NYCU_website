@@ -102,8 +102,8 @@ Our lab members attend ACM Multimedia 2024 with the work "TimeNeRF: Building Gen
 {% endcapture %}
 
 
-{% include cols.html col1=col1 col2=col2}
-<!-- 
+{% include cols.html col1=col1 col2=col2 %}
+
 ### ECCV 2024, here we come!
 Our lab members with the work "DetailSemNet: Elevating Signature Verification with Captured Details and Semantics by Feature Disentanglement and Re-entanglement".
 
@@ -125,7 +125,7 @@ Our lab members with the work "DetailSemNet: Elevating Signature Verification wi
 %}
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %} -->
+{% include cols.html col1=col1 col2=col2 %}
 
 <!--- END HIGHLIGHT -->
 
