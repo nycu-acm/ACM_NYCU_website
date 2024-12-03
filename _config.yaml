@@ -1,0 +1,71 @@
+# site properties and page defaults
+title: Applied Computing and Multimedia Lab
+subtitle: 應用運算與多媒體實驗室
+description: ACM Lab - National Yang Ming Chiao Tung University
+# header: images/background.jpg
+footer: images/background.jpg
+
+# site social media and other links
+links:
+  email: chingchun@cs.nycu.edu.tw
+  orcid: 0000-0002-4382-5083
+  google-scholar: xTdexhsAAAAJ
+  github: nycu-acm
+  youtube: watch?v=G3acoF0FLWw
+
+### jekyll settings
+
+# front matter defaults
+defaults:
+  # all markdown files
+  - scope:
+      path: ""
+    values:
+      layout: default
+  # markdown files in /_members
+  - scope:
+      type: "members"
+    values:
+      layout: member
+  # markdown files in /_posts
+  - scope:
+      type: "posts"
+    values:
+      layout: post
+
+collections:
+  # generate page for each member
+  members:
+    output: true
+  # generate page for each post
+  posts:
+    output: true
+
+# jekyll plugins
+plugins:
+  - jekyll-spaceship
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-last-modified-at
+
+# code block syntax highlighting
+highlighter: rouge
+
+# jekyll theme
+theme: null
+
+# sass settings
+sass:
+  sass_dir: _styles
+
+# force jekyll to include certain files/folders
+include:
+  - _styles
+  - _scripts
+
+# force jekyll to exclude certain files/folders
+exclude:
+  - README.md
+  - LICENSE.md
+  - CITATION.cff

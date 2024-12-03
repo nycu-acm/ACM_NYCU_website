@@ -1,0 +1,774 @@
+- authors: Huu-Phu Do, Yan-An Chen, Nhat-Tuong Do-Tran, Kai-Lung Hua, Wen-Hsiao Peng
+    & Ching-Chun Huang
+  date: '2024-03-07'
+  image: images/international-journals/01-indirect.webp
+  publisher: Multimedia Systems
+  title: 'INDIRECT: Invertible and Discrete Noisy Image Rescaling with Enhancement
+    fromCase-dependent Textures'
+  type: journal
+- authors: Nguyen, Manh-Hung; Chao, Tzu-Yin; Hsiao, Ching-Chun; Li, Yung-Hui; Huang,
+    Ching-Chun
+  date: '2023-10-09'
+  image: images/international-journals/02-Self-Supervise.jpg
+  publisher: ' IEEE Transactions on Intelligent Transportation Systems'
+  title: Self-Supervise Reinforcement Learning Method for Vacant Parking Space Detection
+    based on Task Consistency and Corrupted Rewards
+  type: journal
+- authors: Da-Wei Jaw,  Shih-Chia Huang,  I-Chuan Lin,  Cheng Zhang, Ching-Chun Huang,
+    Sy-Yen Kuo
+  date: '2023-08-01'
+  image: images/international-journals/03-rodnet.jpg
+  publisher: 'IEEE Sensors Journal '
+  title: 'RodNet: An Advanced Multi-Domain Object Detection Approach using Feature
+    Transformation with Generative Adversarial Networks'
+  type: journal
+- authors: Sin-Han Huang, Tzu-Yin Chao, Beatrice Adelaide Wibisono, Mark Po-Hung Lin
+    and Ching-Chun Huang
+  date: '2023-05-08'
+  image: images/international-journals/04-ssioe.jpg
+  publisher: IEEE Transactions on Automation Science and Engineering
+  title: 'SSIOE: Self-Supervised Indoor Occupancy Estimation for Intelligent Building
+    Management'
+  type: journal
+- authors: Chang, Ming-Jen; Cheng, Chih-Jen; Hsiao, Ching-Chun; Li, Yung-Hui; Huang,
+    Ching-Chun
+  date: '2023-04-26'
+  image: images/international-journals/05-svdnet.jpg
+  publisher: IEEE Transactions on Intelligent Transportation Systems
+  title: 'SVDnet: Singular Value Control and Distance Alignment Network for 3D Object
+    Detection'
+  type: journal
+- authors: Ting-Wei Cheng, Jerry Chang, Ching-Chun Huang, Chin Kuo, Yun-Chien Cheng
+  date: '2022-04-08'
+  image: images/international-journals/06-feature.jpg
+  publisher: Heliyon
+  title: Feature-enhanced Adversarial Semi-supervised Semantic Segmentation Network
+    for Pulmonary Embolism Annotation  
+  type: journal
+- authors: Tso Yuan Chen, Ching Chun Hsiao and Ching-Chun Huang
+  date: '2022-03-01'
+  image: images/international-journals/07-density.jpg
+  publisher: ' IEEE Transactions on Intelligent Vehicles'
+  title: Density-imbalance-eased LiDAR Point Cloud Upsampling via Feature Consistency
+    Learning
+  type: journal
+- authors: Ching-Kai Lin, Jerry Chang, Ching-Chun Huang, Yueh-Feng Wen, Chao-Chi Ho,
+    Yun-Chien Cheng0
+  date: '2021-11-01'
+  image: images/international-journals/08-effectiveness.jpg
+  publisher: 'Cancer Cytopathology(Editor-in-Chief: William C. Faquin, MD, PhD
+
+
+    Impact factor:5.284
+
+    2020 Journal Citation Reports (Clarivate Analytics): 84/243 (Oncology)16/77 (Pathology)
+
+    Online ISSN:1934-6638)'
+  title: Effectiveness of convolutional neural networks in the interpretation of pulmonary
+    cytologic images in endobronchial ultrasound procedures
+  type: journal
+- authors: Manh-Hung Nguyen, Ching-Chun Hsiao, Wen-Huang Cheng, and Ching-Chun Huang
+  date: 2021/9/6
+  image: images/international-journals/09-practical.png
+  publisher: 'Multimedia Systems: (IF 1.563 ,89/307)'
+  title: Practical 3D Human Skeleton Tracking based on Multi-view and Multi-Kinect
+    Fusion
+  type: journal
+- authors: 'Shih-Chia Huang, Quoc-Viet Hoang, Trung-Hieu Le *, Yan-Tsung Peng *,
+
+    Ching-Chun Huang, Cheng Zhang, Benjamin Fung, Kai-Han Cheng, Sha-Wo Huang'
+  date: '2021-07-01'
+  image: images/international-journals/10-advance.webp
+  publisher: ' Sensors Impact Factor 2020: 3.576
+
+    Sensors CiteScore 2020: 5.8'
+  title: An Advanced Noise Reduction and Edge Enhancement Algorithm
+  type: journal
+- authors: Yong-Xiang Lin, Daniel Tan, Yung-Yao Chen, Ching-Chun Huang, Kai-Lung Hua
+  date: '2020-07-01'
+  image: images/international-journals/11-domain.jpg
+  publisher: ' IEEE MultiMedia Magazine'
+  title: Domain Adaptation with Foreground/Background Cues and Gated Discriminators
+  type: journal
+- authors: Ching-Chun Huang, and Hung-Nguyen Manh
+  date: '2018-08-16'
+  image: images/international-journals/12-xray.png
+  publisher:  IEEE Transactions on Image Processing
+  title: X-Ray Enhancement Based on Component Attenuation, Contrast Adjustment, and
+    Image Fusion
+  type: journal
+- authors: Hoang Tran Vu, Ching-Chun Huang
+  date: '2018-04-12'
+  image: images/international-journals/13-parking.png
+  publisher:  IEEE Transactions on Circuits and Systems for Video Technology
+  title: Parking Space Status Inference upon a Deep CNN and Multi-task Contrastive
+    Network with Spatial Transform
+  type: journal
+- authors: Chingchun Huang and Hoang Tran Vu
+  date: '2016-05-06'
+  image: images/international-journals/14-vacant.png
+  publisher: IEEE Transactions on Circuits and Systems for Video Technology
+  title: Vacant Parking Space Detection Based on a Multilayer Inference Framework
+  type: journal
+- authors: Ching-chun Hunag and Hung Nguyen Manh
+  date: '2016-02-03'
+  image: images/international-journals/15-rss.jpg
+  publisher: IEEE Sensors Journal
+  title: RSS-Based Indoor Positioning Based on Multi-Dimensional Kernel Modeling and
+    Weighted Average Tracking
+  type: journal
+- authors: Yen-Yu Wang, Atul Kumar, Kai-Che Liu, Shih-Wei Huang, Ching-Chun Huang,
+    Wei-Chia Su, Fu-Li Hsiao & Wen-Nung Lie
+  date: '2016-07-15'
+  image: images/international-journals/16-stereoscope.jpg
+  publisher: Third International Conference on Robot, Vision and Signal Processing
+    (RVSP)
+  title: 'Stereoscopic Augmented Reality for Single Camera Endoscope Using Optical
+    Tracker: A Study on Phantom'
+  type: journal
+- authors: Hung Nguyen Manh, Ching-Chun Huang and Lee Hsiao-Yi 1
+  date: '2015-11-18'
+  image: images/international-journals/nan
+  publisher: Wireless Communications and Mobile Computing
+  title: Landmark‐based device calibration and region‐based modeling for RSS‐based
+    localization
+  type: journal
+- authors: Ching-chun Huang, Yu-Shu Tai, and Sheng-Jyh Wang
+  date: '2013-03-27'
+  image: images/international-journals/18-vacant.jpg
+  publisher: IEEE Transactions on Circuits and Systems for Video Technology
+  title: Vacant Parking Space Detection Based on Plane-Based Bayesian Hierarchical
+    Framework
+  type: journal
+- authors: Ching-Chun Huang* and Li-Chun Wang
+  date: '2012-04-01'
+  image: images/international-journals/19-dynamic.png
+  publisher: IEEE Wireless Communications Letters
+  title: Dynamic Sampling Rate Adjustment for Compressive Spectrum Sensing over Cognitive
+    Radio Network
+  type: journal
+- authors: Ching-Chun Huang, Sheng-Jyh Wang
+  date: '2011-08-01'
+  image: images/international-journals/20-bayesian.jpg
+  publisher: IEEE Transactions on Automation Science and Engineering
+  title: A Bayesian Hierarchical Framework for Multitarget Labeling and Correspondence
+    With Ghost Suppression Over Multicamera Surveillance System
+  type: journal
+- authors: Ching-Chun Huang, and Sheng-Jyh Wang
+  date: '2010-12-01'
+  image: images/international-journals/21-hierarchy.jpg
+  publisher: IEEE Transactions on Circuits and Systems for Video Technology
+  title: A Hierarchical Bayesian Generation Framework for Vacant Parking Space Detection
+  type: journal
+
+- authors: Shao-Hao Lu, Ren Wang, Ching-Chun Huang, Wei-Chen Chiu
+  date: 2025-1-01
+  image: nan
+  publisher: 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+  title: Boosting Diffusion Guidance via Learning Degradation-Aware Models for Blind
+    Super Resolution
+  type: paper
+- authors: Ting-Yu Chu, Yong-Xiang Lin, Ching-Chun Huang, Kai-Lung Hua
+  date: 2024-1-01
+  image: nan
+  publisher: Asian Conference on Computer Vision 2024 (ACCV 2024)
+  title: Enhancing Anchor-based Weakly Supervised Referring Expression Comprehension
+    with Cross-Modality Attention
+  type: paper
+- authors: Ta Chun Tai, Nhat-Tuong Do-Tran, Ngoc-Hoang-Lam Le, Yung-Hui Li, Ching-Chun
+    Huang
+  date: 2024-1-01
+  image: nan
+  publisher: Asian Conference on Computer Vision 2024 (ACCV 2024)
+  title: 'DA^2: Degree-Accumulated Data Augmentation on Point Clouds with Curriculum
+    Dynamic Threshold Selection'
+  type: paper
+- authors: Huu-Phu Do, Po-Chih Hu, Hao-Chien Hsueh, Che-Kai Liu, Vu-Hoang Tran, Ching-Chun
+    Huang
+  date: 2024-9-01
+  image: nan
+  publisher: Asian Conference on Computer Vision 2024 (ACCV 2024)
+  title: Blind Super Resolution with Reference Images and Implicit Degradation Representation
+  type: paper
+- authors: Hsiang-Hui Hung, Huu-Phu Do, Yung-Hui Li, Ching-Chun Huang
+  date: 2024-7-01
+  image: nan
+  publisher: ACM Multimedia 2024 (ACMMM)
+  title: 'TimeNeRF: Building Generalizable Neural Radiance Fields across Time from
+    Few-Shot Input Views'
+  type: paper
+- authors: Meng-Cheng Shih, Tsai-Ling Huang, Yu-Heng Shih, Hong-Han Shuai, Hsuan-Tung
+    Liu, Yi-Ren Yeh, and Ching-Chun Huang
+  date: '2024-10-01'
+  image: nan
+  publisher: 2024 European Conference on Computer Vision (ECCV)
+  title: 'DetailSemNet: Elevating Signature Verification with Captured Details and
+    Semantics by Feature Disentanglement and Re-entanglement'
+  type: paper
+- authors: Zhi-Yi Chin, Chieh Ming Jiang, Ching-Chun Huang, Pin-Yu Chen, Wei-Chen
+    Chiu,
+  date: '2024-12-01'
+  image: https://github.com/joycenerd/P4D/raw/main/figure/teaser.png
+  publisher: 2024 International Conference On Machine Learning (ICML)
+  title: 'Prompting4Debugging: Red-Teaming Text-to-Image Diffusion Models by Finding
+    Problematic Prompts'
+  type: paper
+- authors: Chi-Han Chen, Chieh-Ming Chen, Wen-Huang Cheng, Ching-Chun Huang
+  date: '2024-10-01'
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10647221/10647122/10647662/chen1-0000984-large.jpg
+  publisher: "2024 \nIEEE International Conference on Image Processing (ICIP)"
+  title: 'AERIAL VIEW RIVER LANDFORM VIDEO SEGMENTATION: A WEAKLY SUPERVISED CONTEXT-AWARE
+    TEMPORAL CONSISTENCY DISTILLATION APPROACH'
+  type: paper
+- authors: Yu Wei Chen, Huu Phu Do, Chia Wei Kuo, Hsuan Tung Liu, Ching Chun Huang
+  date: '2024-10-01'
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10647221/10647122/10647914/chen2-0002375-small.jpg
+  publisher: "2024 \nIEEE International Conference on Image Processing (ICIP)"
+  title: 'LIPFACE: LIPSCHITZ-CONDITIONED FOR RESOLUTION ROBUST FACE RECOGNITION'
+  type: paper
+- authors: Hsuan Yuan, Shao-Yu Weng, I-Hsuan Lo, Wei-Chen Chiu, Yu-Syuan Xu, Hao-Chien
+    Hsueh, Jen-Hui Chuang, Ching-Chun Huang
+  date: '2024-10-01'
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10647221/10647122/10647237/yuan1-0001514-large.jpg
+  publisher: "2024 \nIEEE International Conference on Image Processing (ICIP)"
+  title: 'Two Heads Better than One: Dual Degradation Representation for Blind Super-Resolution'
+  type: paper
+- authors: Shao-Yu Weng, Hsuan Yuan, Yu-Syuan Xu, Ching-Chun Huang, Wei-Chen Chiu
+  date: 2024-1-01
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10483279/10483282/10484031/weng1-p10-weng-large.jpg
+  publisher: 2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+  title: 'Best of Both Worlds: Learning Arbitrary-scale Blind Super-Resolution via
+    Dual Degradation Representations and Cycle-Consistency'
+  type: paper
+- authors: Cheng Huang, Yi-Lun Wu, Hong-Han Shuai, Ching-Chun Huang
+  date: 2024-1-01
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10483279/10483282/10484101/huang1-p10-huang-large.jpg
+  publisher: 2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+  title: 'Semantic Fusion Augmentation and Semantic Boundary Detection: A Novel Approach
+    to Multi-Target Video Moment Retrieval'
+  type: paper
+- authors: Yi Ting Tsai, Yu Wei Chen, Hong-Han Shuai, Ching-Chun Huang
+  date: 2024-1-01
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10483279/10483282/10483821/tsai1-p10-tsai-large.jpg
+  publisher: 2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+  title: Arbitrary-Resolution and Arbitrary-Scale Face Super-Resolution with Implicit
+    Representation Networks
+  type: paper
+- authors: Zhi-Yi Chin, Chieh-Ming Jiang, Ching-Chun Huang, Pin-Yu Chen, Wei-Chen
+    Chiu
+  date: 2024-1-01
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10483279/10483282/10483950/chin1-p10-chin-large.jpg
+  publisher: 2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+  title: Masking Improves Contrastive Self-Supervised Learning for ConvNets, and Saliency
+    Tells You Where
+  type: paper
+- authors: Zhi-Yi Chin, Chieh-Ming Jiang, Ching-Chun Huang, Pin-Yu Chen, Wei-Chen
+    Chiu
+  date: '2023-11-01'
+  image: https://github.com/joycenerd/P4D/raw/main/figure/teaser.png
+  publisher: International Conference on Machine Learning
+  title: 'Prompting4Debugging: Red-Teaming Text-to-Image Diffusion Models by Finding
+    Problematic Prompts'
+  type: paper
+- authors: Hsin-Ju Lin, Tsu-Chun Chung, Ching-chun Hsiao, Pin-Yu Chen, Wei-Chen Chiu,
+    Ching-Chun Huang
+  date: '2023-10-01'
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10341341/10341342/10342419/10342419-fig-2-source-small.jpg
+  publisher: 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems
+    (IROS)
+  title: 'MENTOR: Multilingual tExt detectioN TOward leaRning by analogy'
+  type: paper
+- authors: Ngoc-Quan Ha-Phan, Thanh-Nguyen Truong and Vu-Hoang Tran (Ho Chi Minh City
+    University of Technology and Education, Vietnam); Ching-Chun Huang (National Yang
+    Ming Chiao Tung University, Taiwan)
+  date: '2023-10-01'
+  image: nan
+  publisher: 2023 Asia Pacific Signal and Information Processing Association Annual
+    Summit and Conference (APSIPA ASC)
+  title: A Reliable Feature-Based Framework for Vehicle Tracking in Advanced Driver
+    Assistance Systems
+  type: paper
+- authors: Cong-Ty Dang, Vu-Hoang Tran and Ngoc-Hoang-Lam Le (Ho Chi Minh City University
+    of Technology and Education, Vietnam); Ching-Chun Huang (National Yang Ming Chiao
+    Tung University, Taiwan)
+  date: '2023-10-01'
+  image: nan
+  publisher: 2023 Asia Pacific Signal and Information Processing Association Annual
+    Summit and Conference (APSIPA ASC)
+  title: 'From Synthetic to Real: Enhancing Deep Learning Models with Generative Adversarial
+    Networks for Efficient Data Utilization in Automatic Retail Stores'
+  type: paper
+- authors: ' Wei-Jie Hung, Egor Poliakov and Ching-Chun Huang'
+  date: '2023-10-01'
+  image: nan
+  publisher: 2023 Asia Pacific Signal and Information Processing Association Annual
+    Summit and Conference (APSIPA ASC)
+  title: ' Efficient Constraint-Aware Neural Architecture Search for Object Detection'
+  type: paper
+- authors: Wing Ho Tang, Hsuan Yuan, Tzu-Hao Chiang, Ching-Chun Huang
+  date: 2023-5-01
+  image: nan
+  publisher: ' 2023 IEEE International Symposium on Circuits & Systems(ISCAS)'
+  title: 'ZERO-LEINR: ZERO-Reference LOW-Light Image Enhancement with Intrinsic Noise
+    Reduction'
+  type: paper
+- authors: Chien-Heng Yu, Ching-Chun Huang
+  date: 2023-1-01
+  image: nan
+  publisher: '2023 IEEE International Conference on Consumer Electronics (ICCE) '
+  title: Incremental Map Modeling for Lightweight SLAM via Deep Reinforcement Learning
+  type: paper
+- authors: Yu-Ming Hu, Jia-Jin Xie, Hong-Han Shuai, Ching-Chun Huang, I-Fan Chou,
+    Wen-Huang Cheng (鄭文皇老師為corresponding author)
+  date: 2023-1-01
+  image: nan
+  publisher: '2023 IEEE International Conference on Consumer Electronics (ICCE) '
+  title: Dynamic Feature Fusion for Visual Object Detection and Segmentation
+  type: paper
+- authors: Ching-Hung Cheng, Jing-Wen Chen, Ching-Chun Huang
+  date: 2023-1-01
+  image: nan
+  publisher: '2023 IEEE International Conference on Consumer Electronics (ICCE) '
+  title: Disentanglement-Based Multi-Vehicle Detection and Tracking for Gate-Free
+    Parking Lot Management
+  type: paper
+- authors: Van-Tin Luu, Vu-Hoang Tran, Egor Poliakov, Ching-Chun Huang
+  date: 2023-1-01
+  image: nan
+  publisher: '2023 IEEE International Conference on Consumer Electronics (ICCE) '
+  title: 'D2D: Divide to Detect, A Scale-Aware Framework for On-Road Object Detection
+    Using IR Camera'
+  type: paper
+- authors: Ming-Jen Chang, Chih-Jen Cheng, Ching-Chun Hsiao, I-Fan Chou, Ching-Chun
+    Huang
+  date: '2022-11-01'
+  image: nan
+  publisher: 2022 IEEE International Conference on Advanced Video and Signal-Based
+    Surveillance(2022AVSS)
+  title: Distance-dependent Feature Alignment and Selection for Imbalance 3D Point
+    Cloud Object Detection
+  type: paper
+- authors: Yu Hsuan Li, Tzu-Yin Chao, Ching-Chun Huang, Pin-Yu Chen, Wei-Chen Chiu
+  date: '2022-11-01'
+  image: nan
+  publisher: '(NeurIPS 2022)
+
+    Thirty-sixth Conference on Neural Information Processing Systems'
+  title: 'Make an Omelette with Breaking Eggs: Zero-Shot Learning for Novel Attribute
+    Synthesis'
+  type: paper
+- authors: Chia-Wei Kuo, Yi-Ting Tsai, Hong-Han Shuai, Yi-Ren Yeh, Ching-Chun Huang
+  date: '2022-10-01'
+  image: nan
+  publisher: ACM International Conference on Multimedia (ACM MM 2022)
+  title: Towards Understanding Cross Resolution Feature Matching for Surveillance
+    Face Recognition
+  type: paper
+- authors: Egor Poliakov, Van-Tin Luu, Vu-Hoang Tran, Ching-Chun Huang
+  date: 2022-7-01
+  image: nan
+  publisher: IEEE International Conference on Multimedia & Expo  (ICME2022)
+  title: Model compression via structural pruning and feature distillation for accurate
+    multi-spectral object detection on edge-devices
+  type: paper
+- authors: Ting-Wei Chang, Wei-Chen Chiu, Ching-Chun Huang
+  date: 2022-5-01
+  image: nan
+  publisher: 2022 IEEE International Conference on Acoustics, Speech and Signal Processing(ICASSP
+    2022)
+  title: 'Find the way back: Invertible kernel estimator for blind image super resolution'
+  type: paper
+- authors: Tso-Yuan Chen, Ching-Chun Hsiao, Wen-Huang Cheng, Hong-Han Shuai , Peter
+    Chen, Ching-Chun Huang
+  date: '2021-12-01'
+  image: nan
+  publisher: ' IEEE International Conference on Visual Communications and Image Processing
+    (VCIP)'
+  title: 'DensER: Density-imbalance-Eased Representation for LiDAR-based Whole Scene
+    Upsampling'
+  type: paper
+- authors: Yan-An Chen, Ching-Chun Hsiao, Wen-Hsiao Peng, Ching-Chun Huang
+  date: '2021-12-01'
+  image: nan
+  publisher: ' IEEE International Conference on Visual Communications and Image Processing
+    (VCIP)'
+  title: 'DIRECT: Discrete Image Rescaling with Enhancement from Case-specific Textures'
+  type: paper
+- authors: Stanley (Yan-Cheng Huang), Julie (Yi-Hsin Chen), Cheng-You Lu, Hui-Po Wang,
+    Wen-Hsiao Peng, Ching-Chun Huang (順序待確認)
+  date: 2021-6-01
+  image: nan
+  publisher: CVPR2021
+  title: Video Rescaling Networks with Joint Optimization Strategies for Downscaling
+    and Upscaling
+  type: paper
+- authors: ' Manh Hung Nguyen, Tzu-Yin Chao, Ching-Chun Huang*'
+  date: 2021-1-01
+  image: nan
+  publisher: ' IEEE International Conference on Pattern Recognition.'
+  title: Vacant Parking Space Detection based on Task Consistency and Reinforcement
+    Learning
+  type: paper
+- authors: You-Feng Wu,Vu-Hoang Tran,Ting-Wei Chang,Wei-Chen Chiu,Ching-Chun Huang
+  date: 2021-1-01
+  image: nan
+  publisher: IEEE International Conference on Pattern Recognition
+  title: 'DEN: Disentangling and Exchanging Network for Depth Completion'
+  type: paper
+- authors: Nelson Chong Ngee Bow; Vu-Hoang Tran; Punchok Kerdsiri; Yuen Peng Loh;
+    Ching-Chun Huang
+  date: '2020-12-01'
+  image: nan
+  publisher: ' IEEE International Conference on Visual Communications and Image Processing
+    (VCIP)'
+  title: ' DEN: Disentanglement and Enhancement Networks for Low Illumination Images'
+  type: paper
+- authors: Chung-Sheng Lai, Zunzhi You, Ching-Chun Huang, Yi-Hsuan Tsai, Wei-Chen
+    Chiu
+  date: 2020-8-01
+  image: nan
+  publisher: 16th European Conference on Computer Vision(ECCV)
+  title: Colorization of Depth Map via Disentanglement
+  type: paper
+- authors: Wei-Zhong Zheng , Vu-Hoang Tran , Ching-Chun Huang
+  date: 2020-5-01
+  image: nan
+  publisher: IEEE International Conference on Acoustics, Speech, and Signal Processing
+    (ICASSP)
+  title: 'D2na: Day-To-Night Adaptation for Vision Based Parking Management System'
+  type: paper
+- authors: Hung Nguyen Manh, Ching-Chun Huang
+  date: '2019-10-01'
+  image: nan
+  publisher: IEEE International Conference on Systems, Man, and Cybernetics
+  title: A Robust Multi-Kinect 3D Skeleton Tracking Considering Left-Right Confusion
+    and Self-Occlusion
+  type: paper
+- authors: Hoang Tran Vu, and Ching-Chun Huang
+  date: '2019-10-01'
+  image: nan
+  publisher: IEEE International Conference on Systems, Man, and Cybernetics
+  title: Domain Adaptation Meets Disentangled Representation Learning and Style Transfer
+  type: paper
+- authors: Van Su Huynh, Vu Hoang Tran, Ching-Chun Huang
+  date: '2019-10-01'
+  image: nan
+  publisher: IEEE International Conference on Systems, Man, and Cybernetics
+  title: 'IUML: Inception U-Net Based Multi-Task Learning for Density Level Classification
+    and Crowd Density Estimation'
+  type: paper
+- authors: Tzu-Ying Chao, Manh-Hung Nguyen, Ching-Chun Huang
+  date: '2019-10-01'
+  image: nan
+  publisher: IEEE International Conference on Systems, Man, and Cybernetics
+  title: Online Learning for High Accuracy HVAC Control and Energy Saving
+  type: paper
+- authors: Van-Su Huynh, Vu Hoang Tran, Ching-Chun Huang
+  date: 2019-9-01
+  image: nan
+  publisher: IEEE International Conference on Image Processing
+  title: 'DAnet: Depth-Aware Network For Crowd Counting'
+  type: paper
+- authors: Ching-Chun Huang, Thanh-Phat Nguyen, Chen-Tung Lai
+  date: 2019-9-01
+  image: nan
+  publisher: 2019 IEEE International Conference on Image Processing (ICIP)
+  title: Multi-Channel Multi-Loss Deep Learning Based Compression Model for Color
+    Images
+  type: paper
+- authors: Ching-Chun Huang, Thanh-Phat Nguyen and Chen-Tung Lai
+  date: 2019-6-01
+  image: nan
+  publisher: CVPR Workshop and Challenge on Learned Image Compression
+  title: Learned Prior Information for Image Compression
+  type: paper
+- authors: Xin-Yu Huang, Meng-Shiun Tsai, and Ching-Chun Huang
+  date: 2019-5-01
+  image: nan
+  publisher: International Conference on Consumer Electronics - Taiwan (ICCE-TW)
+  title: 3D Virtual-Reality Interaction System
+  type: paper
+- authors: Tzung-Yan Tsai, Zhe-Yu Lu, and Ching-Chun Huang
+  date: 2019-5-01
+  image: nan
+  publisher: International Conference ICCon Consumer Electronics - Taiwan (ICCE-TW)
+  title: License Plate Recognition System Based on Deep Learning
+  type: paper
+- authors: You-Feng Wu, Hoang Tran Vu, Ching-Chun Huang
+  date: 2019-5-01
+  image: nan
+  publisher: 'Multimedia Analysis and
+
+
+    Pattern Recognition (MAPR)'
+  title: Semi-Supervised And Multi-Task Learning For On-Street Parking Space Status
+    Inference
+  type: paper
+- authors: Wei-Yuan Lin, Ching-Chun Huang, Hung Nguyen Manh and Nguyen Tran Duc
+  date: '2018-11-01'
+  image: nan
+  publisher: 'IEEE International Conference on Digital Signal
+
+    Processing'
+  title: Wi-Fi Indoor Localization based on Multi-Task Deep Learning
+  type: paper
+- authors: Thanh-Phat Nguyen, Hoang Tran Vu, and Ching-Chun Huang
+  date: '2018-10-01'
+  image: nan
+  publisher: 'IEEE International Conference on
+
+    Systems, Man, and Cybernetics'
+  title: Lane Detection and Tracking based on Fully Convolutional Networks and Probabilistic
+    Graphical Models
+  type: paper
+- authors: Wei-Yuan Lin, Ching-Chun Huang, Hung Nguyen Manh and Nguyen Tran Duc
+  date: 2018-8-01
+  image: nan
+  publisher: IEEE Vehicular Technology Society Asia Pacific Wireless Communications
+    Symposium
+  title: Deep Learning-based RSS Indoor Localization
+  type: paper
+- authors: Oscal Tzyh-Chiang Chen, Sung-Nien Yu, Ching-Chun Huang, Huang-Chen Lee,
+    Yu-Ling Hsueh, Jerry Chih-Yuan Sun
+  date: 2018-7-01
+  image: nan
+  publisher: 'IEEE International Conference on Multimedia
+
+    and Expo (ICME)'
+  title: Mobile Learning System With Context-Aware Interactions And Point-Of-Interest
+    Understanding
+  type: paper
+- authors: Po-Hsien Wang, Ting-Ying Wang, Ya-Chu Chang, and Ching-Chun Huang
+  date: 2018-5-01
+  image: nan
+  publisher: ' IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW)'
+  title: Immersive 3D Human-Computer Interaction System
+  type: paper
+- authors: Ching-Chun Huang, Yi-Ning Chuang, Atul Kumar
+  date: '2017-11-01'
+  image: nan
+  publisher: The 13th Asian Conference on Computer Aided Surgery
+  title: 3D Object Reconstruction based on Structure from Motion and Shape from Shading
+  type: paper
+- authors: Hoang Tran Vu, Ching-Chun Huang
+  date: 2017-9-01
+  image: nan
+  publisher: 2017 IEEE International Conference on Image Processing
+  title: A Multi-task Convolutional Neural Network with Spatial Transform for Parking
+    Space Detection
+  type: paper
+- authors: Yi-Ting Tsai, Shih-Jou Yu, Xin-Yen Chen, Oscal Tzyh-Chiang Chen, Jerry
+    Chih-Yuan Sun, Ching-Chun Huang
+  date: 2017-9-01
+  image: nan
+  publisher: International Conference on IoT as a Service
+  title: Personalized Mobile Learning System via Smart Glasses
+  type: paper
+- authors: Chingchun Huang, Wei-Chi Chang, and Hung Nguyen Manh
+  date: 2017-6-01
+  image: nan
+  publisher: 2017 IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW)
+  title: Unsupervised Radio Map Learning for Indoor Localization
+  type: paper
+- authors: Hsiang-Hui Hung, Huu-Phu Do, Yung-Hui Li, Ching-Chun Huang
+  date: 2016-8-01
+  image: nan
+  publisher: The 9th IEEE International Conference on Ubi-Media Computing
+  title: A Hybrid Method for Visitor Localization and Tracking in a Museum Environment
+  type: paper
+- authors: Ching-Chun Huang, Hung-Nguyen Manh, Yu-Shiun Wang
+  date: 2016-5-01
+  image: nan
+  publisher: 2016 IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW)
+  title: An Self-Adaptive Wireless Indoor Localization System for Device Diversity
+  type: paper
+- authors: Ching-Chun Huang, Ismail, Ming-Xun Cai, and Hoang Tran Vu
+  date: 2016-5-01
+  image: nan
+  publisher: 2016 IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW)
+  title: HDR Compression based on Image Matting Laplacian
+  type: paper
+- authors: Atul Kumar, Shih-Wei Huang, Yen-Yu Wang, Wan-Chi Hung, Kai-Che Liu, Chingchun
+    Huang
+  date: 2016-5-01
+  image: nan
+  publisher: 2016 IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW)
+  title: Laparoscopic video augmentation with infrared image information
+  type: paper
+- authors: Ching-Chun Huang and Hoang Tran Vu
+  date: 2015-9-01
+  image: nan
+  publisher: IEEE International Workshop on Machine Learning for Signal Processing
+  title: A Multi-layer Discriminative Framework for Parking Space Detection
+  type: paper
+- authors: Ching-Chun Huang, Hoang Tran Vu, and Yi-Ren Chen
+  date: 2015-8-01
+  image: nan
+  publisher: IPPR Conference on Computer Vision, Graphics, and Image Processing
+  title: Vacant Parking Space Detection based on a Hierarchical and Semantic Classifier
+  type: paper
+- authors: Ching-Chun Huang, Hoang Tran Vu, and Yi-Ren Chen
+  date: 2015-6-01
+  image: nan
+  publisher: IEEE International Conference on Consumer Electronics - Taiwan
+  title: A Multiclass Boosting Approach for Integrating Weak Classifiers in Parking
+    Space Detection
+  type: paper
+- authors: Hung-Nguyen Manh, Ching-Chun Huang , and Hsiao-Yi Lee
+  date: 2015-6-01
+  image: nan
+  publisher: IEEE International Conference on Consumer Electronics - Taiwan
+  title: A Region-Based Approach for RSS Indoor Localization
+  type: paper
+- authors: Hung-Nguyen Manh, Ching-Chun Huang , and Hsiao-Yi Lee
+  date: 2015-6-01
+  image: nan
+  publisher: 'IEEE International Conference on Consumer Electronics - Taiwan '
+  title: Auto-Calibration for Device-Diversity Problem in an Indoor Localization system
+  type: paper
+- authors: Atul Kumar, Yen-Yu Wang, Kai-Che Liu, Wan-Chi Hung, Shih-Wei Huang, Wen-Nung
+    Lie, Ching-Chun Huang
+  date: 2015-6-01
+  image: nan
+  publisher: IEEE International Conference on Consumer Electronics - Taiwan
+  title: Surface Reconstruction from Endoscopic Image Sequence
+  type: paper
+- authors: 'Ching-Chun Huang, Hoang Tran Vu, and Jeffrey Tang '
+  date: '2014-11-01'
+  image: nan
+  publisher: 2014 IEEE International Conference on Connected Vehicles & Expo
+  title: "Inter-Vehicle Communication, License Plate \n\nVerification, and Distance\
+    \ Estimation for the \n\nConstruction of Driving Surroundings"
+  type: paper
+- authors: Ching-Chun Huang, Yu-Shiun Wang, Wei-Li Huang, and Hung Nguyen Manh,
+  date: 2014-8-01
+  image: nan
+  publisher: IEEE Asia Pacific Wireless Communications Symposium,
+  title: Automatic Landmark-based RSS Compensation for Device Diversity in an Indoor
+    Positioning System
+  type: paper
+- authors: Ching-Chun Huang, Wei-Li Huang, and Hung Nguyen Manh
+  date: 2014-8-01
+  image: nan
+  publisher: IEEE Asia Pacific Wireless Communications Symposium
+  title: Multi-Dimension Kernel Density Estimation for RSS Based Indoor Localization
+  type: paper
+- authors: Ching-Chun Huang, Hung-Nguyen Manh, and Chen-Yu Tseng
+  date: 2014-5-01
+  image: nan
+  publisher: IEEE International Conference on Acoustics, Speech and Signal Processing
+  title: X-Ray Image Contrast Enhancement Based On Tissue Attenuation
+  type: paper
+- authors: Atul Kumar, Ching-Chun Huang Hung-Nguyen Manh,
+  date: 2014-4-01
+  image: nan
+  publisher: ' IEEE International Symposium on Bioelectronics and Bioinformatics'
+  title: Distinguishing Normal and Pulmonary Edema Chest X-Ray Using Gabor Filter
+    and SVM
+  type: paper
+- authors: Ching-Chun Huang, Hung-Nguyen Manh, Tai-Hwei Hwang
+  date: '2013-12-01'
+  image: nan
+  publisher: International Conference on Connected Vechicles & Expo
+  title: 'Vehicle Trajectory Prediction across Non-overlapping Camera Networks '
+  type: paper
+- authors: Ching-Chun Huang, Nguyen Manh Hung, and Atul Kumar
+  date: '2013-11-01'
+  image: nan
+  publisher: International conference on control automation & information sciences
+  title: A Hybrid Method for 3D Instrument Reconstruction and Tracking in Laparoscopy
+    Surgery
+  type: paper
+- authors: Ching-Chun Huang*, and De-Kai Huang
+  date: 2013-2-01
+  image: nan
+  publisher: IS&T/SPIE Electronic Imaging Symposium 2013
+  title: A Study of Non-diagonal Models for Image White Balance
+  type: paper
+- authors: 'Ching-Chun Huang*, Yu-Shu Dai and Sheng-Jyh Wang '
+  date: '2012-11-01'
+  image: nan
+  publisher: IEEE International Conference on ITS Telecommunications (ITST)
+  title: A Surface-based Vacant Space Detection for an Intelligent Parking Lot
+  type: paper
+- authors: ' Shih-Ming Huang, Ching-Chun Huang, Cheng-Chuan Chou,'
+  date: '2012-11-01'
+  image: nan
+  publisher: 'IEEE International Conference on ITS Telecommunications '
+  title: Image Registration among UAV Image Sequence and Google Satellite Image Under
+    Quality Mismatch
+  type: paper
+- authors: Ching-chun Huang*, Jay Choub, Jia-hau Shiub, Sheng-Jyh Wangb
+  date: 2012-1-01
+  image: nan
+  publisher: Proceeding of IS&T/SPIE Electronic Imaging
+  title: Multi-view Face Detection Based on Position Estimation over Multi-camera
+    Surveillance System
+  type: paper
+- authors: Ching-Chun Huang, Sheng-Jyh Wang
+  date: 2010-9-01
+  image: nan
+  publisher: IEEE International Conference on International Conference Image Processing
+  title: A Cascaded Hierarchical Framework for Moving Object Detection and Tracking
+  type: paper
+- authors: Ching-Chun Huang, Wei-Chen Chiu, Sheng-Jyh Wang, and Jen-Hui Chuang
+  date: 2010-8-01
+  image: nan
+  publisher: IEEE International Conference on Pattern Recognition
+  title: Probabilistic Modeling of Dynamic Traffic Flow across Non-overlapping Camera
+    Views
+  type: paper
+- authors: Ching-Chun Huang and Sheng-Jyh Wang
+  date: 2009-6-01
+  image: nan
+  publisher: IEEE International Conference on Multimedia and Expo
+  title: Moving Targets Labeling and Correspondence over Multi-Camera Surveillance
+    System Based on Markov Network
+  type: paper
+- authors: Arvind Kandhalu, Anthony Rowe, Ragunathan Rajkumar, Ching-Chun Huang, and
+    Chao-Chun Yeh
+  date: 2009-4-01
+  image: nan
+  publisher: IEEE International Real-Time and Embedded Technology and Applications
+    Symposium
+  title: Real-Time Video Surveillance over IEEE 802.11 Mesh Networks
+  type: paper
+- authors: Ching-Chun Huang and Sheng-Jyh Wang
+  date: 2008-8-01
+  image: nan
+  publisher: European Conference on Computer Vision (ECCV) Workshop on Multi-camera
+    and Multi-modal Sensor Fusion Algorithms and Application
+  title: A Monte Carlo Based Framework for Multi-Target Detection and Tracking Over
+    Multi-Camera Surveillance System
+  type: paper
+- authors: Ching-Chun Huang, Sheng-Jyh Wang, Yao-Jen Chang, and Tsuhan Chen
+  date: 2008-3-01
+  image: nan
+  publisher: IEEE International Conference on Acoustics, Speech, and Signal Processing
+    (
+  title: A Bayesian Hierarchical Detection Framework for Parking Space Detection
+  type: paper
+- authors: Ming-Yu Shih, Yao-Jen Chang, Bwo-Chau Fu, and Ching-Chun Huang
+  date: 2007-8-01
+  image: nan
+  publisher: First International Workshop on Multimedia Analysis and Processing
+  title: Motion-based Background Modeling for Moving Object Detection on Moving Platforms
+  type: paper
+- authors: Q. Wu, Ching-Chun Huang, S.Y. Wang, W.C. Chiu, and T. Chen
+  date: 2007-7-01
+  image: nan
+  publisher: IEEE International Conference on Multimedia and Expo
+  title: Robust Parking Space Detection Considering Inter-space Correlation
+  type: paper
+- authors: Ching-Chun Huang and Cheng Yi Liu
+  date: 2005-3-01
+  image: nan
+  publisher: Proceedings of SPIE
+  title: Novel Illumination-Normalization Method Based on Region Information
+  type: paper
+- authors: Y. H. Tsai and Ching-Chun Huang
+  date: '2003-11-01'
+  image: nan
+  publisher: Digital Image Computing - Techniques and Applications
+  title: Handheld Person Verification System Using Face Image
+  type: paper

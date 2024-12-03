@@ -1,0 +1,215 @@
+<style>
+    /* Container for the entire slider section including the title and slider itself */
+    .imageSlider .background {
+        width: 100%; /* Sets the width to fill the available space */
+        height: 100%; /* Sets the height to fill the available space*/
+        position: relative; /* Allows for absolute positioning of child elements */
+        display: flex; /* Enables flexbox layout */
+        flex-direction: column; /* Aligns items in a column (vertical stack) */
+        justify-content: center; /* Centers content vertically */
+        align-items: center; /* Centers content horizontally */
+    }
+
+    /* Styling for the title above the slider */
+    .imageSlider .slider-title {
+        font-size: 4rem; /* Large font size for the title */
+        margin-bottom: 20px; /* Space below the title */
+        font-weight: 600; /* Semi-bold font weight */
+    }
+
+    /* Main container for the slider - this holds the images and navigation buttons */
+    .imageSlider .slider-container {
+        position: relative; /* Allows for absolute positioning of navigation buttons */
+        width: 90%; /* Sets the slider width to 60% of the parent container */
+        /*max-width: 800px; /* Maximum width for larger screens */
+        overflow: hidden; /* Hides the overflow content (only one image is visible at a time) */
+        border-radius: 10px; /* Rounds the corners of the slider */
+        box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow for depth */
+    }
+
+    /* Flexbox container that holds all the slides */
+    .imageSlider .slider {
+        display: flex; /* Enables flexbox layout to line up slides horizontally */
+        transition: transform 0.4s ease-in-out; /* Smooth transition when sliding between images */
+    }
+
+    /* Each individual slide - takes up full width of the container */
+    .imageSlider .slide {
+        min-width: 100%; /* Each slide takes up 100% of the slider container's width */
+        height: 500px; /* Fixed height for each slide */
+        transition: transform 0.5s ease-in-out; /* Smooth transition when slides are changed */
+    }
+
+    /* Ensures that images fill the slide area while maintaining aspect ratio */
+    .imageSlider .slide img {
+        width: 100%; /* Image width matches the slide width */
+        height: 100%; /* Image height matches the slide height */
+        object-fit: cover; /* Images are scaled to cover the entire slide, cropping if necessary */
+        border-radius: 10px; /* Rounds the corners of the images to match the slider */
+    }
+
+    /* Common styling for both previous and next navigation buttons */
+    .imageSlider .prev, .next {
+        position: absolute; /* Absolute positioning within the slider container */
+        top: 50%; /* Centers the button vertically */
+        transform: translateY(-50%); /* Offsets the button position by half its height */
+        background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+        color: white; /* White color for the arrow icons */
+        border: none; /* Removes default button borders */
+        width: 40px; /* Fixed width for the buttons */
+        height: 40px; /* Fixed height for the buttons */
+        cursor: pointer; /* Changes the cursor to pointer on hover */
+        z-index: 10; /* Ensures buttons appear above the slider content */
+        border-radius: 50%; /* Makes the buttons round */
+        transition: background-color 0.3s ease; /* Smooth transition for background color on hover */
+        display: flex; /* Enables flexbox for centering the arrow inside the button */
+        justify-content: center; /* Centers arrow horizontally */
+        align-items: center; /* Centers arrow vertically */
+        padding: 0; /* Removes any default padding */
+    }
+
+    /* Positioning the previous button to the left */
+    .imageSlider .prev {
+        left: 10px; /* Positions the button 10px from the left edge */
+    }
+
+    /* Positioning the next button to the right */
+    .imageSlider .next {
+        right: 10px; /* Positions the button 10px from the right edge */
+    }
+
+    /* Hover effect for navigation buttons */
+    .imageSlider .prev:hover, .imageSlider .next:hover {
+        background-color: rgba(0, 0, 0, 0.8); /* Darkens the button background on hover */
+    }
+
+    /* Container for the dot indicators below the slider */
+    .imageSlider .dots-container {
+        margin-top: 20px; /* Space above the dots */
+        display: flex; /* Enables flexbox layout for horizontal alignment */
+        justify-content: center; /* Centers the dots horizontally */
+        align-items: center; /* Centers the dots vertically */
+    }
+
+    /* Common styling for each individual dot */
+    .imageSlider .dot {
+        height: 15px; /* Fixed height for the dots */
+        width: 15px; /* Fixed width for the dots */
+        margin: 0 5px; /* Spacing between the dots */
+        background-color: rgba(255, 255, 255, 0.5); /* Semi-transparent white background */
+        border-radius: 50%; /* Makes the dots round */
+        display: inline-block; /* Ensures dots are inline */
+        cursor: pointer; /* Changes cursor to pointer on hover */
+        transition: background-color 0.3s ease; /* Smooth transition for background color on hover */
+    }
+
+    /* Styling for the active dot - indicates the current slide */
+    .imageSlider .dot.active {
+        background-color: rgba(255, 255, 255, 1); /* Solid white background for the active dot */
+    }
+</style>
+
+<div class="imageSlider">    
+    <div class="background">
+        <div class="slider-container">
+            <div class="slider">
+                <div class="slide"><img src="images/homepage-banner/banner1.jpg" alt="Image 1"></div>
+                <div class="slide"><img src="images/homepage-banner/banner2.jpg" alt="Image 2"></div>
+                <div class="slide"><img src="images/homepage-banner/banner3.jpg" alt="Image 3"></div>
+                <div class="slide"><img src="images/homepage-banner/banner4.jpg" alt="Image 4"></div>
+                <div class="slide"><img src="images/homepage-banner/banner5.jpg" alt="Image 5"></div>
+                <div class="slide"><img src="images/homepage-banner/banner6.jpg" alt="Image 6"></div>
+            </div>
+            <button class="prev">&#10094;</button>
+            <button class="next">&#10095;</button>
+        </div>
+        <div class="dots-container">
+            <span class="dot" data-index="0"></span>
+            <span class="dot" data-index="1"></span>
+            <span class="dot" data-index="2"></span>
+            <span class="dot" data-index="3"></span>
+            <span class="dot" data-index="4"></span>
+            <span class="dot" data-index="5"></span>
+        </div>
+    </div>
+    <script>
+        // Reference: https://medium.com/@francesco.saviano87/creating-a-modern-responsive-image-slider-with-html-css-and-javascript-87a76be1a8d2
+
+        const slider = document.querySelector('.slider');
+        const slides = document.querySelectorAll('.slide');
+        const prevBtn = document.querySelector('.prev');
+        const nextBtn = document.querySelector('.next');
+        const dots = document.querySelectorAll('.dot');
+        const sliderContainer = document.querySelector('.slider-container');
+
+        let currentIndex = 0; // Tracks the current slide index
+        let autoSlideInterval; // Will hold the interval ID for auto-sliding
+
+        // Function to update the active dot indicator
+        function updateDots() {
+            dots.forEach((dot, index) => {
+                if (index === currentIndex) {
+                    dot.classList.add('active');
+                } else {
+                    dot.classList.remove('active');
+                }
+            });
+        }
+
+        // Function to display a specific slide based on the index
+        function showSlides(index) {
+            if (index >= slides.length) {
+                currentIndex = 0; // Reset to first slide if at the end
+            } else if (index < 0) {
+                currentIndex = slides.length - 1; // Go to last slide if at the beginning
+            } else {
+                currentIndex = index; // Otherwise, set to the provided index
+            }
+            slider.style.transform = `translateX(-${currentIndex * 100}%)`; // Slide transition
+            updateDots(); // Update the dots to reflect the current slide
+        }
+
+        // Function to move to the next slide
+        function nextSlide() {
+            showSlides(currentIndex + 1);
+        }
+
+        // Function to move to the previous slide
+        function prevSlide() {
+            showSlides(currentIndex - 1);
+        }
+
+        // Start the automatic sliding of images
+        function startAutoSlide() {
+            autoSlideInterval = setInterval(nextSlide, 4000); // Slide every 4 seconds
+        }
+
+        // Stop the automatic sliding
+        function stopAutoSlide() {
+            clearInterval(autoSlideInterval); // Clear the interval
+        }
+
+        // Add click event listeners to dots for direct slide navigation
+        dots.forEach(dot => {
+            dot.addEventListener('click', () => {
+                stopAutoSlide(); // Stop auto-slide when manually selecting a slide
+                showSlides(parseInt(dot.dataset.index)); // Show the selected slide
+                startAutoSlide(); // Restart auto-slide
+            });
+        });
+
+        // Add event listeners for navigation buttons
+        nextBtn.addEventListener('click', nextSlide);
+        prevBtn.addEventListener('click', prevSlide);
+
+        // Stop auto-slide when the mouse enters the slider container
+        sliderContainer.addEventListener('mouseover', stopAutoSlide);
+
+        // Restart auto-slide when the mouse leaves the slider container
+        sliderContainer.addEventListener('mouseout', startAutoSlide);
+
+        // Start auto-slide when the page loads
+        startAutoSlide();
+        updateDots(); // Initialize the dots
+    </script>
+</div>

@@ -1,0 +1,86 @@
+- title: Autonomous Vehicle
+  # subtitle: a subtitle
+  group: featured
+  image: images/research/autonomous_car.png
+  link: https://github.com/
+  description: autonomous vehicle surrounding, auto-vehicle multi-sensor fusion, neural architecture search
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
+
+- title: Image and Video Processing
+  # subtitle: a subtitle
+  group: featured
+  image: images/research/image_processing.jpg
+  link: https://github.com/
+  description: image enhancement, image generation, 3D generation, 3D editing, 3D synthesis
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
+
+- title: Document Processing
+  # subtitle: a subtitle
+  group: featured
+  image: images/research/document.png
+  link: https://github.com/
+  description: handwritten text recognition/generation
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
+
+- title: Natural Language Processing
+  # subtitle: a subtitle
+  group: featured
+  image: images/research/vqa.png
+  link: https://github.com/
+  description: visual question answering/generation, video understanding
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
+
+# - title: Smart Traffic
+#   subtitle: a subtitle
+#   group: featured
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Parking Lot system, Automatic Management of Roadside Parking Spaces based on Deep Learning, Geomagnetic Sensor Networks, and LoRa Communication, Autonomous vehicle - lane detection, Autonomous vehicle - Depth completion
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - resource
+
+# - title: Image Processing
+#   subtitle: a subtitle
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - resource
+#     - publication
+
+# - title: Computer Vision
+#   subtitle: a subtitle
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - software
+
+# - title: Wireless Communication
+#   subtitle: a subtitle
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - software
+
+# - title: Control and Sensor
+#   subtitle: a subtitle
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - software
