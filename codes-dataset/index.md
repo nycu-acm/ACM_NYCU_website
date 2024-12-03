@@ -5,6 +5,8 @@ nav:
   tooltip: Musings and miscellany
 ---
 
+<meta http-equiv="refresh" content="0; url=https://github.com/nycu-acm/" />
+
 {% include section.html background="images/background.jpg" dark=true %}
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
