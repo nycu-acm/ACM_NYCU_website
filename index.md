@@ -5,7 +5,13 @@ nav:
   tooltip: Homepage
 ---
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html dark=true %}
+
+{% capture lorem %}
+ACM 2025 Recruitment for Internship / Master / Ph.D. program / Full-time researcher is open! [Join us](join-us)
+{% endcapture %}
+{% capture content %}**Announcement:** {{ lorem }}{% endcapture %}
+{% include alert.html type="info" content=content %}
 
 {% include img-slideshow.html %}
 
