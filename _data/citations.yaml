@@ -241,6 +241,7 @@
   title: Enhancing Anchor-based Weakly Supervised Referring Expression Comprehension
     with Cross-Modality Attention
   type: paper
+  link: https://openaccess.thecvf.com/content/ACCV2024/papers/Chu_Enhancing_Anchor-based_Weakly_Supervised_Referring_Expression_Comprehension_with_Cross-Modality_Attention_ACCV_2024_paper.pdf
   plugin: sources.py
   file: sources.yaml
 - authors: Ta Chun Tai, Nhat-Tuong Do-Tran, Ngoc-Hoang-Lam Le, Yung-Hui Li, Ching-Chun
@@ -261,6 +262,7 @@
   publisher: Asian Conference on Computer Vision 2024 (ACCV 2024)
   title: Blind Super Resolution with Reference Images and Implicit Degradation Representation
   type: paper
+  link: https://openaccess.thecvf.com/content/ACCV2024/html/Do_Blind_Super_Resolution_with_Reference_Images_and_Implicit_Degradation_Representation_ACCV_2024_paper.html
   plugin: sources.py
   file: sources.yaml
 - authors: Hsiang-Hui Hung, Huu-Phu Do, Yung-Hui Li, Ching-Chun Huang
@@ -331,6 +333,7 @@
   title: 'Best of Both Worlds: Learning Arbitrary-scale Blind Super-Resolution via
     Dual Degradation Representations and Cycle-Consistency'
   type: paper
+  link: https://ieeexplore.ieee.org/document/10484031
   plugin: sources.py
   file: sources.yaml
 - authors: Cheng Huang, Yi-Lun Wu, Hong-Han Shuai, Ching-Chun Huang
@@ -340,6 +343,7 @@
   title: 'Semantic Fusion Augmentation and Semantic Boundary Detection: A Novel Approach
     to Multi-Target Video Moment Retrieval'
   type: paper
+  link: https://ieeexplore.ieee.org/document/10484101
   plugin: sources.py
   file: sources.yaml
 - authors: Yi Ting Tsai, Yu Wei Chen, Hong-Han Shuai, Ching-Chun Huang
