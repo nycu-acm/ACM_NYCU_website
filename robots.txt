@@ -1,1 +1,1 @@
-Sitemap: http://acm.cs.nycu.edu.tw/sitemap.xml
+Sitemap: https://nycu-acm.github.io/ACM_NYCU_website/sitemap.xml
