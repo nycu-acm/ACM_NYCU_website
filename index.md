@@ -107,8 +107,9 @@ Our lab members attend ACM Multimedia 2024 with the work "TimeNeRF: Building Gen
 %}
 {% endcapture %}
 
-
 {% include cols.html col1=col1 col2=col2 %}
+
+<!--- Highlight 3 -->
 
 ### ECCV 2024, here we come!
 Our lab members with the work "DetailSemNet: Elevating Signature Verification with Captured Details and Semantics by Feature Disentanglement and Re-entanglement".
@@ -132,6 +133,10 @@ Our lab members with the work "DetailSemNet: Elevating Signature Verification wi
 {% endcapture %} -->
 
 {% include cols.html col1=col1 %}
+
+<!-- Video -->
+### Professor had an interview to introduce our parking lot system.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G3acoF0FLWw?si=kUxyuAlQX-jLzoE5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <!--- END HIGHLIGHT -->
 
