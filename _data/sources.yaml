@@ -208,7 +208,7 @@
 - authors: Huu-Phu Do, Po-Chih Hu, Hao-Chien Hsueh, Che-Kai Liu, Vu-Hoang Tran, Ching-Chun
     Huang
   date: 2024-9-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 14_02_01-Blind Super Resolution with Reference Images and Implicit Degradation Representa.jpg'
   publisher: Asian Conference on Computer Vision 2024 (ACCV 2024)
   title: Blind Super Resolution with Reference Images and Implicit Degradation Representation
   type: paper
@@ -232,7 +232,7 @@
   type: paper
 - authors: Zhi-Yi Chin, Chieh Ming Jiang, Ching-Chun Huang, Pin-Yu Chen, Wei-Chen Chiu
   date: '2024-12-01'
-  image: https://github.com/joycenerd/P4D/raw/main/figure/teaser.png
+  image: images/international-conferences/Prompting4Debugging.png
   publisher: 2024 International Conference On Machine Learning (ICML)
   title: 'Prompting4Debugging: Red-Teaming Text-to-Image Diffusion Models by Finding
     Problematic Prompts'
@@ -263,7 +263,7 @@
   link: https://ieeexplore.ieee.org/document/10647237
 - authors: Shao-Yu Weng, Hsuan Yuan, Yu-Syuan Xu, Ching-Chun Huang, Wei-Chen Chiu
   date: 2024-1-01
-  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10483279/10483282/10484031/weng1-p10-weng-large.jpg
+  image: 'images/international-conferences/2024-12-04 14_05_05-Best of Both Worlds_ Learning Arbitrary-scale Blind Super-Resolution via Dual De.jpg'
   publisher: 2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
   title: 'Best of Both Worlds: Learning Arbitrary-scale Blind Super-Resolution via
     Dual Degradation Representations and Cycle-Consistency'
@@ -271,7 +271,7 @@
   link: https://ieeexplore.ieee.org/document/10484031
 - authors: Cheng Huang, Yi-Lun Wu, Hong-Han Shuai, Ching-Chun Huang
   date: 2024-1-01
-  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10483279/10483282/10484101/huang1-p10-huang-large.jpg
+  image: 'images/international-conferences/2024-12-04 14_04_46-Semantic Fusion Augmentation and Semantic Boundary Detection_ A Novel Approach t.jpg'
   publisher: 2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
   title: 'Semantic Fusion Augmentation and Semantic Boundary Detection: A Novel Approach
     to Multi-Target Video Moment Retrieval'
@@ -279,7 +279,7 @@
   link: https://ieeexplore.ieee.org/document/10484101
 - authors: Yi Ting Tsai, Yu Wei Chen, Hong-Han Shuai, Ching-Chun Huang
   date: 2024-1-01
-  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10483279/10483282/10483821/tsai1-p10-tsai-large.jpg
+  image: 'images/international-conferences/2024-12-04 14_04_27-Arbitrary-Resolution and Arbitrary-Scale Face Super-Resolution With Implicit Rep.jpg'
   publisher: 2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
   title: Arbitrary-Resolution and Arbitrary-Scale Face Super-Resolution with Implicit
     Representation Networks
@@ -288,7 +288,7 @@
 - authors: Zhi-Yi Chin, Chieh-Ming Jiang, Ching-Chun Huang, Pin-Yu Chen, Wei-Chen
     Chiu
   date: 2024-1-01
-  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10483279/10483282/10483950/chin1-p10-chin-large.jpg
+  image: 'images/international-conferences/2024-12-04 14_04_15-Masking Improves Contrastive Self-Supervised Learning for ConvNets, and Saliency.jpg'
   publisher: 2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
   title: Masking Improves Contrastive Self-Supervised Learning for ConvNets, and Saliency
     Tells You Where
