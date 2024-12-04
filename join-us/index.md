@@ -56,7 +56,7 @@ Become a part of our collaborative and forward-thinking research community. At o
 
 {% endcapture %}
 
-<!-- {% include cols.html col1=col1 col2=col2 %} -->
+{% include cols.html col1=col1 col2=col2 %}
 
 <!-- {% include section.html dark=true %} -->
 

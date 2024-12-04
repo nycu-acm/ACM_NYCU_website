@@ -294,15 +294,6 @@
     Tells You Where
   type: paper
   link: https://openaccess.thecvf.com/content/WACV2024/papers/Chin_Masking_Improves_Contrastive_Self-Supervised_Learning_for_ConvNets_and_Saliency_Tells_WACV_2024_paper.pdf
-- authors: Zhi-Yi Chin, Chieh-Ming Jiang, Ching-Chun Huang, Pin-Yu Chen, Wei-Chen
-    Chiu
-  date: '2023-11-01'
-  image: https://github.com/joycenerd/P4D/raw/main/figure/teaser.png
-  publisher: International Conference on Machine Learning
-  title: 'Prompting4Debugging: Red-Teaming Text-to-Image Diffusion Models by Finding
-    Problematic Prompts'
-  type: paper
-  link: https://arxiv.org/abs/2309.06135
 - authors: Hsin-Ju Lin, Tsu-Chun Chung, Ching-chun Hsiao, Pin-Yu Chen, Wei-Chen Chiu,
     Ching-Chun Huang
   date: '2023-10-01'
@@ -428,7 +419,7 @@
 - authors: Tso-Yuan Chen, Ching-Chun Hsiao, Wen-Huang Cheng, Hong-Han Shuai , Peter
     Chen, Ching-Chun Huang
   date: '2021-12-01'
-  image: nan
+  image: 'images/international-conferences/2024-12-04 17_04_40-DensER_ Density-imbalance-Eased Representation for LiDAR-based Whole Scene Upsam.jpg'
   publisher: ' IEEE International Conference on Visual Communications and Image Processing
     (VCIP)'
   title: 'DensER: Density-imbalance-Eased Representation for LiDAR-based Whole Scene
@@ -437,7 +428,7 @@
   link: https://ieeexplore.ieee.org/document/9675334
 - authors: Yan-An Chen, Ching-Chun Hsiao, Wen-Hsiao Peng, Ching-Chun Huang
   date: '2021-12-01'
-  image: nan
+  image: 'images/international-conferences/2024-12-04 17_04_22-DIRECT_ Discrete Image Rescaling with Enhancement from Case-specific Textures _ .jpg'
   publisher: ' IEEE International Conference on Visual Communications and Image Processing
     (VCIP)'
   title: 'DIRECT: Discrete Image Rescaling with Enhancement from Case-specific Textures'
@@ -446,7 +437,7 @@
 - authors: Stanley (Yan-Cheng Huang), Julie (Yi-Hsin Chen), Cheng-You Lu, Hui-Po Wang,
     Wen-Hsiao Peng, Ching-Chun Huang (順序待確認)
   date: 2021-6-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 17_04_53-Video Rescaling Networks With Joint Optimization Strategies for Downscaling and .jpg'
   publisher: CVPR2021
   title: Video Rescaling Networks with Joint Optimization Strategies for Downscaling
     and Upscaling
@@ -462,7 +453,7 @@
   link: https://ieeexplore.ieee.org/document/9412152/
 - authors: You-Feng Wu,Vu-Hoang Tran,Ting-Wei Chang,Wei-Chen Chiu,Ching-Chun Huang
   date: 2021-1-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 17_04_59-DEN_ Disentangling and Exchanging Network for Depth Completion _ IEEE Conference.jpg'
   publisher: IEEE International Conference on Pattern Recognition
   title: 'DEN: Disentangling and Exchanging Network for Depth Completion'
   type: paper
@@ -479,14 +470,14 @@
 - authors: Chung-Sheng Lai, Zunzhi You, Ching-Chun Huang, Yi-Hsuan Tsai, Wei-Chen
     Chiu
   date: 2020-8-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 17_05_29-Colorization of Depth Map via Disentanglement.jpg'
   publisher: 16th European Conference on Computer Vision(ECCV)
   title: Colorization of Depth Map via Disentanglement
   type: paper
   link: https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520443.pdf
 - authors: Wei-Zhong Zheng , Vu-Hoang Tran , Ching-Chun Huang
   date: 2020-5-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 17_06_06-D2NA_ Day-To-Night Adaptation for Vision based Parking Management System _ IEEE .jpg'
   publisher: IEEE International Conference on Acoustics, Speech, and Signal Processing
     (ICASSP)
   title: 'D2na: Day-To-Night Adaptation for Vision Based Parking Management System'
@@ -502,14 +493,14 @@
   link: https://scholar.nycu.edu.tw/en/publications/a-robust-multi-kinect-3d-skeleton-tracking-considering-left-right
 - authors: Hoang Tran Vu, and Ching-Chun Huang
   date: '2019-10-01'
-  image: nan
+  image: 'images/international-conferences/2024-12-04 17_06_35-Domain Adaptation Meets Disentangled Representation Learning and Style Transfer.jpg'
   publisher: IEEE International Conference on Systems, Man, and Cybernetics
   title: Domain Adaptation Meets Disentangled Representation Learning and Style Transfer
   type: paper
   link: https://arxiv.org/abs/1712.09025
 - authors: Van Su Huynh, Vu Hoang Tran, Ching-Chun Huang
   date: '2019-10-01'
-  image: nan
+  image: 'images/international-conferences/2024-12-04 17_06_21-Iuml_ Inception U-Net Based Multi-Task Learning For Density Level Classification.jpg'
   publisher: IEEE International Conference on Systems, Man, and Cybernetics
   title: 'IUML: Inception U-Net Based Multi-Task Learning for Density Level Classification
     and Crowd Density Estimation'
@@ -524,14 +515,14 @@
   link: https://www.researchgate.net/publication/337643394_Online_Self-learning_for_Smart_HVAC_Control
 - authors: Van-Su Huynh, Vu Hoang Tran, Ching-Chun Huang
   date: 2019-9-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 17_07_10-DAnet_ Depth-Aware Network for Crowd Counting _ IEEE Conference Publication _ IE.jpg'
   publisher: IEEE International Conference on Image Processing
   title: 'DAnet: Depth-Aware Network For Crowd Counting'
   type: paper
   link: https://ieeexplore.ieee.org/document/8804413
 - authors: Ching-Chun Huang, Thanh-Phat Nguyen, Chen-Tung Lai
   date: 2019-9-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 17_07_15-Multi-Channel Multi-Loss Deep Learning Based Compression Model for Color Images .jpg'
   publisher: 2019 IEEE International Conference on Image Processing (ICIP)
   title: Multi-Channel Multi-Loss Deep Learning Based Compression Model for Color
     Images
@@ -539,28 +530,28 @@
   link: https://ieeexplore.ieee.org/abstract/document/8803487
 - authors: Ching-Chun Huang, Thanh-Phat Nguyen and Chen-Tung Lai
   date: 2019-6-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 17_07_30-Learned Prior Information for Image Compression and 2 more pages - [InPrivate] -.jpg'
   publisher: CVPR Workshop and Challenge on Learned Image Compression
   title: Learned Prior Information for Image Compression
   type: paper
   link: https://openaccess.thecvf.com/content_CVPRW_2019/papers/CLIC%202019/Chun_Learned_Prior_Information_for_Image_Compression_CVPRW_2019_paper.pdf
 - authors: Xin-Yu Huang, Meng-Shiun Tsai, and Ching-Chun Huang
   date: 2019-5-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 17_07_58-3D Virtual-Reality Interaction System _ IEEE Conference Publication _ IEEE Xplor.jpg'
   publisher: International Conference on Consumer Electronics - Taiwan (ICCE-TW)
   title: 3D Virtual-Reality Interaction System
   type: paper
   link: https://ieeexplore.ieee.org/document/8991800
 - authors: Tzung-Yan Tsai, Zhe-Yu Lu, and Ching-Chun Huang
   date: 2019-5-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 17_08_08-License Plate Recognition System Based on Deep Learning _ IEEE Conference Public.jpg'
   publisher: International Conference ICCon Consumer Electronics - Taiwan (ICCE-TW)
   title: License Plate Recognition System Based on Deep Learning
   type: paper
   link: https://ieeexplore.ieee.org/document/8991985
 - authors: You-Feng Wu, Hoang Tran Vu, Ching-Chun Huang
   date: 2019-5-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 17_07_39-Semi-Supervised and Multi-Task Learning for On-Street Parking Space Status Infer.jpg'
   publisher: 'Multimedia Analysis and
 
 
@@ -571,7 +562,7 @@
   link: https://ieeexplore.ieee.org/document/8743537
 - authors: Wei-Yuan Lin, Ching-Chun Huang, Hung Nguyen Manh and Nguyen Tran Duc
   date: '2018-11-01'
-  image: nan
+  image: 'images/international-conferences/2024-12-04 17_08_39-Wi-Fi Indoor Localization based on Multi-Task Deep Learning _ IEEE Conference Pu.jpg'
   publisher: 'IEEE International Conference on Digital Signal
 
     Processing'
@@ -580,7 +571,7 @@
   link: https://ieeexplore.ieee.org/document/8631868
 - authors: Thanh-Phat Nguyen, Hoang Tran Vu, and Ching-Chun Huang
   date: '2018-10-01'
-  image: nan
+  image: 'images/international-conferences/2024-12-04 17_08_29-Lane Detection and Tracking Based on Fully Convolutional Networks and Probabilis.jpg'
   publisher: 'IEEE International Conference on
 
     Systems, Man, and Cybernetics'
@@ -598,7 +589,7 @@
 - authors: Oscal Tzyh-Chiang Chen, Sung-Nien Yu, Ching-Chun Huang, Huang-Chen Lee,
     Yu-Ling Hsueh, Jerry Chih-Yuan Sun
   date: 2018-7-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 17_08_59-Mobile Learning System with Context-Aware Interactions and Point-of-Interest Und.jpg'
   publisher: 'IEEE International Conference on Multimedia
 
     and Expo (ICME)'
@@ -608,7 +599,7 @@
   link: https://ieeexplore.ieee.org/document/8551571
 - authors: Po-Hsien Wang, Ting-Ying Wang, Ya-Chu Chang, and Ching-Chun Huang
   date: 2018-5-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 17_08_55-Immersive 3D Human-Computer Interaction System _ IEEE Conference Publication _ I.jpg'
   publisher: ' IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW)'
   title: Immersive 3D Human-Computer Interaction System
   type: paper
@@ -621,7 +612,7 @@
   type: paper
 - authors: Hoang Tran Vu, Ching-Chun Huang
   date: 2017-9-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 17_09_33-A multi-task convolutional neural network with spatial transform for parking spa.jpg'
   publisher: 2017 IEEE International Conference on Image Processing
   title: A Multi-task Convolutional Neural Network with Spatial Transform for Parking
     Space Detection
@@ -637,7 +628,7 @@
   link: https://www.researchgate.net/publication/328339045_Personalized_Mobile_Learning_System_via_Smart_Glasses_Third_International_Conference_IoTaaS_2017_Taichung_Taiwan_September_20-22_2017_Proceedings
 - authors: Chingchun Huang, Wei-Chi Chang, and Hung Nguyen Manh
   date: 2017-6-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 17_09_27-Unsupervised radio map learning for indoor localization _ IEEE Conference Public.jpg'
   publisher: 2017 IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW)
   title: Unsupervised Radio Map Learning for Indoor Localization
   type: paper
@@ -650,14 +641,14 @@
   type: paper
 - authors: Ching-Chun Huang, Hung-Nguyen Manh, Yu-Shiun Wang
   date: 2016-5-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 17_10_11-An self-adaptive wireless indoor localization system for device diversity _ IEEE.jpg'
   publisher: 2016 IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW)
   title: An Self-Adaptive Wireless Indoor Localization System for Device Diversity
   type: paper
   link: https://ieeexplore.ieee.org/document/7520998/
 - authors: Ching-Chun Huang, Ismail, Ming-Xun Cai, and Hoang Tran Vu
   date: 2016-5-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 17_10_21-HDR compression based on image matting Laplacian _ IEEE Conference Publication _.jpg'
   publisher: 2016 IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW)
   title: HDR Compression based on Image Matting Laplacian
   type: paper
@@ -665,28 +656,28 @@
 - authors: Atul Kumar, Shih-Wei Huang, Yen-Yu Wang, Wan-Chi Hung, Kai-Che Liu, Chingchun
     Huang
   date: 2016-5-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 17_10_36-Laparoscopic video augmentation with infrared image information _ IEEE Conferenc.jpg'
   publisher: 2016 IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW)
   title: Laparoscopic video augmentation with infrared image information
   type: paper
   link: https://ieeexplore.ieee.org/document/7521061
 - authors: Ching-Chun Huang and Hoang Tran Vu
   date: 2015-9-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 17_10_56-A multi-layer discriminative framework for parking space detection _ IEEE Confer.jpg'
   publisher: IEEE International Workshop on Machine Learning for Signal Processing
   title: A Multi-layer Discriminative Framework for Parking Space Detection
   type: paper
   link: https://ieeexplore.ieee.org/document/7324376
 - authors: Ching-Chun Huang, Hoang Tran Vu, and Yi-Ren Chen
   date: 2015-8-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 17_05_14-Vacant Parking Space Detection based on Task Consistency and Reinforcement Learn.jpg'
   publisher: IPPR Conference on Computer Vision, Graphics, and Image Processing
   title: Vacant Parking Space Detection based on a Hierarchical and Semantic Classifier
   type: paper
   link: https://www.researchgate.net/publication/302056353_Vacant_Parking_Space_Detection_Based_on_a_Multilayer_Inference_Framework
 - authors: Ching-Chun Huang, Hoang Tran Vu, and Yi-Ren Chen
   date: 2015-6-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 17_11_51-A multiclass boosting approach for integrating weak classifiers in parking space.jpg'
   publisher: IEEE International Conference on Consumer Electronics - Taiwan
   title: A Multiclass Boosting Approach for Integrating Weak Classifiers in Parking
     Space Detection
@@ -694,14 +685,14 @@
   link: https://ieeexplore.ieee.org/document/7216918
 - authors: Hung-Nguyen Manh, Ching-Chun Huang , and Hsiao-Yi Lee
   date: 2015-6-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 17_11_30-A region-based approach for RSS indoor localization _ IEEE Conference Publicatio.jpg'
   publisher: IEEE International Conference on Consumer Electronics - Taiwan
   title: A Region-Based Approach for RSS Indoor Localization
   type: paper
   link: https://ieeexplore.ieee.org/document/7217041
 - authors: Hung-Nguyen Manh, Ching-Chun Huang , and Hsiao-Yi Lee
   date: 2015-6-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 17_11_25-Auto-calibration for device-diversity problem in an indoor localization system _.jpg'
   publisher: 'IEEE International Conference on Consumer Electronics - Taiwan '
   title: Auto-Calibration for Device-Diversity Problem in an Indoor Localization system
   type: paper
@@ -709,14 +700,14 @@
 - authors: Atul Kumar, Yen-Yu Wang, Kai-Che Liu, Wan-Chi Hung, Shih-Wei Huang, Wen-Nung
     Lie, Ching-Chun Huang
   date: 2015-6-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 17_11_19-Surface reconstruction from endoscopic image sequence _ IEEE Conference Publicat.jpg'
   publisher: IEEE International Conference on Consumer Electronics - Taiwan
   title: Surface Reconstruction from Endoscopic Image Sequence
   type: paper
   link: https://ieeexplore.ieee.org/document/7216967
 - authors: 'Ching-Chun Huang, Hoang Tran Vu, and Jeffrey Tang '
   date: '2014-11-01'
-  image: nan
+  image: 'images/international-conferences/2024-12-04 17_12_09-The construction of driving surroundings.  _ Download Scientific Diagram and 2 m.jpg'
   publisher: 2014 IEEE International Conference on Connected Vehicles & Expo
   title: "Inter-Vehicle Communication, License Plate \n\nVerification, and Distance\
     \ Estimation for the \n\nConstruction of Driving Surroundings"
@@ -732,21 +723,21 @@
   link: http://140.123.13.69/user/568?Journal=4
 - authors: Ching-Chun Huang, Wei-Li Huang, and Hung Nguyen Manh
   date: 2014-8-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 17_12_24-RSS-Based Indoor Positioning Based on Multi-Dimensional Kernel Modeling and Weig.jpg'
   publisher: IEEE Asia Pacific Wireless Communications Symposium
   title: Multi-Dimension Kernel Density Estimation for RSS Based Indoor Localization
   type: paper
   link: https://ieeexplore.ieee.org/document/7397867
 - authors: Ching-Chun Huang, Hung-Nguyen Manh, and Chen-Yu Tseng
   date: 2014-5-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 17_13_05-X-ray imaeg contrast enhancement based on tissue attenuation _ IEEE Conference P.jpg'
   publisher: IEEE International Conference on Acoustics, Speech and Signal Processing
   title: X-Ray Image Contrast Enhancement Based On Tissue Attenuation
   type: paper
   link: https://ieeexplore.ieee.org/document/6854877
 - authors: Atul Kumar, Ching-Chun Huang Hung-Nguyen Manh,
   date: 2014-4-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 17_13_13-Distinguishing normal and pulmonary edema chest x-ray using Gabor filter and SVM.jpg'
   publisher: ' IEEE International Symposium on Bioelectronics and Bioinformatics'
   title: Distinguishing Normal and Pulmonary Edema Chest X-Ray Using Gabor Filter
     and SVM
