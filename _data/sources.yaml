@@ -190,7 +190,7 @@
   type: paper
 - authors: Ting-Yu Chu, Yong-Xiang Lin, Ching-Chun Huang, Kai-Lung Hua
   date: 2024-1-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 15_30_15-Enhancing Anchor-based Weakly Supervised Referring Expression Comprehension with.jpg'
   publisher: Asian Conference on Computer Vision 2024 (ACCV 2024)
   title: Enhancing Anchor-based Weakly Supervised Referring Expression Comprehension
     with Cross-Modality Attention
@@ -232,7 +232,7 @@
   type: paper
 - authors: Zhi-Yi Chin, Chieh Ming Jiang, Ching-Chun Huang, Pin-Yu Chen, Wei-Chen Chiu
   date: '2024-12-01'
-  image: images/international-conferences/Prompting4Debugging.png
+  image: images/international-conferences/Prompting4Debugging.jpg
   publisher: 2024 International Conference On Machine Learning (ICML)
   title: 'Prompting4Debugging: Red-Teaming Text-to-Image Diffusion Models by Finding
     Problematic Prompts'
@@ -306,7 +306,7 @@
 - authors: Hsin-Ju Lin, Tsu-Chun Chung, Ching-chun Hsiao, Pin-Yu Chen, Wei-Chen Chiu,
     Ching-Chun Huang
   date: '2023-10-01'
-  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10341341/10341342/10342419/10342419-fig-2-source-small.jpg
+  image: 'images/international-conferences/2024-12-04 15_31_51-Multilingual tExt detectioN TOward leaRning by analogy.jpg'
   publisher: 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems
     (IROS)
   title: 'MENTOR: Multilingual tExt detectioN TOward leaRning by analogy'
@@ -316,7 +316,7 @@
     University of Technology and Education, Vietnam); Ching-Chun Huang (National Yang
     Ming Chiao Tung University, Taiwan)
   date: '2023-10-01'
-  image: nan
+  image: 'images/international-conferences/2024-12-04 15_31_34-A Reliable Feature-Based Framework for Vehicle Tracking in Advanced Driver Assis.jpg'
   publisher: 2023 Asia Pacific Signal and Information Processing Association Annual
     Summit and Conference (APSIPA ASC)
   title: A Reliable Feature-Based Framework for Vehicle Tracking in Advanced Driver
@@ -327,7 +327,7 @@
     of Technology and Education, Vietnam); Ching-Chun Huang (National Yang Ming Chiao
     Tung University, Taiwan)
   date: '2023-10-01'
-  image: nan
+  image: 'images/international-conferences/2024-12-04 15_30_44-From Synthetic To Real_ Enhancing Deep Learning Models With Generative Adversari.jpg'
   publisher: 2023 Asia Pacific Signal and Information Processing Association Annual
     Summit and Conference (APSIPA ASC)
   title: 'From Synthetic to Real: Enhancing Deep Learning Models with Generative Adversarial
@@ -344,7 +344,7 @@
   link: https://scholar.nycu.edu.tw/en/publications/efficient-constraint-aware-neural-architecture-search-for-object-
 - authors: Wing Ho Tang, Hsuan Yuan, Tzu-Hao Chiang, Ching-Chun Huang
   date: 2023-5-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 15_32_17-Zero-LEINR_ Zero-Reference Low-light Image Enhancement with Intrinsic Noise Redu.jpg'
   publisher: ' 2023 IEEE International Symposium on Circuits & Systems(ISCAS)'
   title: 'ZERO-LEINR: ZERO-Reference LOW-Light Image Enhancement with Intrinsic Noise
     Reduction'
@@ -352,7 +352,7 @@
   link: https://ieeexplore.ieee.org/document/10181743
 - authors: Chien-Heng Yu, Ching-Chun Huang
   date: 2023-1-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 15_32_55-Incremental Map Modeling for Lightweight SLAM via Deep Reinforcement Learning _ .jpg'
   publisher: '2023 IEEE International Conference on Consumer Electronics (ICCE) '
   title: Incremental Map Modeling for Lightweight SLAM via Deep Reinforcement Learning
   type: paper
@@ -360,14 +360,14 @@
 - authors: Yu-Ming Hu, Jia-Jin Xie, Hong-Han Shuai, Ching-Chun Huang, I-Fan Chou,
     Wen-Huang Cheng (鄭文皇老師為corresponding author)
   date: 2023-1-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 15_32_35-Dynamic Feature Fusion for Visual Object Detection and Segmentation _ IEEE Confe.jpg'
   publisher: '2023 IEEE International Conference on Consumer Electronics (ICCE) '
   title: Dynamic Feature Fusion for Visual Object Detection and Segmentation
   type: paper
   link: https://ieeexplore.ieee.org/document/10043439
 - authors: Ching-Hung Cheng, Jing-Wen Chen, Ching-Chun Huang
   date: 2023-1-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 15_32_43-Disentanglement-Based Multi-Vehicle Detection and Tracking for Gate-Free Parking.jpg'
   publisher: '2023 IEEE International Conference on Consumer Electronics (ICCE) '
   title: Disentanglement-Based Multi-Vehicle Detection and Tracking for Gate-Free
     Parking Lot Management
@@ -375,7 +375,7 @@
   link: https://ieeexplore.ieee.org/document/10043379
 - authors: Van-Tin Luu, Vu-Hoang Tran, Egor Poliakov, Ching-Chun Huang
   date: 2023-1-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 15_32_11-D2D_ Divide to Detect, A Scale-Aware Framework for On-Road Object Detection Usin.jpg'
   publisher: '2023 IEEE International Conference on Consumer Electronics (ICCE) '
   title: 'D2D: Divide to Detect, A Scale-Aware Framework for On-Road Object Detection
     Using IR Camera'
@@ -384,7 +384,7 @@
 - authors: Ming-Jen Chang, Chih-Jen Cheng, Ching-Chun Hsiao, I-Fan Chou, Ching-Chun
     Huang
   date: '2022-11-01'
-  image: nan
+  image: 'images/international-conferences/2024-12-04 15_36_45-Distance-dependent Feature Alignment and Selection for Imbalance 3D Point Cloud .jpg'
   publisher: 2022 IEEE International Conference on Advanced Video and Signal-Based
     Surveillance(2022AVSS)
   title: Distance-dependent Feature Alignment and Selection for Imbalance 3D Point
@@ -393,7 +393,7 @@
   link: https://ieeexplore.ieee.org/document/9959572
 - authors: Yu Hsuan Li, Tzu-Yin Chao, Ching-Chun Huang, Pin-Yu Chen, Wei-Chen Chiu
   date: '2022-11-01'
-  image: nan
+  image: 'images/international-conferences/2024-12-04 15_33_24-Make an Omelette with Breaking Eggs.jpg'
   publisher: '(NeurIPS 2022)
 
     Thirty-sixth Conference on Neural Information Processing Systems'
@@ -403,7 +403,7 @@
   link: https://arxiv.org/abs/2111.14182
 - authors: Chia-Wei Kuo, Yi-Ting Tsai, Hong-Han Shuai, Yi-Ren Yeh, Ching-Chun Huang
   date: '2022-10-01'
-  image: nan
+  image: 'images/international-conferences/2024-12-04 15_37_05-Towards Understanding Cross Resolution Feature Matching for Surveillance Face Re.jpg'
   publisher: ACM International Conference on Multimedia (ACM MM 2022)
   title: Towards Understanding Cross Resolution Feature Matching for Surveillance
     Face Recognition
@@ -411,7 +411,7 @@
   link: https://dl.acm.org/doi/10.1145/3503161.3548402
 - authors: Egor Poliakov, Van-Tin Luu, Vu-Hoang Tran, Ching-Chun Huang
   date: 2022-7-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 15_37_36-Model Compression via Structural Pruning and Feature Distillation for Accurate M.jpg'
   publisher: IEEE International Conference on Multimedia & Expo  (ICME2022)
   title: Model compression via structural pruning and feature distillation for accurate
     multi-spectral object detection on edge-devices
@@ -419,7 +419,7 @@
   link: https://ieeexplore.ieee.org/document/9859994
 - authors: Ting-Wei Chang, Wei-Chen Chiu, Ching-Chun Huang
   date: 2022-5-01
-  image: nan
+  image: 'images/international-conferences/2024-12-04 15_37_27-Find The Way Back_ Invertible Kernel Estimator For Blind Image Super-Resolution .jpg'
   publisher: 2022 IEEE International Conference on Acoustics, Speech and Signal Processing(ICASSP
     2022)
   title: 'Find the way back: Invertible kernel estimator for blind image super resolution'
