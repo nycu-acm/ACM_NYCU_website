@@ -2,7 +2,7 @@
 title: Research
 nav:
   order: 3
-  tooltip: Software, datasets, and more
+  tooltip: Our research directions
 ---
 
 {% include section.html background="images/pages-title-background/research.png" dark=true %}
