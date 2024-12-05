@@ -2,7 +2,7 @@
 title: Join us
 nav:
   order: 7
-  tooltip: Email, address, and location
+  tooltip: Our contact information
 ---
 
 {% include section.html background="images/pages-title-background/joinus.jpg" dark=true %}

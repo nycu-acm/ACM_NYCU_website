@@ -2,7 +2,7 @@
 title: Team
 nav:
   order: 2
-  tooltip: About our team
+  tooltip: About our members
 ---
 
 {% include section.html background="images/pages-title-background/team.jpg" dark=true %}
