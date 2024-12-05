@@ -28,7 +28,7 @@ Become a part of our collaborative and forward-thinking research community. At o
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  text="EC118, Engineering Building 3, NYCU Guangfu Campus"
+  text="EC129, Engineering Building 3, NYCU Guangfu Campus"
   link="https://maps.app.goo.gl/GwHsfWVduyaE4DCMA"
 %}
 
