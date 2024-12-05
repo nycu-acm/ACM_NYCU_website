@@ -8,7 +8,7 @@ nav:
 {% include section.html background="images/pages-title-background/publications.jpg" dark=true %}
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-Our laboratory actively contributes to the scientific community through a range of peer-reviewed publications, showcasing our latest research advancements in [specific field or research focus], and fostering innovation in Applied Computing and Multimedia.
+Our laboratory actively contributes to the scientific community through a range of peer-reviewed publications, showcasing our latest research advancements, and fostering innovation in Applied Computing and Multimedia.
 
 {%
   include button.html
