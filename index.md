@@ -44,7 +44,7 @@ Besides, we also try to build an international environment in our lab, you may f
 {% include section.html %}
 
 ## Highlights
-<will edit soon>
+will edit soon
 
 <!-- Video -->
 ### Professor had an interview to introduce our parking lot system.

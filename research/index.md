@@ -8,17 +8,22 @@ nav:
 {% include section.html background="images/pages-title-background/research.png" dark=true %}
 # {% include icon.html icon="fa-solid fa-wrench" %}Research
 
+{% include tags.html tags="publication, resource, website" %}
 
-{% include section.html background="images/pages-title-background/joinus.jpg" dark=true %}
-# {% include icon.html icon="fa-regular fa-envelope" %}Honors
-
-Become a part of our collaborative and forward-thinking research community. At our lab, we are dedicated to pushing the boundaries of science and discovery. 
+{% include search-info.html %}
 
 {% include section.html %}
+## Research Direction
 
-{% include list.html data="posts" component="post-excerpt" %}
+{% include list.html component="card" data="projects" filters="group: featured" %}
 
 {% include section.html %}
+## Latest News
+
+{% include list.html data="posts" component="post-excerpt" style="small" %}
+
+{% include section.html %}
+## Honors
 
 | Number | Record | Year | 
 | :----: | :----: | :----: |
@@ -49,19 +54,6 @@ Become a part of our collaborative and forward-thinking research community. At o
 | 3 | 2010 (NCTU Department of Electronics Engineering) Best PhD Dissertation Award (交通大學電子系博士論文優良獎) | 2010 |
 | 2 | 2009 IPPR Conference on Computer Vision, Graphics ,and Image Processing Good Paper Award (2009 CVGIP 佳作論文獎) | 2009 |
 | 1 | 2003 ITRI ICL Journal Best Paper Award (工業技術研究員論文優良獎) | 2003 |
-
-
-{% include tags.html tags="publication, resource, website" %}
-
-{% include search-info.html %}
-
-{% include section.html %}
-
-## Research Direction
-
-{% include list.html component="card" data="projects" filters="group: featured" %}
-
-{% include section.html %}
 
 <!-- ## More
 
