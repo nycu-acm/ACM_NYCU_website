@@ -1,6 +1,28 @@
 ---
-title: Example post 2
+title: We are at ACM Multimedia 2024!
+image: images/homepage-highlight/2024_ACM_MULTIMEDIA_1.jpg
 author: jane-smith
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+<!--- Highlight 2 -->
+Our lab members attend ACM Multimedia 2024 with the work "TimeNeRF: Building Generalizable Neural Radiance Fields across Time from Few-Shot Input Views".
+
+{% capture col1 %}
+{%
+  include figure.html
+  image="images/homepage-highlight/2024_ACM_MULTIMEDIA_1.jpg"
+  caption=""
+  link="team"
+%}
+{% endcapture %}
+
+{% capture col2 %}
+{%
+  include figure.html
+  image="images/homepage-highlight/2024_ACM_MULTIMEDIA_2.jpg"
+  caption=""
+  link="team"
+%}
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
