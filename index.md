@@ -43,8 +43,8 @@ Besides, we also try to build an international environment in our lab, you may f
 
 {% include section.html %}
 
-## Highlights
-will edit soon
+## Latest News
+{% include list.html data="posts" component="post-excerpt" style="small" %}
 
 <!-- Video -->
 ### Professor had an interview to introduce our parking lot system.
