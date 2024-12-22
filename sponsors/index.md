@@ -28,7 +28,7 @@ Our sponsors are integral to our success, empowering us to pursue bold, high-imp
 
 {%
   include figure.html
-  image="images/sponsors-logo/ALLRING.jpg"
+  image="images/sponsors-logo/Allring.jpg"
   link="http://www.allring-tech.com.tw/eng/"
 %}
 
@@ -82,7 +82,7 @@ Our sponsors are integral to our success, empowering us to pursue bold, high-imp
 
 {%
   include figure.html
-  image="images/sponsors-logo/GARMIN.png"
+  image="images/sponsors-logo/garmin.png"
 %}
 
 {% endcapture %}
