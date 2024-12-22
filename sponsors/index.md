@@ -40,7 +40,7 @@ Our sponsors are integral to our success, empowering us to pursue bold, high-imp
 
 {%
   include figure.html
-  image="images/sponsors-logo/NSC.png"
+  image="images/sponsors-logo/NSTC.png"
   link="http://web1.nsc.gov.tw/"
 %}
 
