@@ -28,49 +28,49 @@ Our sponsors are integral to our success, empowering us to pursue bold, high-imp
 
 {%
   include figure.html
-  image="images/sponsors-logo/Allring.jpg"
+  image="images/sponsors-logo/ALLRING.jpg"
   link="http://www.allring-tech.com.tw/eng/"
 %}
 
 {%
   include figure.html
-  image="images/sponsors-logo/HON.png"
+  image="images/sponsors-logo/HONEYWELL.png"
   link="https://www.twincn.com/item.aspx?no=11845104"
 %}
 
 {%
   include figure.html
-  image="images/sponsors-logo/National.png"
+  image="images/sponsors-logo/NSC.png"
   link="http://web1.nsc.gov.tw/"
 %}
 
 {%
   include figure.html
-  image="images/sponsors-logo/P-Square.jpg"
+  image="images/sponsors-logo/PSQUARE.jpg"
   link="http://www.p2-positioning.com/"
 %}
 
 {%
   include figure.html
-  image="images/sponsors-logo/CHUNG_SHAN.jpg"
+  image="images/sponsors-logo/CHUNGSHAN_INSTITUTE.jpg"
   link="http://www.ncsist.org.tw/eng/csistdup/main/Default.aspx"
 %}
 
 {%
   include figure.html
-  image="images/sponsors-logo/E_sun.png"
+  image="images/sponsors-logo/ESUN.jpg"
   link="https://www.esunbank.com.tw/bank/corporate/institution/institution/contact-us"
 %}
 
 {%
   include figure.html
-  image="images/sponsors-logo/ircad_france_couleur_moyen.png"
+  image="images/sponsors-logo/IRCAD.png"
   link="http://aits.tw/"
 %}
 
 {%
   include figure.html
-  image="images/sponsors-logo/Tsmc.svg.png"
+  image="images/sponsors-logo/TSMC.png"
   link="http://www.tsmc.com/english/default.htm"
 %}
 
@@ -82,7 +82,7 @@ Our sponsors are integral to our success, empowering us to pursue bold, high-imp
 
 {%
   include figure.html
-  image="images/sponsors-logo/garmin.png"
+  image="images/sponsors-logo/GARMIN.png"
 %}
 
 {% endcapture %}
