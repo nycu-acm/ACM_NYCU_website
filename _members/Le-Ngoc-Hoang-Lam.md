@@ -3,17 +3,12 @@ name: Le Ngoc Hoang Lam
 image: images/members/312540020.jpg 
 role: master
 aliases:
-  - hoang lam le ngoc
+  - Ngoc-Hoang-Lam Le
 links:
-  home-page: https://example.com/
-  email: example@cs.nycu.edu.tw
-  phone: 
-  orcid: 0000-0000-0000-000
-  google-scholar: abcdefgAAAAJ
-  youtube: watch?v=ABCDEF0FLWw
-  facebook:
-  instagram:
-  linkedin:
-  github:
+  email: lengochoanglam.ee12@nycu.edu.tw
+  orcid: 0009-0006-9004-7698
+  google-scholar: 5xFNBH4AAAAJ
+  facebook: LamLeHB
+  linkedin: le-ngoc-hoang-lam-43869a323
+  github: YaosuLee
 ---
-# Your text goes here
