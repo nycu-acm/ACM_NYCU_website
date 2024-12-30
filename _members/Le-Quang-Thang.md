@@ -17,16 +17,12 @@ links:
 
 ## Links
 
-- **[Home Page]**
 - **Email:** lqthang2000.ee12@nycu.edu.tw
 - **Phone:** +886 972 904 124
-- **ORCID:** 
 - **Google Scholar:** https://scholar.google.com/citations?user=q-K4DDgAAAAJ&hl=en
-- **YouTube:** 
 
 ## Social Media
 
 - **Facebook:** https://www.facebook.com/lequangthang.001/
 - **Instagram:** https://www.instagram.com/thangquanglee/
 - **LinkedIn:** https://www.linkedin.com/in/le-quang-thang-8a7906211/ 
-- **GitHub:** 

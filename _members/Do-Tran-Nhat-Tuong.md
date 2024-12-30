@@ -10,7 +10,7 @@ links:
   phone: +886-981-376-855
   orcid: 0009-0000-7900-1564
   google-scholar: UUT7AlUAAAAJ
-  youtube: @otrannhattuong8158
+  youtube: '@otrannhattuong8158'
   facebook: tuong.do.735
   instagram: tuong0205
   linkedin: nhat-tuong-do-tran-631215251

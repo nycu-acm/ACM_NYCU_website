@@ -1,5 +1,5 @@
 ---
-name: Doan Ngoc Phu 
+name: 段玉富 Doan Ngoc Phu 
 image: images/members/313540012.jpg 
 role: master
 aliases:
