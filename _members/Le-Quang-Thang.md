@@ -13,13 +13,7 @@ links:
   instagram: thangquanglee
   linkedin: le-quang-thang-8a7906211
 ---
-# 黎光勝 (Le Quang Thang)
-
-![Le Quang Thang](images/members/312540011.jpg)
-
-**Role:** Master  
-**Aliases:**  
-- Quang Thang Le  
+# 黎光勝 (Le Quang Thang)  
 
 ## Links
 
