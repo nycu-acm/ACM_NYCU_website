@@ -1,7 +1,7 @@
 ---
 name: Ngo Duy Khanh 
 image: images/members/313540018.jpg 
-role: master
+role: current-master
 aliases:
   - duy khanh ngo
 links:

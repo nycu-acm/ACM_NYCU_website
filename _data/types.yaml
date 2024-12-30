@@ -18,25 +18,25 @@ postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
 
-phd:
+current-phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
-undergrad:
-  icon: fa-solid fa-user-graduate
-  description: Undergraduate Student
-
-master:
+current-master:
   icon: fa-solid fa-user-graduate
   description: Master Student
 
-alumni-undergraduate:
+current-undergrad:
   icon: fa-solid fa-user-graduate
-  description: Undergraduate Alumni
+  description: Undergraduate Student
 
 alumni-master:
   icon: fa-solid fa-user-graduate
   description: Master Alumni
+
+alumni-undergraduate:
+icon: fa-solid fa-user-graduate
+description: Undergraduate Alumni
 
 programmer:
   icon: fa-solid fa-code

@@ -1,7 +1,7 @@
 ---
 name: 吳秉宸 Wu,Bing-Chen 
 image: images/members/312554013.jpg 
-role: master
+role: current-master
 aliases:
   - bing chen wu
 links:

@@ -1,7 +1,7 @@
 ---
 name: 陳道亭 Tao-Ting Chen
 image: images/members/313605010.jpg
-role: master
+role: current-master
 aliases:
   - tao ting chen
 links:

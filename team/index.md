@@ -21,11 +21,11 @@ Our team consists of passionate scientists, postdocs, and students who work toge
 
 ## PhD students
 
-{% include list.html data="members" component="portrait" filters="role: phd" %}
+{% include list.html data="members" component="portrait" filters="role: current-phd" %}
 
 ## Master students
 
-{% include list.html data="members" component="portrait" filters="role: master" %}
+{% include list.html data="members" component="portrait" filters="role: current-master" %}
 
 ## Former Master students
 
