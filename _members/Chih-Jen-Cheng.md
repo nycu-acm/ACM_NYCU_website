@@ -1,7 +1,7 @@
 ---
 name: 鄭智仁 Chih-Jen Cheng 
 image: images/members/0856640.jpg 
-role: formerMem
+role: alumni-master
 aliases:
   - chih jen cheng
 links:

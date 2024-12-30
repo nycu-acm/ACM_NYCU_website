@@ -1,7 +1,7 @@
 ---
 name: 葉彥谷 Ye Yan-Gu (Ricky)
 image: images/members/313581027.jpg
-role: master
+role: current-master
 aliases:
   - yan gu ye
 links:

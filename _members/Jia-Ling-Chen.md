@@ -1,7 +1,7 @@
 ---
 name: 陳佳伶 Jia Ling Chen
 image: images/members/413551017.jpg 
-role: phd
+role: current-phd
 aliases:
   - jia ling chen
 links:

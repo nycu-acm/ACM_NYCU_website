@@ -1,7 +1,7 @@
 ---
 name: Egor 
 image: images/members/acm003.jpg 
-role: formerMem
+role: alumni-master
 aliases:
   - egor
 links:
