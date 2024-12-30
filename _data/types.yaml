@@ -8,7 +8,7 @@ prof:
 
 co-ad:
   icon: fa-solid fa-microscope
-  description: Co-Advisor
+  description: Co-Advisor, Former PhD Student
 
 formerMem:
   icon: fa-solid fa-user-group
@@ -29,6 +29,14 @@ undergrad:
 master:
   icon: fa-solid fa-user-graduate
   description: Master Student
+
+alumni-undergraduate:
+  icon: fa-solid fa-user-graduate
+  description: Undergraduate Alumni
+
+alumni-master:
+  icon: fa-solid fa-user-graduate
+  description: Master Alumni
 
 programmer:
   icon: fa-solid fa-code

@@ -1,7 +1,7 @@
 ---
 name: 洪偉捷 Hung Wei Jie 
 image: images/members/310553021.jpg 
-role: formerMem
+role: alumni-master
 aliases:
   - wei jie hung
 links:

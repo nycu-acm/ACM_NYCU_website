@@ -15,7 +15,7 @@ Our team consists of passionate scientists, postdocs, and students who work toge
 
 {% include list.html data="members" component="portrait" filters="role: prof" %}
 
-## Co-Advisor
+## Co-Advisors
 
 {% include list.html data="members" component="portrait" filters="role: co-ad" %}
 
@@ -26,6 +26,14 @@ Our team consists of passionate scientists, postdocs, and students who work toge
 ## Master students
 
 {% include list.html data="members" component="portrait" filters="role: master" %}
+
+## Former Master students
+
+{% include list.html data="members" component="portrait" filters="role: alumni-master" %}
+
+## Former Undergraduate students
+
+{% include list.html data="members" component="portrait" filters="role: alumni-undergraduate" %}
 
 ## Former Members
 
