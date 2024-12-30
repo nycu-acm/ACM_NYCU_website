@@ -20,7 +20,7 @@ nav:
 {% include section.html %}
 ## Latest News
 
-{% include list.html data="posts" component="post-excerpt" style="small" %}
+{% include list.html data="posts" component="post-excerpt" filters="tags: research-activity" %}
 
 {% include section.html %}
 ## Honors

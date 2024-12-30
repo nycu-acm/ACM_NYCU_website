@@ -48,8 +48,9 @@ Besides, we also try to build an international environment in our lab, you may f
 
 <!-- Video -->
 ### Professor had an interview to introduce our parking lot system.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G3acoF0FLWw?si=kUxyuAlQX-jLzoE5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<div style=".video { aspect-ratio: 16 / 9; width: 100%; }">
+  <iframe class="video" src="https://www.youtube.com/embed/G3acoF0FLWw?si=kUxyuAlQX-jLzoE5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 <!--- END HIGHLIGHT -->
 
 <!--- START 'ABOUT US' -->
