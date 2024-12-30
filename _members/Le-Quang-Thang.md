@@ -5,15 +5,28 @@ role: master
 aliases:
   - quang thang le
 links:
-  home-page: https://example.com/
-  email: example@cs.nycu.edu.tw
-  phone: 
+  email: lqthang2000.ee12@nycu.edu.tw
+  phone: +886-972-904-124
   orcid: 0000-0000-0000-000
-  google-scholar: abcdefgAAAAJ
-  youtube: watch?v=ABCDEF0FLWw
-  facebook:
-  instagram:
-  linkedin:
-  github:
+  google-scholar: q-K4DDgAAAAJ
+  facebook: lequangthang.001
+  instagram: thangquanglee
+  linkedin: le-quang-thang-8a7906211
 ---
-# Your text goes here
+# 黎光勝 (Le Quang Thang)  
+
+## Links
+
+- **[Home Page]**
+- **Email:** lqthang2000.ee12@nycu.edu.tw
+- **Phone:** +886 972 904 124
+- **ORCID:** 
+- **Google Scholar:** https://scholar.google.com/citations?user=q-K4DDgAAAAJ&hl=en
+- **YouTube:** 
+
+## Social Media
+
+- **Facebook:** https://www.facebook.com/lequangthang.001/
+- **Instagram:** https://www.instagram.com/thangquanglee/
+- **LinkedIn:** https://www.linkedin.com/in/le-quang-thang-8a7906211/ 
+- **GitHub:** 
