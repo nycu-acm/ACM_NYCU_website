@@ -225,6 +225,14 @@
   link: https://ieeexplore.ieee.org/document/5604282
   plugin: sources.py
   file: sources.yaml
+- authors: Hao-Chien Hsueh, Wen-Hsiao Peng, Ching-Chun Huang
+  date: '2025-01-31'
+  image: images/international-conferences/warm-diffusion.jpg
+  publisher: 2025 International Conference on Learning Representations (ICLR)
+  title: 'Warm Diffusion: Recipe for Blur-Noise Mixture Diffusion Models'
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
 - authors: Shao-Hao Lu, Ren Wang, Ching-Chun Huang, Wei-Chen Chiu
   date: '2025-01-01'
   image: https://raw.githubusercontent.com/ryanlu2240/Boosting-Diffusion-Guidance-via-Learning-Degradation-Aware-Models-for-Blind-Super-Resolution/refs/heads/master/input/celebA/HR/00006.jpg
