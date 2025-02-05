@@ -33,6 +33,13 @@ Become a part of our collaborative and forward-thinking research community. At o
 %}
 
 {% include section.html %}
+## More info
+* [NYCU Admission for International Students](https://oia.nycu.edu.tw/oia/en/app/folder/781)
+* [Taiwan Experience Education Program (TEEP)](https://teep.studyintaiwan.org/program/273)
+
+{% include section.html %}
+## Life at ACM Lab
+{% include list.html data="posts" component="post-excerpt" filters="tags: internal-activity" %}
 
 {% capture col1 %}
 
@@ -57,13 +64,3 @@ Become a part of our collaborative and forward-thinking research community. At o
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html %}
-## More info
-* [NYCU Admission for International Students](https://oia.nycu.edu.tw/oia/en/app/folder/781)
-* [Taiwan Experience Education Program (TEEP)]https://teep.studyintaiwan.org/program/273
-
-{% include section.html dark=true %}
-## Life at ACM Lab
-{% include list.html data="posts" component="post-excerpt" filters="tags: internal-activity" %}
-
