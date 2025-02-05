@@ -1,7 +1,7 @@
 ---
 name: Le Ngoc Hoang Lam 
 image: images/members/312540020.jpg 
-role: master
+role: current-master
 aliases:
   - Ngoc-Hoang-Lam Le
 links:

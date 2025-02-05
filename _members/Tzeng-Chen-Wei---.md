@@ -1,7 +1,7 @@
 ---
 name: 曾晨維 Tzeng Chen Wei    
 image: images/members/403415066.jpg 
-role: formerMem
+role: alumni-undergraduate
 aliases:
   - chen wei tzeng
 links:

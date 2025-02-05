@@ -1,7 +1,7 @@
 ---
 name: 段玉富 Doan Ngoc Phu 
 image: images/members/313540012.jpg 
-role: master
+role: current-master
 aliases:
   - ngoc phu doan
 links:

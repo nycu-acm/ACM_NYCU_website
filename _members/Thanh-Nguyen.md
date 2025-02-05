@@ -1,7 +1,7 @@
 ---
 name: 青原 Thanh Nguyen 
 image: images/members/313540022.jpg 
-role: master
+role: current-master
 aliases:
   - thanh nguyen
 links:
