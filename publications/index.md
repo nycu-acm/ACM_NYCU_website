@@ -24,7 +24,12 @@ Our laboratory actively contributes to the scientific community through a range 
   link="publications/#international-journals"
 %}
 
-
+{%
+  include button.html
+  type="link"
+  text="Invention Patents"
+  link="publications/#invention-patents"
+%}
 
 {% include section.html %}
 
@@ -46,4 +51,10 @@ Our laboratory actively contributes to the scientific community through a range 
 
 {% include list.html data="citations" component="citation" style="rich" filters="type: journal" %}
 
+## Invention Patents
 
+{% include search-box.html %}
+
+{% include search-info.html %}
+
+{% include list.html data="citations" component="citation" style="rich" filters="type: invention" %}

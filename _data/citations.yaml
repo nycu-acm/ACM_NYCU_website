@@ -1142,3 +1142,167 @@
   link: https://staff.itee.uq.edu.au/lovell/aprs/dicta2003/pdf/0859.pdf
   plugin: sources.py
   file: sources.yaml
+- authors: "\u9EC3\u656C\u7FA4\u3001\u912D\u666F\u958E\u3001\u9673\u9756\u96EF"
+  date: '2025-02-09'
+  description: nan
+  publisher: "\u570B\u7ACB\u967D\u660E\u4EA4\u901A\u5927\u5B78"
+  title: "\u7528\u65BC\u7121\u67F5\u6B04\u505C\u8ECA\u5834\u7684\u591A\u8ECA\u8F1B\
+    \u8FFD\u8E64\u65B9\u6CD5\u53CA\u7CFB\u7D71"
+  type: invention
+  plugin: sources.py
+  file: sources.yaml
+- authors: "\u9EC3\u656C\u7FA4\u3001\u8D99\u6893\u541F\u3001\u962E\u731B\u96C4"
+  date: '2023-05-21'
+  description: I802958
+  publisher: "\u570B\u7ACB\u967D\u660E\u4EA4\u901A\u5927\u5B78"
+  title: "\u505C\u8ECA\u5834\u7A7A\u4F4D\u5075\u6E2C\u65B9\u6CD5\u53CA\u7CFB\u7D71"
+  type: invention
+  plugin: sources.py
+  file: sources.yaml
+- authors: "\u9673\u4FE1\u9298\u3001\u5468\u9038\u51E1\u3001\u6797\u591A\u5E38\u3001\
+    \u9EC3\u656C\u7FA4\u3001\u912D\u667A\u4EC1"
+  date: '2022-01-01'
+  description: nan
+  publisher: "\u4E2D\u83EF\u96FB\u4FE1"
+  title: "\u5177\u5099\u8DDD\u96E2\u9069\u61C9\u6027\u4E4B\u5FEB\u901F\u5149\u9054\
+    \u9EDE\u96F2\u7269\u4EF6\u5075\u6E2C\u6280\u8853"
+  type: invention
+  plugin: sources.py
+  file: sources.yaml
+- authors: "\u9EC3\u656C\u7FA4\u3001\u8D99\u6893\u541F\u3001\u738B\u69AE\u9032\u3001\
+    \u7F85\u6642\u9E92\u3001\u937E\u632F\u6B66\u3001\u6881\u5065\u653F"
+  date: '2020-07-27'
+  description: I746087
+  publisher: "\u5167\u653F\u90E8\u5EFA\u7BC9\u7814\u7A76\u6240"
+  title: "\u7A7A\u8ABF\u7CFB\u7D71\u63A7\u5236\u65B9\u6CD5"
+  type: invention
+  plugin: sources.py
+  file: sources.yaml
+- authors: "\u9EC3\u656C\u7FA4\u3001\u5F6D\u5B50\u7FCA\u3001\u962E\u9752\u767C"
+  date: '2020-05-21'
+  description: I694019
+  publisher: "\u570B\u7ACB\u4E2D\u6B63\u5927\u5B78"
+  title: "\u8ECA\u9053\u7DDA\u5075\u6E2C\u8207\u8FFD\u8E64\u65B9\u6CD5"
+  type: invention
+  plugin: sources.py
+  file: sources.yaml
+- authors: "\u9EC3\u656C\u7FA4,\u9673\u6B66\u9EC3,\u912D\u5F18\u6607"
+  date: '2019-02-21'
+  description: I651697
+  publisher: "\u570B\u7ACB\u4E2D\u6B63\u5927\u5B78"
+  title: "\u505C\u8ECA\u5834\u7A7A\u4F4D\u5075\u6E2C\u53CA\u5176\u5075\u6E2C\u6A21\
+    \u578B\u5EFA\u7ACB\u65B9\u6CD5"
+  type: invention
+  plugin: sources.py
+  file: sources.yaml
+- authors: Ching-Chun Huang, Tran Vu Hoang, Hung-Sheng Cheng
+  date: '2018-06-01'
+  description: 16/005898
+  publisher: "\u570B\u7ACB\u4E2D\u6B63\u5927\u5B78"
+  title: Method For Establishing A Parking Space Detection Model And Method Of Detecting
+    Parking Spaces For A Parking Lot
+  type: invention
+  plugin: sources.py
+  file: sources.yaml
+- authors: "\u9EC3\u656C\u7FA4,\u9673\u7FA9\u4EC1"
+  date: '2017-02-01'
+  description: I569234
+  publisher: "\u570B\u7ACB\u4E2D\u6B63\u5927\u5B78"
+  title: "\u6236\u5916\u505C\u8ECA\u5834\u7A7A\u4F4D\u81EA\u52D5\u5075\u6E2C\u65B9\
+    \u6CD5"
+  type: invention
+  plugin: sources.py
+  file: sources.yaml
+- authors: "\u9EC3\u656C\u7FA4 ; \u9EC3\u5049\u7ACB ; \u738B\u6631\u52DB"
+  date: '2016-08-01'
+  description: I546557
+  publisher: "\u570B\u7ACB\u4E2D\u6B63\u5927\u5B78"
+  title: "\u5B9A\u4F4D\u65B9\u6CD5"
+  type: invention
+  plugin: sources.py
+  file: sources.yaml
+- authors: "\u9EC3\u656C\u7FA4, \u738B\u8056\u667A"
+  date: '2015-07-01'
+  description: I492188
+  publisher: "\u570B\u7ACB\u4EA4\u901A\u5927\u5B78"
+  title: "\u5229\u7528\u591A\u651D\u5F71\u6A5F\u81EA\u52D5\u5075\u6E2C\u8207\u8FFD\
+    \u8E64\u591A\u76EE\u6A19\u7684\u65B9\u6CD5\u53CA\u7CFB\u7D71"
+  type: invention
+  plugin: sources.py
+  file: sources.yaml
+- authors: "\u9EC3\u656C\u7FA4, \u738B\u8056\u667A"
+  date: '2015-03-01'
+  description: '8995712'
+  publisher: "\u570B\u7ACB\u4EA4\u901A\u5927\u5B78"
+  title: Method for automatic detection and tracking of multiple targets with multiple
+    cameras and system therefor
+  type: invention
+  plugin: sources.py
+  file: sources.yaml
+- authors: "\u9EC3\u656C\u7FA4;\u5F35\u8000\u4EC1;\u5433\u745E\u6210;\u5B98\u632F\u9D6C"
+  date: '2012-07-01'
+  description: I368176
+  publisher: "\u8CA1\u5718\u6CD5\u4EBA\u5DE5\u696D\u6280\u8853\u7814\u7A76\u9662"
+  title: "\u5F71\u50CF\u5F0F\u4E4B\u7A7A\u4F4D\u5075\u6E2C\u7CFB\u7D71\u8207\u65B9\
+    \u6CD5"
+  type: invention
+  plugin: sources.py
+  file: sources.yaml
+- authors: Ching-Chun Huang, Yao-Jen Chang, Ruei-Cheng Wu, and Cheng-Peng Kuan
+  date: '2011-11-01'
+  description: '8059864'
+  publisher: "\u5DE5\u696D\u6280\u8853\u7814\u7A76\u9662"
+  title: System and Method of Image-Based Space Detection
+  type: invention
+  plugin: sources.py
+  file: sources.yaml
+- authors: Ching-chun Huang, and Yao-Jen Chang
+  date: '2011-09-01'
+  description: I348659
+  publisher: "\u5DE5\u696D\u6280\u8853\u7814\u7A76\u9662"
+  title: "\u7269\u4EF6\u5075\u6E2C\u8207\u8FFD\u8E64\u7684\u65B9\u6CD5\u8207\u7CFB\
+    \u7D71"
+  type: invention
+  plugin: sources.py
+  file: sources.yaml
+- authors: Ching-Chun Huang, and Yao-Jen Chang
+  date: '2011-04-01'
+  description: '7929730'
+  publisher: "\u5DE5\u696D\u6280\u8853\u7814\u7A76\u9662"
+  title: Method and System for Object Detection and Tracking
+  type: invention
+  plugin: sources.py
+  file: sources.yaml
+- authors: Chingchun Huang, Yao-Jen Chang
+  date: '2007-11-01'
+  description: ZL200710182315.2
+  publisher: "\u5DE5\u696D\u6280\u8853\u7814\u7A76\u9662"
+  title: A parking space detection method
+  type: invention
+  plugin: sources.py
+  file: sources.yaml
+- authors: Ching-chun Huang, Yao-Jen Chang, Ruei-Cheng Wu, and Cheng-Peng Kuan
+  date: '2007-10-01'
+  description: ZL200710169282.8
+  publisher: "\u5DE5\u696D\u6280\u8853\u7814\u7A76\u9662"
+  title: Cooperated object detection and tracking architecture based on probability
+    model
+  type: invention
+  plugin: sources.py
+  file: sources.yaml
+- authors: Chingchun Huang, and Yao-Hong Tsai
+  date: '2005-11-01'
+  description: '7263241'
+  publisher: "\u5DE5\u696D\u6280\u8853\u7814\u7A76\u9662"
+  title: Region based illumination- normalization method and system
+  type: invention
+  plugin: sources.py
+  file: sources.yaml
+- authors: Chingchun Huang, and Yao-Hong Tsai
+  date: '2005-11-01'
+  description: I245229
+  publisher: "\u5DE5\u696D\u6280\u8853\u7814\u7A76\u9662"
+  title: Region based illumination- normalization method and system
+  type: invention
+  plugin: sources.py
+  file: sources.yaml
