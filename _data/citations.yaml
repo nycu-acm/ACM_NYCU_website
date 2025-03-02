@@ -225,6 +225,16 @@
   link: https://ieeexplore.ieee.org/document/5604282
   plugin: sources.py
   file: sources.yaml
+- authors: Van-Tin Luu, Yong-Lin Cai, Vu-Hoang Tran, Wei-Chen Chiu, Yi-Ting Chen,
+    Ching-Chun Huang
+  date: ''
+  image: nan
+  publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+    2025
+  title: 'RC-AutoCalib: An End-to-End Radar-Camera Automatic Calibration Network'
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
 - authors: Hao-Chien Hsueh, Wen-Hsiao Peng, Ching-Chun Huang
   date: '2025-01-31'
   image: images/international-conferences/warm-diffusion.jpg
