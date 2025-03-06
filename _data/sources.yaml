@@ -199,12 +199,11 @@
 # -------------------------------------------------------------
 
 - authors: Van-Tin Luu, Yong-Lin Cai, Vu-Hoang Tran, Wei-Chen Chiu, Yi-Ting Chen, Ching-Chun Huang
-  date: 2025-2-29
+  date: 2025-2-28
   image: nan
   publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025
   title: 'RC-AutoCalib: An End-to-End Radar-Camera Automatic Calibration Network'
   type: paper
-  
 - authors: Hao-Chien Hsueh, Wen-Hsiao Peng, Ching-Chun Huang
   date: 2025-1-31
   image: 'images/international-conferences/warm-diffusion.jpg'
