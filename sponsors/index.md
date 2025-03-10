@@ -22,6 +22,24 @@ Our sponsors are integral to our success, empowering us to pursue bold, high-imp
 
 {%
   include figure.html
+  image="images/sponsors-logo/HonHaiRI.jpg"
+  link="https://www.hh-ri.com/"
+%}
+
+{%
+  include figure.html
+  image="images/sponsors-logo/Mediatek.jpg"
+  link="https://www.mediatek.tw/"
+%}
+
+{%
+  include figure.html
+  image="images/sponsors-logo/Advantech.jpg"
+  link="https://www.advantech.com/zh-tw"
+%}
+
+{%
+  include figure.html
   image="images/sponsors-logo/ALTOB.jpg"
   link="http://www.altob.com.tw/"
 %}
