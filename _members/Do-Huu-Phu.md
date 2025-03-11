@@ -18,13 +18,13 @@ links:
 ---
 <!-- # Your text goes here
  -->
-💡 Comes up with a great idea → 📝 Writes paper
-📩 Reviewer 1: "Brilliant work!" → 🤩 Feeling confident
-📩 Reviewer 2: "I don't understand this." → 🤔 Ok, let me clarify...
-📩 Reviewer 3: "This is just a special case of X." → 😑 X was published last week...
-📉 Resubmits with minor tweaks → 😭 "Rejected due to limited novelty."
-🔥 Rewrites intro, changes title, resubmits to another conference → 🏆 Accepted!
+💡 Comes up with a great idea → 📝 Writes paper  
+📩 Reviewer 1: "Brilliant work!" → 🤩 Feeling confident  
+📩 Reviewer 2: "I don't understand this." → 🤔 Ok, let me clarify...  
+📩 Reviewer 3: "This is just a special case of X." → 😑 X was published last week...  
+📉 Resubmits with minor tweaks → 😭 "Rejected due to limited novelty."  
+🔥 Rewrites intro, changes title, resubmits to another conference → 🏆 Accepted!  
 
-![Funny PhD GIF](https://tenor.com/bsgnH.gif)
+![Funny PhD GIF](https://media1.tenor.com/m/Nn2v809Wh14AAAAC/science-phd.gif)
 
 😂 Welcome to the PhD rollercoaster!
