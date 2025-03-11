@@ -6,14 +6,25 @@ aliases:
   - huu phu do
 links:
   home-page: https://example.com/
-  email: example@cs.nycu.edu.tw
+  email: dohuuphu25.ee11@nycu.edu.tw
   phone: 
-  orcid: 0000-0000-0000-000
-  google-scholar: abcdefgAAAAJ
+  orcid: 0009-0006-7327-9016
+  google-scholar: 1I86inAAAAAJ
   youtube: watch?v=ABCDEF0FLWw
-  facebook:
-  instagram:
-  linkedin:
+  facebook: dhp0410
+  instagram: dohuuphu_
+  linkedin: do-huu-phu-6734771a7
   github:
 ---
-# Your text goes here
+<!-- # Your text goes here
+ -->
+💡 Comes up with a great idea → 📝 Writes paper
+📩 Reviewer 1: "Brilliant work!" → 🤩 Feeling confident
+📩 Reviewer 2: "I don't understand this." → 🤔 Ok, let me clarify...
+📩 Reviewer 3: "This is just a special case of X." → 😑 X was published last week...
+📉 Resubmits with minor tweaks → 😭 "Rejected due to limited novelty."
+🔥 Rewrites intro, changes title, resubmits to another conference → 🏆 Accepted!
+
+![Funny PhD GIF](https://tenor.com/bsgnH.gif)
+
+😂 Welcome to the PhD rollercoaster!
