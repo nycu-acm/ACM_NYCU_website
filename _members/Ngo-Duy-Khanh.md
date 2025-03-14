@@ -5,15 +5,8 @@ role: current-master
 aliases:
   - duy khanh ngo
 links:
-  home-page: https://example.com/
-  email: example@cs.nycu.edu.tw
-  phone: 
-  orcid: 0000-0000-0000-000
-  google-scholar: abcdefgAAAAJ
-  youtube: watch?v=ABCDEF0FLWw
-  facebook:
-  instagram:
-  linkedin:
-  github:
+  email: ngoduykhanh2009@gmail.com
+  phone: +886-976281467
+  github: KhanhNgoDuy
 ---
-# Your text goes here
+

@@ -1,19 +1,11 @@
 ---
-name: 青原 Thanh Nguyen 
+name: 張青原 Truong Thanh Nguyen
 image: images/members/313540022.jpg 
 role: current-master
 aliases:
   - thanh nguyen
 links:
-  home-page: https://example.com/
-  email: example@cs.nycu.edu.tw
-  phone: 
-  orcid: 0000-0000-0000-000
-  google-scholar: abcdefgAAAAJ
-  youtube: watch?v=ABCDEF0FLWw
-  facebook:
-  instagram:
-  linkedin:
-  github:
+  email: zhangthanhnguyen@gmail.com
+  phone: +886-981640440
+  instagram: th4nhnguyentr/
 ---
-# Your text goes here
