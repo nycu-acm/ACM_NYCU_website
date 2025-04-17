@@ -1,5 +1,15 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- authors: Limantoro, Stephen Ekaputra; Huang, Ching-Chun; Shuai, Hong-Han; Cheng,
+    Wen-Huang
+  date: '2025-04-12'
+  image: nan
+  publisher: Multimedia Systems
+  title: Swapped Logit Distillation via Bi-level Teacher Alignment
+  type: journal
+  link: nan
+  plugin: sources.py
+  file: sources.yaml
 - authors: Huu-Phu Do, Yan-An Chen, Nhat-Tuong Do-Tran, Kai-Lung Hua, Wen-Hsiao Peng
     & Ching-Chun Huang
   date: '2024-03-07'
