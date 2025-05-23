@@ -39,7 +39,7 @@ Our laboratory actively contributes to the scientific community through a range 
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" filters="type: paper" %}
+{% include list.html data="citations" component="citation" style="rich" filters="type: conference" %}
 
 {% include section.html %}
 
