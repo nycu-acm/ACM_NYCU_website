@@ -238,11 +238,11 @@
 - authors: Van-Tin Luu, Yong-Lin Cai, Vu-Hoang Tran, Wei-Chen Chiu, Yi-Ting Chen,
     Ching-Chun Huang
   date: '2025-02-28'
-  image: nan
+  image: images/international-conferences/rc_autocalib.jpg
   publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
     2025
   title: 'RC-AutoCalib: An End-to-End Radar-Camera Automatic Calibration Network'
-  type: paper
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - authors: Hao-Chien Hsueh, Wen-Hsiao Peng, Ching-Chun Huang
@@ -250,7 +250,7 @@
   image: images/international-conferences/warm-diffusion.jpg
   publisher: 2025 International Conference on Learning Representations (ICLR)
   title: 'Warm Diffusion: Recipe for Blur-Noise Mixture Diffusion Models'
-  type: paper
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - authors: Shao-Hao Lu, Ren Wang, Ching-Chun Huang, Wei-Chen Chiu
@@ -259,7 +259,7 @@
   publisher: 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
   title: Boosting Diffusion Guidance via Learning Degradation-Aware Models for Blind
     Super Resolution
-  type: paper
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - authors: Ting-Yu Chu, Yong-Xiang Lin, Ching-Chun Huang, Kai-Lung Hua
@@ -269,7 +269,7 @@
   publisher: Asian Conference on Computer Vision 2024 (ACCV 2024)
   title: Enhancing Anchor-based Weakly Supervised Referring Expression Comprehension
     with Cross-Modality Attention
-  type: paper
+  type: conference
   link: https://openaccess.thecvf.com/content/ACCV2024/papers/Chu_Enhancing_Anchor-based_Weakly_Supervised_Referring_Expression_Comprehension_with_Cross-Modality_Attention_ACCV_2024_paper.pdf
   plugin: sources.py
   file: sources.yaml
@@ -281,7 +281,7 @@
   title: 'DA^2: Degree-Accumulated Data Augmentation on Point Clouds with Curriculum
     Dynamic Threshold Selection'
   link: https://accv2024.org/wp-content/uploads/2024/10/program1.pdf
-  type: paper
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - authors: Huu-Phu Do, Po-Chih Hu, Hao-Chien Hsueh, Che-Kai Liu, Vu-Hoang Tran, Ching-Chun
@@ -291,7 +291,7 @@
     with Reference Images and Implicit Degradation Representa.jpg
   publisher: Asian Conference on Computer Vision 2024 (ACCV 2024)
   title: Blind Super Resolution with Reference Images and Implicit Degradation Representation
-  type: paper
+  type: conference
   link: https://openaccess.thecvf.com/content/ACCV2024/html/Do_Blind_Super_Resolution_with_Reference_Images_and_Implicit_Degradation_Representation_ACCV_2024_paper.html
   plugin: sources.py
   file: sources.yaml
@@ -302,7 +302,7 @@
   title: 'TimeNeRF: Building Generalizable Neural Radiance Fields across Time from
     Few-Shot Input Views'
   link: https://dl.acm.org/doi/10.1145/3664647.3681337
-  type: paper
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - authors: Meng-Cheng Shih, Tsai-Ling Huang, Yu-Heng Shih, Hong-Han Shuai, Hsuan-Tung
@@ -313,7 +313,7 @@
   title: 'DetailSemNet: Elevating Signature Verification with Captured Details and
     Semantics by Feature Disentanglement and Re-entanglement'
   link: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03694.pdf
-  type: paper
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - authors: Zhi-Yi Chin, Chieh Ming Jiang, Ching-Chun Huang, Pin-Yu Chen, Wei-Chen
@@ -324,7 +324,7 @@
   title: 'Prompting4Debugging: Red-Teaming Text-to-Image Diffusion Models by Finding
     Problematic Prompts'
   link: https://arxiv.org/abs/2309.06135
-  type: paper
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - authors: Chi-Han Chen, Chieh-Ming Chen, Wen-Huang Cheng, Ching-Chun Huang
@@ -334,7 +334,7 @@
   title: 'AERIAL VIEW RIVER LANDFORM VIDEO SEGMENTATION: A WEAKLY SUPERVISED CONTEXT-AWARE
     TEMPORAL CONSISTENCY DISTILLATION APPROACH'
   link: https://ieeexplore.ieee.org/document/10647662
-  type: paper
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - authors: Yu Wei Chen, Huu Phu Do, Chia Wei Kuo, Hsuan Tung Liu, Ching Chun Huang
@@ -342,7 +342,7 @@
   image: images/international-conferences/LIPFACE.gif
   publisher: "2024 \nIEEE International Conference on Image Processing (ICIP)"
   title: 'LIPFACE: LIPSCHITZ-CONDITIONED FOR RESOLUTION ROBUST FACE RECOGNITION'
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/abstract/document/10647914
   plugin: sources.py
   file: sources.yaml
@@ -352,7 +352,7 @@
   image: images/international-conferences/Two-Heads.gif
   publisher: "2024 \nIEEE International Conference on Image Processing (ICIP)"
   title: 'Two Heads Better than One: Dual Degradation Representation for Blind Super-Resolution'
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/10647237
   plugin: sources.py
   file: sources.yaml
@@ -363,7 +363,7 @@
   publisher: 2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
   title: 'Best of Both Worlds: Learning Arbitrary-scale Blind Super-Resolution via
     Dual Degradation Representations and Cycle-Consistency'
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/10484031
   plugin: sources.py
   file: sources.yaml
@@ -374,7 +374,7 @@
   publisher: 2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
   title: 'Semantic Fusion Augmentation and Semantic Boundary Detection: A Novel Approach
     to Multi-Target Video Moment Retrieval'
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/10484101
   plugin: sources.py
   file: sources.yaml
@@ -385,7 +385,7 @@
   publisher: 2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
   title: Arbitrary-Resolution and Arbitrary-Scale Face Super-Resolution with Implicit
     Representation Networks
-  type: paper
+  type: conference
   link: https://openaccess.thecvf.com/content/WACV2024/papers/Tsai_Arbitrary-Resolution_and_Arbitrary-Scale_Face_Super-Resolution_With_Implicit_Representation_Networks_WACV_2024_paper.pdf
   plugin: sources.py
   file: sources.yaml
@@ -397,7 +397,7 @@
   publisher: 2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
   title: Masking Improves Contrastive Self-Supervised Learning for ConvNets, and Saliency
     Tells You Where
-  type: paper
+  type: conference
   link: https://openaccess.thecvf.com/content/WACV2024/papers/Chin_Masking_Improves_Contrastive_Self-Supervised_Learning_for_ConvNets_and_Saliency_Tells_WACV_2024_paper.pdf
   plugin: sources.py
   file: sources.yaml
@@ -409,7 +409,7 @@
   publisher: 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems
     (IROS)
   title: 'MENTOR: Multilingual tExt detectioN TOward leaRning by analogy'
-  type: paper
+  type: conference
   link: https://arxiv.org/abs/2403.07286
   plugin: sources.py
   file: sources.yaml
@@ -423,7 +423,7 @@
     Summit and Conference (APSIPA ASC)
   title: A Reliable Feature-Based Framework for Vehicle Tracking in Advanced Driver
     Assistance Systems
-  type: paper
+  type: conference
   link: https://www.researchgate.net/publication/375789098_A_Reliable_Feature-Based_Framework_for_Vehicle_Tracking_in_Advanced_Driver_Assistance_Systems
   plugin: sources.py
   file: sources.yaml
@@ -437,7 +437,7 @@
     Summit and Conference (APSIPA ASC)
   title: 'From Synthetic to Real: Enhancing Deep Learning Models with Generative Adversarial
     Networks for Efficient Data Utilization in Automatic Retail Stores'
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/10317140
   plugin: sources.py
   file: sources.yaml
@@ -447,7 +447,7 @@
   publisher: 2023 Asia Pacific Signal and Information Processing Association Annual
     Summit and Conference (APSIPA ASC)
   title: ' Efficient Constraint-Aware Neural Architecture Search for Object Detection'
-  type: paper
+  type: conference
   link: https://scholar.nycu.edu.tw/en/publications/efficient-constraint-aware-neural-architecture-search-for-object-
   plugin: sources.py
   file: sources.yaml
@@ -458,7 +458,7 @@
   publisher: ' 2023 IEEE International Symposium on Circuits & Systems(ISCAS)'
   title: 'ZERO-LEINR: ZERO-Reference LOW-Light Image Enhancement with Intrinsic Noise
     Reduction'
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/10181743
   plugin: sources.py
   file: sources.yaml
@@ -468,7 +468,7 @@
     for Lightweight SLAM via Deep Reinforcement Learning _ .jpg
   publisher: '2023 IEEE International Conference on Consumer Electronics (ICCE) '
   title: Incremental Map Modeling for Lightweight SLAM via Deep Reinforcement Learning
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/10043567/
   plugin: sources.py
   file: sources.yaml
@@ -479,7 +479,7 @@
     for Visual Object Detection and Segmentation _ IEEE Confe.jpg
   publisher: '2023 IEEE International Conference on Consumer Electronics (ICCE) '
   title: Dynamic Feature Fusion for Visual Object Detection and Segmentation
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/10043439
   plugin: sources.py
   file: sources.yaml
@@ -490,7 +490,7 @@
   publisher: '2023 IEEE International Conference on Consumer Electronics (ICCE) '
   title: Disentanglement-Based Multi-Vehicle Detection and Tracking for Gate-Free
     Parking Lot Management
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/10043379
   plugin: sources.py
   file: sources.yaml
@@ -501,7 +501,7 @@
   publisher: '2023 IEEE International Conference on Consumer Electronics (ICCE) '
   title: 'D2D: Divide to Detect, A Scale-Aware Framework for On-Road Object Detection
     Using IR Camera'
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/10043569
   plugin: sources.py
   file: sources.yaml
@@ -514,7 +514,7 @@
     Surveillance(2022AVSS)
   title: Distance-dependent Feature Alignment and Selection for Imbalance 3D Point
     Cloud Object Detection
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/9959572
   plugin: sources.py
   file: sources.yaml
@@ -527,7 +527,7 @@
     Thirty-sixth Conference on Neural Information Processing Systems'
   title: 'Make an Omelette with Breaking Eggs: Zero-Shot Learning for Novel Attribute
     Synthesis'
-  type: paper
+  type: conference
   link: https://arxiv.org/abs/2111.14182
   plugin: sources.py
   file: sources.yaml
@@ -538,7 +538,7 @@
   publisher: ACM International Conference on Multimedia (ACM MM 2022)
   title: Towards Understanding Cross Resolution Feature Matching for Surveillance
     Face Recognition
-  type: paper
+  type: conference
   link: https://dl.acm.org/doi/10.1145/3503161.3548402
   plugin: sources.py
   file: sources.yaml
@@ -549,7 +549,7 @@
   publisher: IEEE International Conference on Multimedia & Expo  (ICME2022)
   title: Model compression via structural pruning and feature distillation for accurate
     multi-spectral object detection on edge-devices
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/9859994
   plugin: sources.py
   file: sources.yaml
@@ -560,7 +560,7 @@
   publisher: 2022 IEEE International Conference on Acoustics, Speech and Signal Processing(ICASSP
     2022)
   title: 'Find the way back: Invertible kernel estimator for blind image super resolution'
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/9747264
   plugin: sources.py
   file: sources.yaml
@@ -573,7 +573,7 @@
     (VCIP)'
   title: 'DensER: Density-imbalance-Eased Representation for LiDAR-based Whole Scene
     Upsampling'
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/9675334
   plugin: sources.py
   file: sources.yaml
@@ -584,7 +584,7 @@
   publisher: ' IEEE International Conference on Visual Communications and Image Processing
     (VCIP)'
   title: 'DIRECT: Discrete Image Rescaling with Enhancement from Case-specific Textures'
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/9675420
   plugin: sources.py
   file: sources.yaml
@@ -596,7 +596,7 @@
   publisher: CVPR2021
   title: Video Rescaling Networks with Joint Optimization Strategies for Downscaling
     and Upscaling
-  type: paper
+  type: conference
   link: https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_Video_Rescaling_Networks_With_Joint_Optimization_Strategies_for_Downscaling_and_CVPR_2021_paper.pdf
   plugin: sources.py
   file: sources.yaml
@@ -606,7 +606,7 @@
   publisher: ' IEEE International Conference on Pattern Recognition.'
   title: Vacant Parking Space Detection based on Task Consistency and Reinforcement
     Learning
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/9412152/
   plugin: sources.py
   file: sources.yaml
@@ -616,7 +616,7 @@
     Exchanging Network for Depth Completion _ IEEE Conference.jpg
   publisher: IEEE International Conference on Pattern Recognition
   title: 'DEN: Disentangling and Exchanging Network for Depth Completion'
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/9413146
   plugin: sources.py
   file: sources.yaml
@@ -627,7 +627,7 @@
   publisher: ' IEEE International Conference on Visual Communications and Image Processing
     (VCIP)'
   title: ' DEN: Disentanglement and Enhancement Networks for Low Illumination Images'
-  type: paper
+  type: conference
   link: https://scholar.nycu.edu.tw/zh/publications/den-disentanglement-and-enhancement-networks-for-low-illumination
   plugin: sources.py
   file: sources.yaml
@@ -638,7 +638,7 @@
     Map via Disentanglement.jpg
   publisher: 16th European Conference on Computer Vision(ECCV)
   title: Colorization of Depth Map via Disentanglement
-  type: paper
+  type: conference
   link: https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520443.pdf
   plugin: sources.py
   file: sources.yaml
@@ -649,7 +649,7 @@
   publisher: IEEE International Conference on Acoustics, Speech, and Signal Processing
     (ICASSP)
   title: 'D2na: Day-To-Night Adaptation for Vision Based Parking Management System'
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/9053567/
   plugin: sources.py
   file: sources.yaml
@@ -659,7 +659,7 @@
   publisher: IEEE International Conference on Systems, Man, and Cybernetics
   title: A Robust Multi-Kinect 3D Skeleton Tracking Considering Left-Right Confusion
     and Self-Occlusion
-  type: paper
+  type: conference
   link: https://scholar.nycu.edu.tw/en/publications/a-robust-multi-kinect-3d-skeleton-tracking-considering-left-right
   plugin: sources.py
   file: sources.yaml
@@ -669,7 +669,7 @@
     Disentangled Representation Learning and Style Transfer.jpg
   publisher: IEEE International Conference on Systems, Man, and Cybernetics
   title: Domain Adaptation Meets Disentangled Representation Learning and Style Transfer
-  type: paper
+  type: conference
   link: https://arxiv.org/abs/1712.09025
   plugin: sources.py
   file: sources.yaml
@@ -680,7 +680,7 @@
   publisher: IEEE International Conference on Systems, Man, and Cybernetics
   title: 'IUML: Inception U-Net Based Multi-Task Learning for Density Level Classification
     and Crowd Density Estimation'
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/abstract/document/8914497
   plugin: sources.py
   file: sources.yaml
@@ -689,7 +689,7 @@
   image: nan
   publisher: IEEE International Conference on Systems, Man, and Cybernetics
   title: Online Learning for High Accuracy HVAC Control and Energy Saving
-  type: paper
+  type: conference
   link: https://www.researchgate.net/publication/337643394_Online_Self-learning_for_Smart_HVAC_Control
   plugin: sources.py
   file: sources.yaml
@@ -699,7 +699,7 @@
     for Crowd Counting _ IEEE Conference Publication _ IE.jpg
   publisher: IEEE International Conference on Image Processing
   title: 'DAnet: Depth-Aware Network For Crowd Counting'
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/8804413
   plugin: sources.py
   file: sources.yaml
@@ -710,7 +710,7 @@
   publisher: 2019 IEEE International Conference on Image Processing (ICIP)
   title: Multi-Channel Multi-Loss Deep Learning Based Compression Model for Color
     Images
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/abstract/document/8803487
   plugin: sources.py
   file: sources.yaml
@@ -720,7 +720,7 @@
     for Image Compression and 2 more pages - [InPrivate] -.jpg
   publisher: CVPR Workshop and Challenge on Learned Image Compression
   title: Learned Prior Information for Image Compression
-  type: paper
+  type: conference
   link: https://openaccess.thecvf.com/content_CVPRW_2019/papers/CLIC%202019/Chun_Learned_Prior_Information_for_Image_Compression_CVPRW_2019_paper.pdf
   plugin: sources.py
   file: sources.yaml
@@ -730,7 +730,7 @@
     System _ IEEE Conference Publication _ IEEE Xplor.jpg
   publisher: International Conference on Consumer Electronics - Taiwan (ICCE-TW)
   title: 3D Virtual-Reality Interaction System
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/8991800
   plugin: sources.py
   file: sources.yaml
@@ -740,7 +740,7 @@
     System Based on Deep Learning _ IEEE Conference Public.jpg
   publisher: International Conference ICCon Consumer Electronics - Taiwan (ICCE-TW)
   title: License Plate Recognition System Based on Deep Learning
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/8991985
   plugin: sources.py
   file: sources.yaml
@@ -754,7 +754,7 @@
     Pattern Recognition (MAPR)'
   title: Semi-Supervised And Multi-Task Learning For On-Street Parking Space Status
     Inference
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/8743537
   plugin: sources.py
   file: sources.yaml
@@ -766,7 +766,7 @@
 
     Processing'
   title: Wi-Fi Indoor Localization based on Multi-Task Deep Learning
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/8631868
   plugin: sources.py
   file: sources.yaml
@@ -779,7 +779,7 @@
     Systems, Man, and Cybernetics'
   title: Lane Detection and Tracking based on Fully Convolutional Networks and Probabilistic
     Graphical Models
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/8616220
   plugin: sources.py
   file: sources.yaml
@@ -789,7 +789,7 @@
   publisher: IEEE Vehicular Technology Society Asia Pacific Wireless Communications
     Symposium
   title: Deep Learning-based RSS Indoor Localization
-  type: paper
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - authors: Oscal Tzyh-Chiang Chen, Sung-Nien Yu, Ching-Chun Huang, Huang-Chen Lee,
@@ -802,7 +802,7 @@
     and Expo (ICME)'
   title: Mobile Learning System With Context-Aware Interactions And Point-Of-Interest
     Understanding
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/8551571
   plugin: sources.py
   file: sources.yaml
@@ -812,7 +812,7 @@
     Interaction System _ IEEE Conference Publication _ I.jpg
   publisher: ' IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW)'
   title: Immersive 3D Human-Computer Interaction System
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/8448424
   plugin: sources.py
   file: sources.yaml
@@ -821,7 +821,7 @@
   image: nan
   publisher: The 13th Asian Conference on Computer Aided Surgery
   title: 3D Object Reconstruction based on Structure from Motion and Shape from Shading
-  type: paper
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - authors: Hoang Tran Vu, Ching-Chun Huang
@@ -831,7 +831,7 @@
   publisher: 2017 IEEE International Conference on Image Processing
   title: A Multi-task Convolutional Neural Network with Spatial Transform for Parking
     Space Detection
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/8296584
   plugin: sources.py
   file: sources.yaml
@@ -841,7 +841,7 @@
   image: nan
   publisher: International Conference on IoT as a Service
   title: Personalized Mobile Learning System via Smart Glasses
-  type: paper
+  type: conference
   link: https://www.researchgate.net/publication/328339045_Personalized_Mobile_Learning_System_via_Smart_Glasses_Third_International_Conference_IoTaaS_2017_Taichung_Taiwan_September_20-22_2017_Proceedings
   plugin: sources.py
   file: sources.yaml
@@ -851,7 +851,7 @@
     learning for indoor localization _ IEEE Conference Public.jpg
   publisher: 2017 IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW)
   title: Unsupervised Radio Map Learning for Indoor Localization
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/7991004
   plugin: sources.py
   file: sources.yaml
@@ -860,7 +860,7 @@
   image: nan
   publisher: The 9th IEEE International Conference on Ubi-Media Computing
   title: A Hybrid Method for Visitor Localization and Tracking in a Museum Environment
-  type: paper
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - authors: Ching-Chun Huang, Hung-Nguyen Manh, Yu-Shiun Wang
@@ -869,7 +869,7 @@
     indoor localization system for device diversity _ IEEE.jpg
   publisher: 2016 IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW)
   title: An Self-Adaptive Wireless Indoor Localization System for Device Diversity
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/7520998/
   plugin: sources.py
   file: sources.yaml
@@ -879,7 +879,7 @@
     on image matting Laplacian _ IEEE Conference Publication _.jpg
   publisher: 2016 IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW)
   title: HDR Compression based on Image Matting Laplacian
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/7520957
   plugin: sources.py
   file: sources.yaml
@@ -890,7 +890,7 @@
     with infrared image information _ IEEE Conferenc.jpg
   publisher: 2016 IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW)
   title: Laparoscopic video augmentation with infrared image information
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/7521061
   plugin: sources.py
   file: sources.yaml
@@ -900,7 +900,7 @@
     framework for parking space detection _ IEEE Confer.jpg
   publisher: IEEE International Workshop on Machine Learning for Signal Processing
   title: A Multi-layer Discriminative Framework for Parking Space Detection
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/7324376
   plugin: sources.py
   file: sources.yaml
@@ -910,7 +910,7 @@
     Detection based on Task Consistency and Reinforcement Learn.jpg
   publisher: IPPR Conference on Computer Vision, Graphics, and Image Processing
   title: Vacant Parking Space Detection based on a Hierarchical and Semantic Classifier
-  type: paper
+  type: conference
   link: https://www.researchgate.net/publication/302056353_Vacant_Parking_Space_Detection_Based_on_a_Multilayer_Inference_Framework
   plugin: sources.py
   file: sources.yaml
@@ -921,7 +921,7 @@
   publisher: IEEE International Conference on Consumer Electronics - Taiwan
   title: A Multiclass Boosting Approach for Integrating Weak Classifiers in Parking
     Space Detection
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/7216918
   plugin: sources.py
   file: sources.yaml
@@ -931,7 +931,7 @@
     for RSS indoor localization _ IEEE Conference Publicatio.jpg
   publisher: IEEE International Conference on Consumer Electronics - Taiwan
   title: A Region-Based Approach for RSS Indoor Localization
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/7217041
   plugin: sources.py
   file: sources.yaml
@@ -941,7 +941,7 @@
     device-diversity problem in an indoor localization system _.jpg
   publisher: 'IEEE International Conference on Consumer Electronics - Taiwan '
   title: Auto-Calibration for Device-Diversity Problem in an Indoor Localization system
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/7217040
   plugin: sources.py
   file: sources.yaml
@@ -952,7 +952,7 @@
     from endoscopic image sequence _ IEEE Conference Publicat.jpg
   publisher: IEEE International Conference on Consumer Electronics - Taiwan
   title: Surface Reconstruction from Endoscopic Image Sequence
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/7216967
   plugin: sources.py
   file: sources.yaml
@@ -963,7 +963,7 @@
   publisher: 2014 IEEE International Conference on Connected Vehicles & Expo
   title: "Inter-Vehicle Communication, License Plate \n\nVerification, and Distance\
     \ Estimation for the \n\nConstruction of Driving Surroundings"
-  type: paper
+  type: conference
   link: https://www.researchgate.net/publication/267039713_Inter-Vehicle_Communication_License_Plate_Verification_and_Distance_Estimation_for_the_Construction_of_Driving_Surroundings
   plugin: sources.py
   file: sources.yaml
@@ -973,7 +973,7 @@
   publisher: IEEE Asia Pacific Wireless Communications Symposium,
   title: Automatic Landmark-based RSS Compensation for Device Diversity in an Indoor
     Positioning System
-  type: paper
+  type: conference
   link: http://140.123.13.69/user/568?Journal=4
   plugin: sources.py
   file: sources.yaml
@@ -983,7 +983,7 @@
     Based on Multi-Dimensional Kernel Modeling and Weig.jpg
   publisher: IEEE Asia Pacific Wireless Communications Symposium
   title: Multi-Dimension Kernel Density Estimation for RSS Based Indoor Localization
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/7397867
   plugin: sources.py
   file: sources.yaml
@@ -993,7 +993,7 @@
     enhancement based on tissue attenuation _ IEEE Conference P.jpg
   publisher: IEEE International Conference on Acoustics, Speech and Signal Processing
   title: X-Ray Image Contrast Enhancement Based On Tissue Attenuation
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/6854877
   plugin: sources.py
   file: sources.yaml
@@ -1004,7 +1004,7 @@
   publisher: ' IEEE International Symposium on Bioelectronics and Bioinformatics'
   title: Distinguishing Normal and Pulmonary Edema Chest X-Ray Using Gabor Filter
     and SVM
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/6820918
   plugin: sources.py
   file: sources.yaml
@@ -1013,7 +1013,7 @@
   image: nan
   publisher: International Conference on Connected Vechicles & Expo
   title: 'Vehicle Trajectory Prediction across Non-overlapping Camera Networks '
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/6799823
   plugin: sources.py
   file: sources.yaml
@@ -1023,7 +1023,7 @@
   publisher: International conference on control automation & information sciences
   title: A Hybrid Method for 3D Instrument Reconstruction and Tracking in Laparoscopy
     Surgery
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/6720526
   plugin: sources.py
   file: sources.yaml
@@ -1032,7 +1032,7 @@
   image: nan
   publisher: IS&T/SPIE Electronic Imaging Symposium 2013
   title: A Study of Non-diagonal Models for Image White Balance
-  type: paper
+  type: conference
   link: https://www.researchgate.net/publication/258813863_A_Study_of_Non-diagonal_Models_for_Image_White_balance
   plugin: sources.py
   file: sources.yaml
@@ -1041,7 +1041,7 @@
   image: nan
   publisher: IEEE International Conference on ITS Telecommunications (ITST)
   title: A Surface-based Vacant Space Detection for an Intelligent Parking Lot
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/6425183
   plugin: sources.py
   file: sources.yaml
@@ -1051,7 +1051,7 @@
   publisher: 'IEEE International Conference on ITS Telecommunications '
   title: Image Registration among UAV Image Sequence and Google Satellite Image Under
     Quality Mismatch
-  type: paper
+  type: conference
   link: https://www.researchgate.net/publication/261342016_Image_registration_among_UAV_image_sequence_and_Google_satellite_image_under_quality_mismatch
   plugin: sources.py
   file: sources.yaml
@@ -1061,7 +1061,7 @@
   publisher: Proceeding of IS&T/SPIE Electronic Imaging
   title: Multi-view Face Detection Based on Position Estimation over Multi-camera
     Surveillance System
-  type: paper
+  type: conference
   link: https://ir.lib.nycu.edu.tw/bitstream/11536/146328/1/1471649b2e37b66a7e2ad0fbbb2700e8.pdf
   plugin: sources.py
   file: sources.yaml
@@ -1070,7 +1070,7 @@
   image: nan
   publisher: IEEE International Conference on International Conference Image Processing
   title: A Cascaded Hierarchical Framework for Moving Object Detection and Tracking
-  type: paper
+  type: conference
   link: https://www.researchgate.net/publication/224199353_A_cascaded_hierarchical_framework_for_moving_object_detection_and_tracking
   plugin: sources.py
   file: sources.yaml
@@ -1080,7 +1080,7 @@
   publisher: IEEE International Conference on Pattern Recognition
   title: Probabilistic Modeling of Dynamic Traffic Flow across Non-overlapping Camera
     Views
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/5597517
   plugin: sources.py
   file: sources.yaml
@@ -1090,7 +1090,7 @@
   publisher: IEEE International Conference on Multimedia and Expo
   title: Moving Targets Labeling and Correspondence over Multi-Camera Surveillance
     System Based on Markov Network
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/5202730
   plugin: sources.py
   file: sources.yaml
@@ -1101,7 +1101,7 @@
   publisher: IEEE International Real-Time and Embedded Technology and Applications
     Symposium
   title: Real-Time Video Surveillance over IEEE 802.11 Mesh Networks
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/abstract/document/4840581
   plugin: sources.py
   file: sources.yaml
@@ -1112,7 +1112,7 @@
     and Multi-modal Sensor Fusion Algorithms and Application
   title: A Monte Carlo Based Framework for Multi-Target Detection and Tracking Over
     Multi-Camera Surveillance System
-  type: paper
+  type: conference
   link: https://www.researchgate.net/publication/29621512_A_Monte_Carlo_Based_Framework_for_Multi-Target_Detection_and_Tracking_Over_Multi-Camera_Surveillance_System
   plugin: sources.py
   file: sources.yaml
@@ -1122,7 +1122,7 @@
   publisher: IEEE International Conference on Acoustics, Speech, and Signal Processing
     (
   title: A Bayesian Hierarchical Detection Framework for Parking Space Detection
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/4518055/
   plugin: sources.py
   file: sources.yaml
@@ -1131,7 +1131,7 @@
   image: nan
   publisher: First International Workshop on Multimedia Analysis and Processing
   title: Motion-based Background Modeling for Moving Object Detection on Moving Platforms
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/4317979
   plugin: sources.py
   file: sources.yaml
@@ -1140,7 +1140,7 @@
   image: nan
   publisher: IEEE International Conference on Multimedia and Expo
   title: Robust Parking Space Detection Considering Inter-space Correlation
-  type: paper
+  type: conference
   link: https://ieeexplore.ieee.org/document/4284736
   plugin: sources.py
   file: sources.yaml
@@ -1149,7 +1149,7 @@
   image: nan
   publisher: Proceedings of SPIE
   title: Novel Illumination-Normalization Method Based on Region Information
-  type: paper
+  type: conference
   link: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5672/0000/Novel-illumination-normalization-method-based-on-region-information/10.1117/12.586626.full
   plugin: sources.py
   file: sources.yaml
@@ -1158,7 +1158,7 @@
   image: nan
   publisher: Digital Image Computing - Techniques and Applications
   title: Handheld Person Verification System Using Face Image
-  type: paper
+  type: conference
   link: https://staff.itee.uq.edu.au/lovell/aprs/dicta2003/pdf/0859.pdf
   plugin: sources.py
   file: sources.yaml
