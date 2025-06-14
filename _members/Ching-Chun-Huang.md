@@ -41,7 +41,9 @@ Discuss how to produce comfortable viewing experiments for 3D vision.
 
 ## Working Experience
 
-- Assistant Professor in Department of Electrical Engineering, National Chung Cheng University, Taiwan, Feb. 2014 ~ Present 
+- Associate Professor, then Professor in Department of Computer Science, National Yang Ming Chiao Tung University, Taiwan, Aug. 2019 ~ Present
+
+- Assistant Professor, then Associate Professor in Department of Electrical Engineering, National Chung Cheng University, Taiwan, Feb. 2014 ~ 2019 
 
 - Assistant Professor in Department of Electrical Engineering, National Kaohsiung University of Applied Sciences, Taiwan, Aug. 2011 ~ 2014 
 
@@ -54,3 +56,9 @@ Discuss how to produce comfortable viewing experiments for 3D vision.
 - Visiting Researcher at Carnegie Mellon University (CMU - Electrical and Computer Engineering), 2005 and 2006 
 
 - Associate Researcher at Industrial Technology Research Institute (ITRI - Advanced Technology Center), 2002~2006
+
+{%
+  include figure.html
+  image="images/homepage-banner/cvrc_center_banner.png"
+  link="https://cvrc.web.nycu.edu.tw/"
+%}
