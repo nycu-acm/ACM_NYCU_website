@@ -39,7 +39,7 @@ Become a part of our collaborative and forward-thinking research community. At o
 
 {% include section.html %}
 ## Life at ACM Lab
-{% include list.html data="posts" component="post-excerpt" filters="tags: internal-activity" %}
+{% include list_show_only_five.html data="posts" component="post-excerpt" filters="tags: internal-activity" %}
 
 {% capture col1 %}
 
