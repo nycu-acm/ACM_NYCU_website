@@ -37,6 +37,12 @@ Become a part of our collaborative and forward-thinking research community. At o
 * [NYCU Admission for International Students](https://oia.nycu.edu.tw/oia/en/app/folder/781)
 * [Taiwan Experience Education Program (TEEP)](https://teep.studyintaiwan.org/program/273)
 
+{%
+  include figure.html
+  image="images/homepage-banner/cvrc_center_banner.png"
+  link="https://cvrc.web.nycu.edu.tw/"
+%}
+
 {% include section.html %}
 ## Life at ACM Lab
 {% include list.html data="posts" component="post-excerpt" filters="tags: internal-activity" %}
