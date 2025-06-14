@@ -55,6 +55,12 @@ Besides, we also try to build an international environment in our lab, you may f
 
 <!--- END HIGHLIGHT -->
 
+{%
+  include figure.html
+  image="images/homepage-banner/cvrc_center_banner.png"
+  link="https://cvrc.web.nycu.edu.tw/"
+%}
+
 <!--- START 'ABOUT US' -->
 
 {% include section.html %}
