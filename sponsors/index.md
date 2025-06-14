@@ -1,7 +1,7 @@
 ---
 title: Sponsors
 nav:
-  order: 6
+  order: 7
   tooltip: Our sponsors
 ---
 

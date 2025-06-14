@@ -1,7 +1,7 @@
 ---
 title: Join us
 nav:
-  order: 7
+  order: 8
   tooltip: Our contact information
 ---
 
