@@ -46,11 +46,13 @@ Besides, we also try to build an international environment in our lab, you may f
 ## Latest News
 {% include list_show_only_five.html data="posts" component="post-excerpt" style="small" %}
 
-<!-- Video -->
-### Professor had an interview to introduce our parking lot system.
-<div style=".video { aspect-ratio: 16 / 9; width: 100%; }">
-  <iframe class="video" src="https://www.youtube.com/embed/G3acoF0FLWw?si=kUxyuAlQX-jLzoE5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+{%
+  include button.html
+  link="news"
+  text="Watch more news"
+  icon="fa-solid fa-newspaper"
+%}
+
 <!--- END HIGHLIGHT -->
 
 <!--- START 'ABOUT US' -->
