@@ -235,6 +235,16 @@
   link: https://ieeexplore.ieee.org/document/5604282
   plugin: sources.py
   file: sources.yaml
+- authors: Ching-Hung Cheng, Hsiu-Fu Wu, Bing-Chen Wu, Khanh-Phong Bui, Van-Tin Luu,
+    Ching-Chun Huang
+  date: '2025-05-26'
+  image: images/international-conferences/sop2.jpg
+  publisher: IEEE International Conference on Advanced Visual and Signal-Based Systems
+    (AVSS 2025)
+  title: 'SOP2: Transfer Learning with Scene-Oriented Prompt Pool on 3D Object Detection'
+  type: conference
+  plugin: sources.py
+  file: sources.yaml
 - authors: Van-Tin Luu, Yong-Lin Cai, Vu-Hoang Tran, Wei-Chen Chiu, Yi-Ting Chen,
     Ching-Chun Huang
   date: '2025-02-28'
@@ -243,6 +253,7 @@
     2025
   title: 'RC-AutoCalib: An End-to-End Radar-Camera Automatic Calibration Network'
   type: conference
+  link: https://openaccess.thecvf.com/content/CVPR2025/html/Luu_RC-AutoCalib_An_End-to-End_Radar-Camera_Automatic_Calibration_Network_CVPR_2025_paper.html
   plugin: sources.py
   file: sources.yaml
 - authors: Hao-Chien Hsueh, Wen-Hsiao Peng, Ching-Chun Huang
@@ -251,6 +262,7 @@
   publisher: 2025 International Conference on Learning Representations (ICLR)
   title: 'Warm Diffusion: Recipe for Blur-Noise Mixture Diffusion Models'
   type: conference
+  link: https://iclr.cc/virtual/2025/poster/28184
   plugin: sources.py
   file: sources.yaml
 - authors: Shao-Hao Lu, Ren Wang, Ching-Chun Huang, Wei-Chen Chiu
@@ -260,6 +272,7 @@
   title: Boosting Diffusion Guidance via Learning Degradation-Aware Models for Blind
     Super Resolution
   type: conference
+  link: https://openaccess.thecvf.com/content/WACV2025/html/Lu_Boosting_Diffusion_Guidance_via_Learning_Degradation-Aware_Models_for_Blind_Super_WACV_2025_paper.html
   plugin: sources.py
   file: sources.yaml
 - authors: Ting-Yu Chu, Yong-Xiang Lin, Ching-Chun Huang, Kai-Lung Hua
