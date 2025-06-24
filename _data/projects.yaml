@@ -1,42 +1,26 @@
 - title: Autonomous Vehicle
   # subtitle: a subtitle
   group: featured
-  image: images/research/autonomous_car.png
+  image: images/research/auto.jpg
   link: https://github.com/
-  description: autonomous vehicle surrounding, auto-vehicle multi-sensor fusion, neural architecture search
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
 
-- title: Image and Video Processing
+- title: Multimedia
   # subtitle: a subtitle
   group: featured
-  image: images/research/image_processing.jpg
-  link: https://github.com/
-  description: image enhancement, image generation, 3D generation, 3D editing, 3D synthesis
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  image: images/research/multimedia.jpg
+  link: research/multimedia
 
-- title: Document Processing
+- title: Medical
   # subtitle: a subtitle
   group: featured
-  image: images/research/document.png
+  image: images/research/medical.jpg
   link: https://github.com/
-  description: handwritten text recognition/generation
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
 
 - title: Natural Language Processing
   # subtitle: a subtitle
   group: featured
-  image: images/research/vqa.png
+  image: images/research/nlp.jpg
   link: https://github.com/
-  description: visual question answering/generation, video understanding
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
 
 # - title: Smart Traffic
 #   subtitle: a subtitle
