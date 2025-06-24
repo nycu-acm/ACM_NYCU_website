@@ -39,21 +39,21 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Multimedia-related research | Applied Computing and Multimedia Lab</title>
+<title>Medical Imaging | Applied Computing and Multimedia Lab</title>
 
 <link rel="icon" href="/ACM_NYCU_website/images/icon.png">
 
-<meta name="title" content="Multimedia-related research">
+<meta name="title" content="Medical Imaging">
 <meta name="description" content="應用運算與多媒體實驗室. ACM Lab - National Yang Ming Chiao Tung University">
 
-<meta property="og:title" content="Multimedia-related research">
+<meta property="og:title" content="Medical Imaging">
 <meta property="og:site_title" content="Applied Computing and Multimedia Lab">
 <meta property="og:description" content="應用運算與多媒體實驗室. ACM Lab - National Yang Ming Chiao Tung University">
 <meta property="og:url" content="https://nycu-acm.github.io/ACM_NYCU_website">
 <meta property="og:image" content="/ACM_NYCU_website/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
-<meta property="twitter:title" content="Multimedia-related research">
+<meta property="twitter:title" content="Medical Imaging">
 <meta property="twitter:description" content="應用運算與多媒體實驗室. ACM Lab - National Yang Ming Chiao Tung University">
 <meta property="twitter:url" content="https://nycu-acm.github.io/ACM_NYCU_website">
 <meta property="twitter:card" content="summary_large_image">
@@ -69,9 +69,9 @@
     
       "@type": "WebSite",
     
-    "name": "Multimedia-related research",
+    "name": "Medical Imaging",
     "description": "應用運算與多媒體實驗室. ACM Lab - National Yang Ming Chiao Tung University",
-    "headline": "Multimedia-related research",
+    "headline": "Medical Imaging",
     "publisher": {
       "@type": "Organization",
       "logo": { "@type": "ImageObject", "url": "/ACM_NYCU_website/images/icon.png" }
@@ -473,15 +473,15 @@
   
   
 
-  <section class="background" data-size="2" data-dark="true" style="--image: url('/ACM_NYCU_website/images/research/multimedia.jpg')">
+  <section class="background" data-size="2" data-dark="true" style="--image: url('/ACM_NYCU_website/images/research/medical.jpg')">
     <!--
-  background: images/research/multimedia.jpg;
+  background: images/research/medical.jpg;
   dark: true;
   size: 2;
 -->
 
-<h1 id="multimedia-related-research">
-<i class="icon fa-solid fa-wrench"></i>Multimedia-related research</h1>
+<h1 id="medical-imaging">
+<i class="icon fa-solid fa-wrench"></i>Medical Imaging</h1>
   </section>
 
   
@@ -495,36 +495,19 @@
   size: ;
 -->
 
-<h2 id="itri-2d-talking-head-generation">ITRI 2D Talking Head Generation</h2>
-<p>Goal: Create controllable talking head given few-shot target person data. 
-Challenges:</p>
-<ul>
-  <li>Head-lip motion match with audio</li>
-  <li>Achieve realistic results</li>
-  <li>Unseen camera pose problem.</li>
-</ul>
+<h2 id="itri-finetuning-and-enhancement-using-latent-diffusion-for-medical-image">ITRI: Finetuning and Enhancement using Latent Diffusion for medical image</h2>
 
-<figure class="figure">
-  <a class="figure-image" aria-label="figure link">
-    <img src="/ACM_NYCU_website/images/research/multimedia/2d_avatar.jpg" style="
-        width: auto;
-        max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/ACM_NYCU_website/images/fallback.svg'; this.onerror = null;">
-  </a>
-  
-</figure>
+<p>Goal: Fine-tune a pretrained diffusion model on a new medical domain (different organ) and use the adapted model for image enhancement.</p>
 
-<h2 id="3d-talking-avatar">3D Talking Avatar</h2>
-<p>Goal: Create a fully controllable 3D photorealistic avatar. 
-Challenges: OOD-NVS problem, few input views, controllable by mesh</p>
+<p>Motivation: Medical imaging data for certain organs is often limited. To address this, we propose leveraging the prior knowledge embedded in pretrained diffusion models from other organs. By fine-tuning on the target organ, the model can better generalize, enabling effective image enhancement and synthetic data generation in data-scarce settings.</p>
 
-<h2 id="robot-3d-vision">Robot 3D vision</h2>
+<h2 id="style-transfer-using-transformer-based-for-ultrasound-medical-image">Style transfer using transformer-based for ultrasound medical image</h2>
 
-<h2 id="3d-scene-relighting">3D Scene Relighting</h2>
+<p>Goal: Improve ultrasound image translation to enhance downstream task performance across devices.</p>
 
-<h2 id="physical--world-model">Physical / World model</h2>
+<p>Motivation: Different ultrasound devices produce varying styles, which hinder model generalization. Existing UI2I methods overlook task-relevant style filtering, leading to suboptimal results. Our proposed approach addresses this by preserving content and selectively transferring useful style features.</p>
 
-<p>We focuses on developing physical and world models that empower intelligent agents to understand, predict, and interact with their environment. By combining perception, dynamics, and reasoning, we aim to build systems that can simulate real-world scenarios, enabling robust decision-making and generalization in complex tasks.</p>
+<h2 id="document-qa-dataset-generation">Document QA dataset generation</h2>
   </section>
 
 

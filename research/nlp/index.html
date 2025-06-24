@@ -39,21 +39,21 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Multimedia-related research | Applied Computing and Multimedia Lab</title>
+<title>Natural Language Processing | Applied Computing and Multimedia Lab</title>
 
 <link rel="icon" href="/ACM_NYCU_website/images/icon.png">
 
-<meta name="title" content="Multimedia-related research">
+<meta name="title" content="Natural Language Processing">
 <meta name="description" content="應用運算與多媒體實驗室. ACM Lab - National Yang Ming Chiao Tung University">
 
-<meta property="og:title" content="Multimedia-related research">
+<meta property="og:title" content="Natural Language Processing">
 <meta property="og:site_title" content="Applied Computing and Multimedia Lab">
 <meta property="og:description" content="應用運算與多媒體實驗室. ACM Lab - National Yang Ming Chiao Tung University">
 <meta property="og:url" content="https://nycu-acm.github.io/ACM_NYCU_website">
 <meta property="og:image" content="/ACM_NYCU_website/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
-<meta property="twitter:title" content="Multimedia-related research">
+<meta property="twitter:title" content="Natural Language Processing">
 <meta property="twitter:description" content="應用運算與多媒體實驗室. ACM Lab - National Yang Ming Chiao Tung University">
 <meta property="twitter:url" content="https://nycu-acm.github.io/ACM_NYCU_website">
 <meta property="twitter:card" content="summary_large_image">
@@ -69,9 +69,9 @@
     
       "@type": "WebSite",
     
-    "name": "Multimedia-related research",
+    "name": "Natural Language Processing",
     "description": "應用運算與多媒體實驗室. ACM Lab - National Yang Ming Chiao Tung University",
-    "headline": "Multimedia-related research",
+    "headline": "Natural Language Processing",
     "publisher": {
       "@type": "Organization",
       "logo": { "@type": "ImageObject", "url": "/ACM_NYCU_website/images/icon.png" }
@@ -473,15 +473,15 @@
   
   
 
-  <section class="background" data-size="2" data-dark="true" style="--image: url('/ACM_NYCU_website/images/research/multimedia.jpg')">
+  <section class="background" data-size="2" data-dark="true" style="--image: url('/ACM_NYCU_website/images/research/nlp.jpg')">
     <!--
-  background: images/research/multimedia.jpg;
+  background: images/research/nlp.jpg;
   dark: true;
   size: 2;
 -->
 
-<h1 id="multimedia-related-research">
-<i class="icon fa-solid fa-wrench"></i>Multimedia-related research</h1>
+<h1 id="natural-language-process">
+<i class="icon fa-solid fa-wrench"></i>Natural Language Process</h1>
   </section>
 
   
@@ -495,36 +495,53 @@
   size: ;
 -->
 
-<h2 id="itri-2d-talking-head-generation">ITRI 2D Talking Head Generation</h2>
-<p>Goal: Create controllable talking head given few-shot target person data. 
-Challenges:</p>
-<ul>
-  <li>Head-lip motion match with audio</li>
-  <li>Achieve realistic results</li>
-  <li>Unseen camera pose problem.</li>
-</ul>
+<h2 id="verilog-code-generation">Verilog Code Generation</h2>
 
-<figure class="figure">
-  <a class="figure-image" aria-label="figure link">
-    <img src="/ACM_NYCU_website/images/research/multimedia/2d_avatar.jpg" style="
-        width: auto;
-        max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/ACM_NYCU_website/images/fallback.svg'; this.onerror = null;">
-  </a>
-  
-</figure>
+<p>Code generation:
+Goal:
+Focus on an 8-bit RISC architecture CPU using the Verilog hardware description language, based on a Finite State Machine (FSM).
+Challenges:
+Generating Verilog code with LLMs requires deep domain knowledge of hardware architecture, circuit design, and low-level implementation constraints, which is difficult to capture with standard LLM training datasets.</p>
 
-<h2 id="3d-talking-avatar">3D Talking Avatar</h2>
-<p>Goal: Create a fully controllable 3D photorealistic avatar. 
-Challenges: OOD-NVS problem, few input views, controllable by mesh</p>
+<p>While LLMs can learn HDL syntax due to its similarity with software languages, they often struggle to generate functionally correct and high-quality hardware designs.</p>
 
-<h2 id="robot-3d-vision">Robot 3D vision</h2>
+<p>Achieving reliable Verilog code generation typically demands additional domain-specific processing, fine-tuning, and tailored datasets beyond what is used for general code generation.</p>
 
-<h2 id="3d-scene-relighting">3D Scene Relighting</h2>
+<h2 id="text---image-watermarking">Text - Image Watermarking</h2>
+<h3 id="image-watermarking">Image Watermarking</h3>
+<p>Goal:
+The primary goal of image watermarking is to embed information within digital images in a manner that ensures both copyright protection and traceability, without compromising image quality. In the context of generative models, this includes integrating watermarks directly into the image generation process to enable robust model ownership verification and resistance against a wide range of attacks.</p>
 
-<h2 id="physical--world-model">Physical / World model</h2>
+<p>Challenges:
+Achieving a balance between robustness, imperceptibility, and adaptability remains a core challenge. Traditional methods often require complex synchronization or template mechanisms and may focus only on output images, limiting traceability to the model itself. Watermarking approaches must withstand diverse manipulations such as compression, rotation, and blurring while maintaining high visual fidelity. Furthermore, adapting watermarking techniques to different generative architectures and simplifying the encoding/decoding process, all while providing standardized benchmarks for evaluation, continue to be significant research hurdles.</p>
 
-<p>We focuses on developing physical and world models that empower intelligent agents to understand, predict, and interact with their environment. By combining perception, dynamics, and reasoning, we aim to build systems that can simulate real-world scenarios, enabling robust decision-making and generalization in complex tasks.</p>
+<h3 id="text-watermarking">Text Watermarking</h3>
+<p>Goal:</p>
+
+<p>To embed robust and imperceptible identifiers within textual content in order to preserve integrity, authenticate documents, and protect ownership—particularly in the context of modern applications involving large language models (LLMs).</p>
+
+<p>Challenges:</p>
+
+<p>Ensuring that watermarks remain both robust against attacks and inconspicuous to maintain readability and meaning.</p>
+
+<p>Adapting watermarking techniques to evolving text generation scenarios introduced by LLMs, such as embedding watermarks during LLM-based text generation.</p>
+
+<p>Addressing new risks and complexities brought by powerful LLMs, including watermark removal, unauthorized usage, and the need for algorithms that work reliably across diverse generative models and application settings.</p>
+
+<h2 id="time-series-forecasting">Time Series Forecasting</h2>
+<p>Goal:
+To effectively leverage large language models (LLMs) for time series forecasting by developing approaches that can generalize across domains, adapt to diverse scenarios, and perform robustly without the need for extensive retraining or fine-tuning.</p>
+
+<p>Challenges:
+The application of LLMs to time series forecasting is controversial, as recent studies suggest that simpler architectures may offer similar or even better performance. Main challenges include aligning time series data with language model representations, handling non-stationarity and long forecasting horizons, ensuring adaptability to domain shifts, and achieving reliable performance with limited or zero additional training—all while maintaining computational efficiency.</p>
+
+<h2 id="meeting-minutes">Meeting Minutes</h2>
+
+<p>Goal:
+To create effective meeting recaps that document key decisions and discussions, support collaboration, and facilitate information sharing. Recaps help both newcomers and experts by aiding memory, onboarding, and deeper understanding of meeting topics.</p>
+
+<p>Challenges:
+The value and needs for meeting recaps vary based on organizational culture, meeting goals, participant roles, and expectations. There is no universal standard for a good recap; too much detail can cause information overload, while too little can omit important context. Non-linear meeting structures and back-channel communications further complicate the process of creating recaps that are both useful and manageable for all participants.</p>
   </section>
 
 
