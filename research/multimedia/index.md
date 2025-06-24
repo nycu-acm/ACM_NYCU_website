@@ -8,8 +8,9 @@ title: Multimedia-related research
 {% include section.html %}
 
 ## ITRI 2D Talking Head Generation
-Goal: Create controllable talking head given few-shot target person data. 
-Challenges:
+__Goal:__ Create controllable talking head given few-shot target person data.
+
+__Challenges:__
 * Head-lip motion match with audio
 * Achieve realistic results
 * Unseen camera pose problem.
@@ -17,8 +18,9 @@ Challenges:
 {% include figure.html image="images/research/multimedia/2d_avatar.jpg" %}
 
 ## 3D Talking Avatar
-Goal: Create a fully controllable 3D photorealistic avatar. 
-Challenges: OOD-NVS problem, few input views, controllable by mesh
+__Goal:__ Create a fully controllable 3D photorealistic avatar. 
+
+__Challenges:__ OOD-NVS problem, few input views, controllable by mesh
 
 ## Robot 3D vision
 
