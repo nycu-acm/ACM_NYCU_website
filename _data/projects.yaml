@@ -2,7 +2,7 @@
   # subtitle: a subtitle
   group: featured
   image: images/research/auto.jpg
-  link: https://github.com/
+  link: research/auto
 
 - title: Multimedia
   # subtitle: a subtitle
@@ -14,13 +14,13 @@
   # subtitle: a subtitle
   group: featured
   image: images/research/medical.jpg
-  link: https://github.com/
+  link: research/medical
 
 - title: Natural Language Processing
   # subtitle: a subtitle
   group: featured
   image: images/research/nlp.jpg
-  link: https://github.com/
+  link: research/nlp
 
 # - title: Smart Traffic
 #   subtitle: a subtitle
