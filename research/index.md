@@ -13,7 +13,7 @@ nav:
 {% include search-info.html %}
 
 {% include section.html %}
-## Research Direction
+## Research Fields
 
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
