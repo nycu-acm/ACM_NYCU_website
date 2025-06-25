@@ -18,12 +18,16 @@ nav:
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
 {% include section.html %}
-## Latest News
+## Research News
 
-{% include list.html data="posts" component="post-excerpt" filters="tags: research-activity" %}
+{% include list_show_only_five.html data="posts" component="post-excerpt" style="small" filters="tags: research-activity" %}
+
+{% include button.html link="news/?search=\"tag:%20research-activity\"" text="Watch more news" icon="fa-solid fa-newspaper" %}
+
+<!-- {% include list.html data="posts" component="post-excerpt"  %} -->
 
 {% include section.html %}
-## Honors
+## Research Honors
 
 | Number | Record | Year | 
 | :----: | :----: | :----: |

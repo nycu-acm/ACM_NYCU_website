@@ -76,7 +76,7 @@ Besides, we also try to build an international environment in our lab, you may f
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See our research fields"
   icon="fa-solid fa-arrow-right"
   flip=true
 %}
@@ -85,7 +85,7 @@ Besides, we also try to build an international environment in our lab, you may f
 
 {%
   include feature.html
-  image="images/research/image_processing.jpg"
+  image="images/research/auto.jpg"
   link="research"
   title="Our Research"
   text=text
