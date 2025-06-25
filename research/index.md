@@ -24,7 +24,6 @@ nav:
 
 {% include button.html link="news/?search=\"tag:%20research-activity\"" text="Watch more news" icon="fa-solid fa-newspaper" %}
 
-<!-- {% include list.html data="posts" component="post-excerpt"  %} -->
 
 {% include section.html %}
 ## Research Honors
