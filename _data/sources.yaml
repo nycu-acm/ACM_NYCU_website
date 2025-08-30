@@ -205,6 +205,12 @@
 # -------------------------------------------------------------
 # -------------------------------------------------------------
 # -------------------------------------------------------------
+- authors: Nhat-Tuong Do-Tran, Ngoc-Hoang-Lam Le, Ian Chiu, Po-Tsun Paul Kuo, Ching-Chun Huang
+  date: 2025-8-28
+  image: 'images/international-conferences/apsipa-asc-trust.jpg'
+  publisher: The 17th Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC 2025)
+  title: 'TRUST: Token‑dRiven Ultrasound Style Transfer for Cross‑Device Adaptation'
+  type: conference
 
 - authors: Ching-Hung Cheng, Hsiu-Fu Wu, Bing-Chen Wu, Khanh-Phong Bui, Van-Tin Luu, Ching-Chun Huang
   date: 2025-5-26
