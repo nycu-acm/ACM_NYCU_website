@@ -235,6 +235,17 @@
   link: https://ieeexplore.ieee.org/document/5604282
   plugin: sources.py
   file: sources.yaml
+- authors: Nhat-Tuong Do-Tran, Ngoc-Hoang-Lam Le, Ian Chiu, Po-Tsun Paul Kuo, Ching-Chun
+    Huang
+  date: '2025-08-28'
+  image: images/international-conferences/apsipa-asc-trust.jpg
+  publisher: The 17th Asia Pacific Signal and Information Processing Association Annual
+    Summit and Conference (APSIPA ASC 2025)
+  title: "TRUST: Token\u2011dRiven Ultrasound Style Transfer for Cross\u2011Device\
+    \ Adaptation"
+  type: conference
+  plugin: sources.py
+  file: sources.yaml
 - authors: Ching-Hung Cheng, Hsiu-Fu Wu, Bing-Chen Wu, Khanh-Phong Bui, Van-Tin Luu,
     Ching-Chun Huang
   date: '2025-05-26'
