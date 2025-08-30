@@ -1,7 +1,7 @@
 ---
 name: 杜陳日祥 Do Tran Nhat Tuong
 image: images/members/312540013.jpg 
-role: current-master
+role: current-phd
 aliases:
   - Nhat-Tuong Do-Tran
 links:

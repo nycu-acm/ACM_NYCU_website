@@ -1,7 +1,7 @@
 ---
 name: 黎光勝 Le Quang Thang 
 image: images/members/312540011.jpg 
-role: current-master
+role: current-phd
 aliases:
   - quang thang le
 links:
