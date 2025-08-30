@@ -27,6 +27,10 @@ Our team consists of passionate scientists, postdocs, and students who work toge
 
 {% include list.html data="members" component="portrait" filters="role: current-master" %}
 
+## Undergraduate members
+
+{% include list.html data="members" component="portrait" filters="role: current-undergrad" %}
+
 ## Former Master students
 
 {% include list.html data="members" component="portrait" filters="role: alumni-master" %}
