@@ -244,6 +244,7 @@
   title: "TRUST: Token\u2011dRiven Ultrasound Style Transfer for Cross\u2011Device\
     \ Adaptation"
   type: conference
+  link: https://arxiv.org/abs/2509.00508
   plugin: sources.py
   file: sources.yaml
 - authors: Ching-Hung Cheng, Hsiu-Fu Wu, Bing-Chen Wu, Khanh-Phong Bui, Van-Tin Luu,
