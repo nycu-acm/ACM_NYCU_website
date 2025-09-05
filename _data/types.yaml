@@ -30,6 +30,10 @@ current-undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
+current-intern:
+  icon: fa-solid fa-code
+  description: Intern
+
 alumni-master:
   icon: fa-solid fa-user-graduate
   description: Master Alumni
