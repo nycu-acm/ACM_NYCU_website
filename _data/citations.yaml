@@ -301,11 +301,11 @@
 - authors: Ta Chun Tai, Nhat-Tuong Do-Tran, Ngoc-Hoang-Lam Le, Yung-Hui Li, Ching-Chun
     Huang
   date: '2024-01-01'
-  image: nan
+  image: images/international-conferences/ACCV_DA^2.jpg
   publisher: Asian Conference on Computer Vision 2024 (ACCV 2024)
   title: 'DA^2: Degree-Accumulated Data Augmentation on Point Clouds with Curriculum
     Dynamic Threshold Selection'
-  link: https://accv2024.org/wp-content/uploads/2024/10/program1.pdf
+  link: https://openaccess.thecvf.com/content/ACCV2024/papers/Tai_DA2_Degree-Accumulated_Data_Augmentation_on_Point_Clouds_with_Curriculum_Dynamic_ACCV_2024_paper.pdf
   type: conference
   plugin: sources.py
   file: sources.yaml
