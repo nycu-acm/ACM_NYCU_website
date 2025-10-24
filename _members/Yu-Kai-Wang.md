@@ -2,6 +2,7 @@
 name: 王宥愷 YU-KAI WANG
 image: images/members/Yu-Kai-Wang.jpg 
 role: current-master
+enteryear: 2025
 aliases:
   - yu kai wang
 links:

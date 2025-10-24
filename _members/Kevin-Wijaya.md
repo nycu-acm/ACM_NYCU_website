@@ -2,6 +2,7 @@
 name: 楊百良 Kevin Wijaya
 image: images/members/kevin-wijaya.jpg 
 role: current-master
+enteryear: 2025
 aliases:
   - Kevin Wijaya
 links:

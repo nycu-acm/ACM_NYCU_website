@@ -2,6 +2,7 @@
 name: 葉彥谷 Ye Yan-Gu (Ricky)
 image: images/members/313581027.jpg
 role: current-master
+enteryear: 2024
 aliases:
   - yan gu ye
 links:
