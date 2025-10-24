@@ -68,13 +68,6 @@
   font-weight: var(--semi-bold);
 }
 
-.portrait-enteryear {
-  display: block;
-  font-size: 0.9rem;
-  color: red;
-  margin-top: 4px;
-}
-
 .portrait[data-style=tiny] .portrait-description,
 .portrait[data-style=tiny] .portrait-affiliation {
   display: none;
