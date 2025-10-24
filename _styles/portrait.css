@@ -68,7 +68,6 @@
   font-weight: var(--semi-bold);
 }
 
-.portrait[data-style=tiny] .portrait-enteryear,
 .portrait[data-style=tiny] .portrait-description,
 .portrait[data-style=tiny] .portrait-affiliation {
   display: none;
