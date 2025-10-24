@@ -43,7 +43,7 @@ Our team consists of passionate scientists, postdocs, and students who work toge
 
 {% include list.html data="members" component="portrait" filters="role: alumni-undergraduate" %}
 
-## Former Members
+## Former Visiting Members
 
 {% include list.html data="members" component="portrait" filters="role: formerMem" %}
 

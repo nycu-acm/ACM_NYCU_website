@@ -2,6 +2,7 @@
 name: 羅翊軒 LO,I-HSUAN 
 image: images/members/312554014.jpg 
 role: current-master
+enteryear: 2023
 aliases:
   - i hsuan lo
 links:

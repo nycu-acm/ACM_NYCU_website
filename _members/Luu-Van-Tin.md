@@ -2,6 +2,7 @@
 name: 劉萬信 Luu Van Tin 
 image: images/members/312540004.jpg 
 role: current-phd
+enteryear: 2023
 aliases:
   - van tin luu
 links:

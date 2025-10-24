@@ -10,10 +10,6 @@ co-ad:
   icon: fa-solid fa-microscope
   description: Co-Advisor, Former PhD Student
 
-formerMem:
-  icon: fa-solid fa-user-group
-  description: Former Member
-
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
@@ -41,6 +37,10 @@ alumni-master:
 alumni-undergraduate:
 icon: fa-solid fa-user-graduate
 description: Undergraduate Alumni
+
+formerMem:
+  icon: fa-solid fa-user-group
+  description: Former Visiting Members
 
 programmer:
   icon: fa-solid fa-code

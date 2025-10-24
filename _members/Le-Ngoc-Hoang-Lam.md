@@ -2,6 +2,7 @@
 name: 黎玉黃林 Le Ngoc Hoang Lam 
 image: images/members/312540020.jpg 
 role: current-master
+enteryear: 2023
 aliases:
   - Ngoc-Hoang-Lam Le
 links:

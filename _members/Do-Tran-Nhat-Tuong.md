@@ -2,6 +2,7 @@
 name: 杜陳日祥 Do Tran Nhat Tuong
 image: images/members/312540013.jpg 
 role: current-master
+enteryear: 2023
 aliases:
   - Nhat-Tuong Do-Tran
 links:

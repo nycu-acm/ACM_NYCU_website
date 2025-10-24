@@ -2,6 +2,7 @@
 name: 陳茹雪 Kanjanaporn Tangprapha 
 image: images/members/313540014.jpg 
 role: current-master
+enteryear: 2024
 aliases:
   - kanjanaporn
   - tangprapha
