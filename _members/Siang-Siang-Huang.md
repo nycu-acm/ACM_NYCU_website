@@ -1,7 +1,7 @@
 ---
 name: 黃襄香 SIANG-SIANG HUANG
 image: images/members/Siang-Siang-Huang.jpg 
-role: current-undergraduate
+role: current-undergrad
 aliases:
   - siang siang huang
 links:

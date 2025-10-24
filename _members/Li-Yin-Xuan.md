@@ -1,7 +1,7 @@
 ---
 name: 李尹瑄 Li Yin Xuan
 image: images/members/Li-Yin-Xuan.jpg 
-role: current-undergraduate
+role: current-undergrad
 aliases:
   - li yin xuan
 links:
