@@ -72,7 +72,10 @@
 }
 
 .portrait-enteryear {
-  text-align: center;
+  display: block;
+  font-size: 0.9rem;
+  color: red;
+  margin-top: 4px;
 }
 
 .portrait[data-style="tiny"] {
