@@ -2,6 +2,7 @@
 name: 莊博丞 Chuang Po Cheng
 image: images/members/Chuang-Po-Cheng.png
 role: current-undergrad
+enteryear: 2025
 aliases:
   - po cheng chuang
 links:
