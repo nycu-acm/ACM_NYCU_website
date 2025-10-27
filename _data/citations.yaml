@@ -1,5 +1,16 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- authors: Hsueh, Hao-Chien; Do, Huu-Phu; Chen, Chi-Han; Chiang, Tzu-Hao; Peng, Wen-Hsiao;
+    Huang, Ching-Chun
+  date: '2025-10-23'
+  image: nan
+  publisher: ACM Transactions on Intelligent Systems and Technology
+  title: 'ExReg: Wide-range Photo Exposure Correction via a Multi-dimensional Regressor
+    with Attention'
+  type: journal
+  link: nan
+  plugin: sources.py
+  file: sources.yaml
 - authors: Limantoro, Stephen Ekaputra; Huang, Ching-Chun; Shuai, Hong-Han; Cheng,
     Wen-Huang
   date: '2025-04-12'
@@ -233,6 +244,17 @@
   title: A Hierarchical Bayesian Generation Framework for Vacant Parking Space Detection
   type: journal
   link: https://ieeexplore.ieee.org/document/5604282
+  plugin: sources.py
+  file: sources.yaml
+- authors: Huu-Phu Do, Yu-Wei Chen, Yi-Cheng Liao, Chi-Wei Hsiao, Han-Yang Wang, Wei-Chen
+    Chiu, Ching-Chun Huang
+  date: '2025-07-05'
+  image: images/international-conferences/dynfacerestore.jpg
+  publisher: International Conference on Computer Vision (ICCV) 2025
+  title: 'DynFaceRestore:  Balancing Fidelity and Quality in Diffusion-Guided Blind
+    Face Restoration with  Dynamic Blur-Level Mapping and Guidance'
+  type: conference
+  link: https://arxiv.org/pdf/2507.13797
   plugin: sources.py
   file: sources.yaml
 - authors: Nhat-Tuong Do-Tran, Ngoc-Hoang-Lam Le, Ian Chiu, Po-Tsun Paul Kuo, Ching-Chun
