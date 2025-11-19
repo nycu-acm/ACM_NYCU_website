@@ -23,6 +23,7 @@ Our team consists of passionate scientists, postdocs, and students who work toge
 
 {% include list.html data="members" component="portrait" filters="role: current-phd, enteryear: 2023" %}
 {% include list.html data="members" component="portrait" filters="role: current-phd, enteryear: 2024" %}
+{% include list.html data="members" component="portrait" filters="role: current-phd, enteryear: 2025" %}
 
 ## Master students
 
