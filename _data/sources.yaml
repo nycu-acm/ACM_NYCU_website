@@ -215,7 +215,7 @@
 # -------------------------------------------------------------
 
 - authors: Nhat-Tuong Do-Tran, Le Ngoc Hoang Lam, Ching-Chun Huang
-  date: 2025-11-12
+  date: 2026-01-01
   image: 'images/international-conferences/uistyler.jpg'
   publisher: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026'
   title: 'UI-Styler: Ultrasound Image Style Transfer with Class-Aware Prompts for Cross-Device Diagnosis Using a Frozen Black-Box Inference Network'
@@ -223,7 +223,7 @@
   link: https://arxiv.org/pdf/2511.17155
 
 - authors: Tsai-Ling Huang, Nhat-Tuong Do-Tran, Le Ngoc Hoang Lam, Hong-Han Shuai, Ching-Chun Huang
-  date: 2025-11-12
+  date: 2026-01-01
   image: 'images/international-conferences/dna.jpg'
   publisher: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026'
   title: 'DNA: Dual-branch Network with Adaptation for Open-Set Online Handwriting Generation'
@@ -231,7 +231,7 @@
   link: https://arxiv.org/pdf/2511.22064
 
 - authors: Chia Hern Lai, I-Hsuan Lo, Yen-Ku Yeh, Thanh-Nguyen Truong, Ching-Chun Huang
-  date: 2025-11-12
+  date: 2026-01-01
   image: 'images/international-conferences/blur2sharp.jpg'
   publisher: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026'
   title: 'Blur2Sharp: Human Novel Pose and View Synthesis with Generative Prior Refinement'
