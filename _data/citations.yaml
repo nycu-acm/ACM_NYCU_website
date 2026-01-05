@@ -246,6 +246,40 @@
   link: https://ieeexplore.ieee.org/document/5604282
   plugin: sources.py
   file: sources.yaml
+- authors: Nhat-Tuong Do-Tran, Le Ngoc Hoang Lam, Ching-Chun Huang
+  date: '2025-11-12'
+  image: images/international-conferences/uistyler.jpg
+  publisher: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+    2026
+  title: 'UI-Styler: Ultrasound Image Style Transfer with Class-Aware Prompts for
+    Cross-Device Diagnosis Using a Frozen Black-Box Inference Network'
+  type: conference
+  link: https://arxiv.org/pdf/2511.17155
+  plugin: sources.py
+  file: sources.yaml
+- authors: Tsai-Ling Huang, Nhat-Tuong Do-Tran, Le Ngoc Hoang Lam, Hong-Han Shuai,
+    Ching-Chun Huang
+  date: '2025-11-12'
+  image: images/international-conferences/dna.jpg
+  publisher: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+    2026
+  title: 'DNA: Dual-branch Network with Adaptation for Open-Set Online Handwriting
+    Generation'
+  type: conference
+  link: https://arxiv.org/pdf/2511.22064
+  plugin: sources.py
+  file: sources.yaml
+- authors: Chia Hern Lai, I-Hsuan Lo, Yen-Ku Yeh, Thanh-Nguyen Truong, Ching-Chun
+    Huang
+  date: '2025-11-12'
+  image: images/international-conferences/blur2sharp.jpg
+  publisher: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+    2026
+  title: 'Blur2Sharp: Human Novel Pose and View Synthesis with Generative Prior Refinement'
+  type: conference
+  link: https://arxiv.org/pdf/2512.08215
+  plugin: sources.py
+  file: sources.yaml
 - authors: Huu-Phu Do, Yu-Wei Chen, Yi-Cheng Liao, Chi-Wei Hsiao, Han-Yang Wang, Wei-Chen
     Chiu, Ching-Chun Huang
   date: '2025-07-05'
