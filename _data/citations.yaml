@@ -247,7 +247,7 @@
   plugin: sources.py
   file: sources.yaml
 - authors: Nhat-Tuong Do-Tran, Le Ngoc Hoang Lam, Ching-Chun Huang
-  date: '2025-11-12'
+  date: '2026-01-01'
   image: images/international-conferences/uistyler.jpg
   publisher: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
     2026
@@ -259,7 +259,7 @@
   file: sources.yaml
 - authors: Tsai-Ling Huang, Nhat-Tuong Do-Tran, Le Ngoc Hoang Lam, Hong-Han Shuai,
     Ching-Chun Huang
-  date: '2025-11-12'
+  date: '2026-01-01'
   image: images/international-conferences/dna.jpg
   publisher: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
     2026
@@ -271,7 +271,7 @@
   file: sources.yaml
 - authors: Chia Hern Lai, I-Hsuan Lo, Yen-Ku Yeh, Thanh-Nguyen Truong, Ching-Chun
     Huang
-  date: '2025-11-12'
+  date: '2026-01-01'
   image: images/international-conferences/blur2sharp.jpg
   publisher: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
     2026
