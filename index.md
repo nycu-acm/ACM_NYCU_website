@@ -8,7 +8,7 @@ nav:
 {% include section.html %}
 
 {% capture lorem %}
-ACM 2025 Recruitment for Internship / Master / Ph.D. program / Full-time researcher is open! [Join us](join-us)
+ACM 2026 Recruitment for Internship / Master / Ph.D. program / Full-time researcher is open! [Join us](join-us)
 {% endcapture %}
 {% capture content %}**Announcement:** {{ lorem }}{% endcapture %}
 {% include alert.html type="info" content=content %}
