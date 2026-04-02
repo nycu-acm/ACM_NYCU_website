@@ -6,7 +6,6 @@ enteryear: 2025
 aliases:
   - fahmi faizullah ghazanfar
 links:
-  email: fahmifaiz74@gmail.com
+  # email: fahmifaiz74@gmail.com
   google-scholar: _e6GKIEAAAAJ
-  facebook: demonslayer057
 ---

@@ -6,12 +6,12 @@ enteryear: 2023
 aliases:
   - Ngoc-Hoang-Lam Le
 links:
-  email: lengochoanglam.ee12@nycu.edu.tw
+  # email: lengochoanglam.ee12@nycu.edu.tw
   phone: +886-903116399
   orcid: 0009-0006-9004-7698
   google-scholar: 5xFNBH4AAAAJ
   youtube: "@LamLe2k"
-  facebook: LamLeHB
+  # facebook: LamLeHB
   linkedin: le-ngoc-hoang-lam-43869a323
   github: YaosuLee
 ---

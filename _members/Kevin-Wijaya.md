@@ -6,7 +6,7 @@ enteryear: 2025
 aliases:
   - Kevin Wijaya
 links:
-  email: tokevinwijaya@gmail.com
+  # email: tokevinwijaya@gmail.com
   instagram: _kevinwijaya
   linkedin: kevinwijaya-
   github: kevin-wijaya

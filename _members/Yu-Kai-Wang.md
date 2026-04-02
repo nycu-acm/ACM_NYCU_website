@@ -7,7 +7,7 @@ aliases:
   - yu kai wang
 links:
   home-page: https://jason0411202.github.io/
-  email: Jason0411202@gmail.com
+  # email: Jason0411202@gmail.com
   linkedin: '%E5%AE%A5%E6%84%B7-%E7%8E%8B-2b68662b1'
   github: Jason0411202
 ---

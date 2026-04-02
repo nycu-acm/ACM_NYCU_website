@@ -6,7 +6,7 @@ enteryear: 2023
 aliases:
   - van tin luu
 links:
-  email: tinery057@gmail.com
+  # email: tinery057@gmail.com
   google-scholar: _e6GKIEAAAAJ
-  facebook: demonslayer057
+  # facebook: demonslayer057
 ---

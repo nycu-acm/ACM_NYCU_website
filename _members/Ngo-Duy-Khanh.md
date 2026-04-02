@@ -6,7 +6,7 @@ enteryear: 2024
 aliases:
   - duy khanh ngo
 links:
-  email: ngoduykhanh2009@gmail.com
+  # email: ngoduykhanh2009@gmail.com
   phone: +886-976281467
   github: KhanhNgoDuy
 ---

@@ -6,6 +6,6 @@ enteryear: 2025
 aliases:
   - yi tzu chen
 links:
-  email: yitzu1022@gmail.com
+  # email: yitzu1022@gmail.com
   phone: 0972721010
 ---

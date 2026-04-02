@@ -6,5 +6,5 @@ enteryear: 2025
 aliases:
   - siang siang huang
 links:
-  email: sunny0610.cs12@nycu.edu.tw
+  # email: sunny0610.cs12@nycu.edu.tw
 ---

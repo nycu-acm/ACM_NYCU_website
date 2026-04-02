@@ -6,5 +6,5 @@ enteryear: 2025
 aliases:
   - hao chung cheng
 links:
-  email: h44343880.cs14@nycu.edu.tw
+  # email: h44343880.cs14@nycu.edu.tw
 ---

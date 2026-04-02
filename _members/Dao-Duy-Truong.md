@@ -6,5 +6,5 @@ enteryear: 2025
 aliases:
   - duy truong dao
 links:
-  email: aotruong123@gmail.com
+  # email: aotruong123@gmail.com
 ---

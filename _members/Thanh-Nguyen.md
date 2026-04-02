@@ -6,7 +6,7 @@ enteryear: 2024
 aliases:
   - thanh nguyen
 links:
-  email: zhangthanhnguyen@gmail.com
+  # email: zhangthanhnguyen@gmail.com
   phone: +886-981640440
   instagram: th4nhnguyentr/
 ---

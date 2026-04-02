@@ -7,12 +7,12 @@ aliases:
   - huu phu do
 links:
   home-page: https://personal-page-github-io.vercel.app/?fbclid=IwY2xjawMg31dleHRuA2FlbQIxMABicmlkETF0c3hXeXhaTUs2V0w0a25zAR5qZwrAPjwyPOKClFZ4aGaJJzGQxRaZol1EJy1f5-DSJs5nm-KMcJsajF-5oA_aem_gc3D9j3hiMI1XjtxYgosIQ
-  email: dohuuphu25.ee11@nycu.edu.tw
+  # email: dohuuphu25.ee11@nycu.edu.tw
   orcid: 0009-0006-7327-9016
   google-scholar: 1I86inAAAAAJ
   youtube: watch?v=ABCDEF0FLWw
-  facebook: dhp0410
-  instagram: dohuuphu_
+  # facebook: dhp0410
+  # instagram: dohuuphu_
   linkedin: do-huu-phu-6734771a7
 ---
 <!-- # Your text goes here

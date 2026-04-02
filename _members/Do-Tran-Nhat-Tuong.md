@@ -7,13 +7,13 @@ aliases:
   - Nhat-Tuong Do-Tran
 links:
   home-page: https://sites.google.com/view/nhat-tuong-do-tran
-  email: tuongdotn.cs11@nycu.edu.tw
+  # email: tuongdotn.cs11@nycu.edu.tw
   phone: +886-981-376-855
   orcid: 0009-0000-7900-1564
   google-scholar: UUT7AlUAAAAJ
   youtube: '@otrannhattuong8158'
-  facebook: tuong.do.735
-  instagram: tuong0205
+  # facebook: tuong.do.735
+  # instagram: tuong0205
   linkedin: nhat-tuong-do-tran-631215251
   github: dotrannhattuong
 ---

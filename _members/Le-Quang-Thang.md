@@ -6,12 +6,12 @@ enteryear: 2023
 aliases:
   - quang thang le
 links:
-  email: lqthang2000.ee12@nycu.edu.tw
+  # email: lqthang2000.ee12@nycu.edu.tw
   phone: +886-972-904-124
   orcid: 0000-0000-0000-000
   google-scholar: q-K4DDgAAAAJ
-  facebook: lequangthang.001
-  instagram: thangquanglee
+  # facebook: lequangthang.001
+  # instagram: thangquanglee
   linkedin: le-quang-thang-8a7906211
 ---
 # 黎光勝 (Le Quang Thang)  

@@ -6,5 +6,5 @@ enteryear: 2025
 aliases:
   - hao min lin
 links:
-  email: jerrylin920720@gmail.com
+  # email: jerrylin920720@gmail.com
 ---

@@ -6,7 +6,7 @@ enteryear: 2024
 aliases:
   - ngoc phu doan
 links:
-  email: npdoan.ee13@nycu.edu.tw
+  # email: npdoan.ee13@nycu.edu.tw
   phone: (+886)905-140-655
   orcid: 0000-0003-1047-0471
   youtube: ngoc-phudoan7052

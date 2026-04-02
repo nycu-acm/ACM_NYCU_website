@@ -7,6 +7,6 @@ aliases:
   - li yin xuan
 links:
   homepage: https://people.cs.nycu.edu.tw/~liyx112550032/
-  email: leeyinxuan.cs12@nycu.edu.tw
+  # email: leeyinxuan.cs12@nycu.edu.tw
   github: YinXuan1223
 ---

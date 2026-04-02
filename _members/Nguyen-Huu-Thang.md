@@ -6,7 +6,6 @@ enteryear: 2025
 aliases:
   - huu thang nguyen
 links:
-  email: huuthang40019@gmail.com
+  # email: huuthang40019@gmail.com
   google-scholar: _e6GKIEAAAAJ
-  facebook: demonslayer057
 ---

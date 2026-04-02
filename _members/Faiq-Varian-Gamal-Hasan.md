@@ -6,7 +6,7 @@ enteryear: 2025
 aliases:
   - faiq varian gamal hasan
 links:
-  email: faiqvarian@gmail.com
+  # email: faiqvarian@gmail.com
   instagram: farnhasan
   linkedin: faiq-varian
 ---

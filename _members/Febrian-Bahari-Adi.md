@@ -6,6 +6,6 @@ aliases:
   - febrian bahari adi
 links:
   homepage: https://www.rianbahari.com/
-  email: febrian.bahariadi@gmail.com
+  # email: febrian.bahariadi@gmail.com
   linkedin: febrianbahariadi
 ---

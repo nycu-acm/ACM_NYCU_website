@@ -7,7 +7,7 @@ aliases:
   - kanjanaporn
   - tangprapha
 links:
-  email: 10301kanjanaporn@gmail.com
+  # email: 10301kanjanaporn@gmail.com
   phone: +886-975036113
   orcid: 0009-0002-8387-010X
   instagram: muse_mkt?igsh=MWVlMzVubWMzZGtlZA%3D%3D&utm_source=qr
