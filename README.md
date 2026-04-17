@@ -1,5 +1,5 @@
 
-# phudnhustDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# NYCU ACM
 
 Visit **[nycu-acm.github.io/ACM_NYCU_website](https://nycu-acm.github.io/ACM_NYCU_website)** 🚀
 
