@@ -24,19 +24,22 @@ Our team consists of passionate scientists, postdocs, and students who work toge
 {% include list.html data="members" component="portrait" filters="role: current-phd, enteryear: 2023" %}
 {% include list.html data="members" component="portrait" filters="role: current-phd, enteryear: 2024" %}
 {% include list.html data="members" component="portrait" filters="role: current-phd, enteryear: 2025" %}
+{% include list.html data="members" component="portrait" filters="role: current-phd, enteryear: 2026" %}
 
 ## Master students
 
 {% include list.html data="members" component="portrait" filters="role: current-master, enteryear: 2023" %}
 {% include list.html data="members" component="portrait" filters="role: current-master, enteryear: 2024" %}
 {% include list.html data="members" component="portrait" filters="role: current-master, enteryear: 2025" %}
+{% include list.html data="members" component="portrait" filters="role: current-master, enteryear: 2026" %}
 
 ## Undergraduate members
 
 {% include list.html data="members" component="portrait" filters="role: current-undergrad, enteryear: 2025" %}
+{% include list.html data="members" component="portrait" filters="role: current-undergrad, enteryear: 2026" %}
 
 ## Interns
-{% include list.html data="members" component="portrait" filters="role: current-intern, enteryear: 2025" %}
+{% include list.html data="members" component="portrait" filters="role: current-intern, enteryear: 2026" %}
 
 ## Former Master students
 
@@ -53,6 +56,7 @@ Our team consists of passionate scientists, postdocs, and students who work toge
 {% include list.html data="members" component="portrait" filters="role: alumni-master, enteryear: 2021" %}
 {% include list.html data="members" component="portrait" filters="role: alumni-master, enteryear: 2022" %}
 {% include list.html data="members" component="portrait" filters="role: alumni-master, enteryear: 2023" %}
+{% include list.html data="members" component="portrait" filters="role: alumni-master, enteryear: 2024" %}
 
 ## Former Undergraduate students
 
@@ -86,3 +90,5 @@ Our team consists of passionate scientists, postdocs, and students who work toge
 {% include list.html data="members" component="portrait" filters="role: formerMem, enteryear: 2022" %}
 {% include list.html data="members" component="portrait" filters="role: formerMem, enteryear: 2023" %}
 {% include list.html data="members" component="portrait" filters="role: formerMem, enteryear: 2024" %}
+{% include list.html data="members" component="portrait" filters="role: formerMem, enteryear: 2025" %}
+{% include list.html data="members" component="portrait" filters="role: formerMem, enteryear: 2026" %}
