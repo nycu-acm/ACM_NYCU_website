@@ -18,6 +18,10 @@ current-phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
+current-phd-alumni-master:
+  icon: fa-solid fa-graduation-cap
+  description: PhD Student, Master Alumni
+
 current-master:
   icon: fa-solid fa-user-graduate
   description: Master Student

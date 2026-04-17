@@ -1,8 +1,8 @@
 ---
 name: 黎光勝 Le Quang Thang 
 image: images/members/312540011.jpg 
-role: current-phd
-enteryear: 2023
+role: current-phd-alumni-master
+enteryear: 2025
 aliases:
   - quang thang le
 links:
