@@ -35,7 +35,7 @@ Become a part of our collaborative and forward-thinking research community. At o
 {% include section.html %}
 ## More info
 * [NYCU Admission for International Students](https://oia.nycu.edu.tw/oia/en/app/folder/781)
-* [Taiwan Experience Education Program (TEEP)](https://teep.studyintaiwan.org/program/273)
+* [Taiwan Experience Education Program (TEEP)](https://teep.studyintaiwan.org/program/1359)
 
 {%
   include figure.html
