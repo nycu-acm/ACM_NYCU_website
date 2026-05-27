@@ -230,6 +230,46 @@
 # -------------------------------------------------------------
 # -------------------------------------------------------------
 
+- authors: Yen-Kuan Ho, Feng Chu Lin, Ting-Han Lin, Huu-Tai Phung, Ching-Chun Huang, Alessandro Gnutti, Wen-Hsiao Peng
+  date: 2026-05-27
+  # image: 'images/international-conferences/adapt.jpg'
+  publisher: 'IEEE International Conference on Image Processing (ICIP) 2026'
+  title: 'ADAPT: Any-codec Diffusion-based Adaptation for Image Perception-Distortion Tradeoff'
+  type: conference
+  link:
+
+- authors: Yuan-Zhih Lin, Thang Nguyen Huu, Huu-Phu Do, Hong-Han Shuai, Ching-Chun Huang
+  date: 2026-05-27
+  # image: 'images/international-conferences/idag-edit.jpg'
+  publisher: 'IEEE International Conference on Image Processing (ICIP) 2026'
+  title: 'IDAG-Edit: Multi-Object Video Editing via Instance-Decoupled Attention and Guidance'
+  type: conference
+  link:
+
+- authors: Chi Han Chen, Wen Huang Cheng, Ching-Chun Huang
+  date: 2026-05-27
+  # image: 'images/international-conferences/patseg.jpg'
+  publisher: 'IEEE International Conference on Image Processing (ICIP) 2026'
+  title: 'PaTSeg: A Patch-Level Text Supervision Paradigm for Mask-Free Remote Sensing Segmentation'
+  type: conference
+  link:
+
+- authors: Yuan Kang Kuo, Quang-Thang Le, Ngoc-Phu Doan, Ching-Chun Huang
+  date: 2026-05-27
+  # image: 'images/international-conferences/text-pilot.jpg'
+  publisher: 'IEEE International Conference on Image Processing (ICIP) 2026'
+  title: 'TEXT-PILOT: Intelligent Visual Text Planning and Manipulation via Multi-Modal LLM as Agent'
+  type: conference
+  link:
+
+- authors: Duy Khanh Ngo, Huu-Phu Do, Ching-Chun Huang
+  date: 2026-05-27
+  # image: 'images/international-conferences/multi-light-relightable-gs.jpg'
+  publisher: 'IEEE International Conference on Image Processing (ICIP) 2026'
+  title: 'Multi-Light Relightable Gaussian Splatting with Phong Reflectance from in-the-wild images'
+  type: conference
+  link:
+
 - authors: Nhat-Tuong Do-Tran, Le Ngoc Hoang Lam, Ching-Chun Huang
   date: 2026-01-01
   image: 'images/international-conferences/uistyler.jpg'
