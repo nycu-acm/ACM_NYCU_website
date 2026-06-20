@@ -256,7 +256,7 @@
 
 - authors: Yuan Kang Kuo, Quang-Thang Le, Ngoc-Phu Doan, Ching-Chun Huang
   date: 2026-05-27
-  image: 'images/international-conferences/2026-06-20-ICIP2026-Text-Pilot.jpg'
+  image: 'images/international-conferences/2026-06-20-ICIP2026-Text-Pilot.png'
   publisher: 'IEEE International Conference on Image Processing (ICIP) 2026'
   title: 'TEXT-PILOT: Intelligent Visual Text Planning and Manipulation via Multi-Modal LLM as Agent'
   type: conference
@@ -264,7 +264,7 @@
 
 - authors: Duy Khanh Ngo, Huu-Phu Do, Ching-Chun Huang
   date: 2026-05-27
-  image: 'images/international-conferences/2026-06-20-ICIP2026-3DGS-Relighting.jpg'
+  image: 'images/international-conferences/2026-06-20-ICIP2026-3DGS-Relighting.png'
   publisher: 'IEEE International Conference on Image Processing (ICIP) 2026'
   title: 'Multi-Light Relightable Gaussian Splatting with Phong Reflectance from in-the-wild images'
   type: conference
