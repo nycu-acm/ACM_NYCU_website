@@ -6,6 +6,22 @@
 # -------------------------------------------------------------
 # -------------------------------------------------------------
 
+- authors: Quang-Thang Le, Nhat-Tuong Do-Tran, Ching-Hsien Lee, Ching-Chun Huang
+  date: '2026-06-27'
+  image: 'images/international-journals/LAMP.jpg'
+  publisher: 'IEEE Transactions on Automation Science and Engineering'
+  title: 'LAMP: Leveraging Autoregressive Modeling and Prompt Retrieval for Zero-Shot Time Series Forecasting'
+  type: journal
+  link: 'https://ieeexplore.ieee.org/document/11569091'
+
+- authors: Huei-Yung Lin, Hsin-Ling Lu, Ching-Chun Huang
+  date: '2026-06-27'
+  image: 'images/international-journals/SGMS-Fusion.jpg'
+  publisher: 'ISPRS Journal of Photogrammetry and Remote Sensing'
+  title: 'SGMS-Fusion: Semantic guided multi-scale fusion towards accurate vehicle localization via ground-aerial cross-view matching'
+  type: journal
+  link: 'https://www.sciencedirect.com/science/article/pii/S0924271626003345?via%3Dihub'
+
 - authors: Quang-Thang Le, Kevin Wijaya, Hsin-Yi Lai, Che-Kai Liu, Ching-Chun Huang
   date: '2026-03-31'
   image: 'images/international-journals/IEEETASE-HVAC.jpg'
