@@ -1,9 +1,9 @@
 import os
 
-# Folder chứa ảnh
+# Folder contain images
 folder = "./"
 
-# Lấy các file dạng banner{i}.jpg
+# Get files with format banner{i}.jpg
 image_files = []
 
 for fname in os.listdir(folder):
@@ -14,7 +14,7 @@ for fname in os.listdir(folder):
         except ValueError:
             pass
 
-# Sort giảm dần để tránh overwrite
+# Sort descent to avoid overwriting
 image_files.sort(reverse=True)
 
 # Rename banner{i}.jpg -> banner{i+1}.jpg
