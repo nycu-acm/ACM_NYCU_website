@@ -6,9 +6,17 @@
 # -------------------------------------------------------------
 # -------------------------------------------------------------
 
+- authors: Choon Chen LIM, Yuen Peng Loh, Lai-Kuan Wong, Ching-Chun Huang
+  date: '2026-06-29'
+  image: 'images/international-journals/25-LECY-Net.jpg'
+  publisher: 'IEEE Access'
+  title: 'LECY-Net: Joint Low-Light Image Enhancement and Classification Y-Net'
+  type: journal
+  link: 'https://ieeexplore.ieee.org/document/11522997'
+
 - authors: Quang-Thang Le, Nhat-Tuong Do-Tran, Ching-Hsien Lee, Ching-Chun Huang
   date: '2026-06-27'
-  image: 'images/international-journals/LAMP.jpg'
+  image: 'images/international-journals/24-LAMP.jpg'
   publisher: 'IEEE Transactions on Automation Science and Engineering'
   title: 'LAMP: Leveraging Autoregressive Modeling and Prompt Retrieval for Zero-Shot Time Series Forecasting'
   type: journal
@@ -16,7 +24,7 @@
 
 - authors: Huei-Yung Lin, Hsin-Ling Lu, Ching-Chun Huang
   date: '2026-06-27'
-  image: 'images/international-journals/SGMS-Fusion.jpg'
+  image: 'images/international-journals/23-SGMS-Fusion.jpg'
   publisher: 'ISPRS Journal of Photogrammetry and Remote Sensing'
   title: 'SGMS-Fusion: Semantic guided multi-scale fusion towards accurate vehicle localization via ground-aerial cross-view matching'
   type: journal
@@ -24,7 +32,7 @@
 
 - authors: Quang-Thang Le, Kevin Wijaya, Hsin-Yi Lai, Che-Kai Liu, Ching-Chun Huang
   date: '2026-03-31'
-  image: 'images/international-journals/IEEETASE-HVAC.jpg'
+  image: 'images/international-journals/22-IEEETASE-HVAC.jpg'
   publisher: 'IEEE Transactions on Automation Science and Engineering'
   title: 'Adaptive Model-Based Transfer Learning for Dynamic HVAC Control'
   type: journal
