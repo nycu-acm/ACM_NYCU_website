@@ -295,6 +295,16 @@
   link: https://ieeexplore.ieee.org/document/5604282
   plugin: sources.py
   file: sources.yaml
+- authors: Chi-En Yen, Duy-Khanh Ngo, Wen-Wei Tang, Huu-Phu Do, Wen-Hsiao Peng, Ching-Chun
+    Huang
+  date: '2026-07-25'
+  image: images/international-conferences/2026_07_25_ACMMM.jpg
+  publisher: ACM Multimedia 2026 (ACMMM)
+  title: 'FreeLit: Paired-Free Indoor Relighting via Physics-Guided Diffusion'
+  type: conference
+  link: https://arxiv.org/pdf/2607.13656
+  plugin: sources.py
+  file: sources.yaml
 - authors: Yen-Kuan Ho, Feng Chu Lin, Ting-Han Lin, Huu-Tai Phung, Ching-Chun Huang,
     Alessandro Gnutti, Wen-Hsiao Peng
   date: '2026-05-27'
