@@ -83,7 +83,7 @@ Our sponsors are integral to our success, empowering us to pursue bold, high-imp
 {%
   include figure.html
   image="images/sponsors-logo/IRCAD.png"
-  link="http://aits.tw/"
+  link="https://www.ircad.fr/?view=calendar"
 %}
 
 {%
