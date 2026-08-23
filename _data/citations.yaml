@@ -295,6 +295,16 @@
   link: https://ieeexplore.ieee.org/document/5604282
   plugin: sources.py
   file: sources.yaml
+- authors: Yik Yu Ng, Benjamin C. M. Fung, Elena Obukhova, Djedjiga Mouheb, Ching-Chun
+    Huang, Shih-Chia Huang
+  date: '2026-08-23'
+  image: images/international-conferences/2026_08_23_DSAA.jpg
+  publisher: IEEE DSAA 2026 Conference
+  title: 'MADS: Ensemble LLM-based Multi-Agent Debate System for Political Bias Detection'
+  type: conference
+  link: null
+  plugin: sources.py
+  file: sources.yaml
 - authors: Chi-En Yen, Duy-Khanh Ngo, Wen-Wei Tang, Huu-Phu Do, Wen-Hsiao Peng, Ching-Chun
     Huang
   date: '2026-07-25'
