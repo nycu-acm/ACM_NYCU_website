@@ -2,6 +2,7 @@
 name: "蘇祐生 vincent"
 image: "images/members/vincent.jpg"
 role: "current-master"
+enteryear: 2026
 aliases:
   - "vincnet"
 links:
