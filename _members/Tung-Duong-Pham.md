@@ -1,7 +1,7 @@
 ---
 name: 范鬆陽 Pham Tung Duong
 image: images/members/Tung-Duong-Pham.jpg
-role: current-intern
+role: formerMem
 enteryear: 2026
 aliases:
   - tung duong pham
