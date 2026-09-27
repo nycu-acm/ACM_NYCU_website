@@ -260,7 +260,7 @@
   publisher: 'IEEE DSAA 2026 Conference'
   title: 'MADS: Ensemble LLM-based Multi-Agent Debate System for Political Bias Detection'
   type: conference
-  link: 
+  link: https://dmas.lab.mcgill.ca/fung/pub/NFOMHH26dsaa_preprint.pdf
 
 - authors: Chi-En Yen, Duy-Khanh Ngo, Wen-Wei Tang, Huu-Phu Do, Wen-Hsiao Peng, Ching-Chun Huang
   date: 2026-07-25
@@ -272,11 +272,11 @@
 
 - authors: Yen-Kuan Ho, Feng Chu Lin, Ting-Han Lin, Huu-Tai Phung, Ching-Chun Huang, Alessandro Gnutti, Wen-Hsiao Peng
   date: 2026-05-27
-  # image: 'images/international-conferences/2026-06-20-ICIP2026-Video-editing.png'
+  image: 'images/international-conferences/2026-06-20-ICIP2026-ADAPT.jpg'
   publisher: 'IEEE International Conference on Image Processing (ICIP) 2026'
   title: 'ADAPT: Any-codec Diffusion-based Adaptation for Image Perception-Distortion Tradeoff'
   type: conference
-  link:
+  link: https://ieeexplore.ieee.org/document/11630121
 
 - authors: Yuan-Zhih Lin, Thang Nguyen Huu, Huu-Phu Do, Hong-Han Shuai, Ching-Chun Huang
   date: 2026-05-27
@@ -284,15 +284,15 @@
   publisher: 'IEEE International Conference on Image Processing (ICIP) 2026'
   title: 'IDAG-Edit: Multi-Object Video Editing via Instance-Decoupled Attention and Guidance'
   type: conference
-  link:
+  link: https://arxiv.org/html/2606.22042v1
 
 - authors: Chi Han Chen, Wen Huang Cheng, Ching-Chun Huang
   date: 2026-05-27
-  # image: 'images/international-conferences/patseg.jpg'
+  image: 'images/international-conferences/2026-06-20-ICIP2026-PATSEG.jpg'
   publisher: 'IEEE International Conference on Image Processing (ICIP) 2026'
   title: 'PaTSeg: A Patch-Level Text Supervision Paradigm for Mask-Free Remote Sensing Segmentation'
   type: conference
-  link:
+  link: https://ieeexplore.ieee.org/document/11630128
 
 - authors: Yuan Kang Kuo, Quang-Thang Le, Ngoc-Phu Doan, Ching-Chun Huang
   date: 2026-05-27
@@ -300,7 +300,7 @@
   publisher: 'IEEE International Conference on Image Processing (ICIP) 2026'
   title: 'TEXT-PILOT: Intelligent Visual Text Planning and Manipulation via Multi-Modal LLM as Agent'
   type: conference
-  link:
+  link: https://ieeexplore.ieee.org/document/11630578
 
 - authors: Duy Khanh Ngo, Huu-Phu Do, Ching-Chun Huang
   date: 2026-05-27
@@ -308,7 +308,7 @@
   publisher: 'IEEE International Conference on Image Processing (ICIP) 2026'
   title: 'Multi-Light Relightable Gaussian Splatting with Phong Reflectance from in-the-wild images'
   type: conference
-  link:
+  link: https://ieeexplore.ieee.org/document/11629888
 
 - authors: Nhat-Tuong Do-Tran, Le Ngoc Hoang Lam, Ching-Chun Huang
   date: 2026-01-01
