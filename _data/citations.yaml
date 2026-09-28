@@ -295,6 +295,16 @@
   link: https://ieeexplore.ieee.org/document/5604282
   plugin: sources.py
   file: sources.yaml
+- authors: Yu-Kai Wang, Chun-Xin Tan, Manh-Hung Nguyen, Ching-Chun Huang
+  date: '2026-09-28'
+  image: images/international-conferences/2026-09-28-APSIPA-Style-Driven.png
+  publisher: APSIPA ASC 2026
+  title: Style-Driven Data Synthesis and Degradation-Aware Enhancement for Ultrasound
+    Image Restoration
+  type: conference
+  link: null
+  plugin: sources.py
+  file: sources.yaml
 - authors: Yik Yu Ng, Benjamin C. M. Fung, Elena Obukhova, Djedjiga Mouheb, Ching-Chun
     Huang, Shih-Chia Huang
   date: '2026-08-23'
