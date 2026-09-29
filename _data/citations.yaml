@@ -302,7 +302,7 @@
   title: Style-Driven Data Synthesis and Degradation-Aware Enhancement for Ultrasound
     Image Restoration
   type: conference
-  link: null
+  link: https://arxiv.org/abs/2609.35120
   plugin: sources.py
   file: sources.yaml
 - authors: Yik Yu Ng, Benjamin C. M. Fung, Elena Obukhova, Djedjiga Mouheb, Ching-Chun
