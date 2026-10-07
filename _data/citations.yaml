@@ -295,6 +295,17 @@
   link: https://ieeexplore.ieee.org/document/5604282
   plugin: sources.py
   file: sources.yaml
+- authors: Yu-Heng Shih, Bing-Chen Wu, Tsz-To Wong, Ting-En Yen, Hong-Han Shuai, Bin-Hua
+    Hsieh, Chien-An Chen, Yi-Ren Yeh, Ching-Chun Huang
+  date: '2026-10-07'
+  image: images/international-conferences/2026-10-07-ACCV_2026.jpg
+  publisher: ACCV 2026
+  title: 'From Global Alignment to Local Grounding: Zero-Shot Chinese Character Recognition
+    with Radical Verification'
+  type: conference
+  link: null
+  plugin: sources.py
+  file: sources.yaml
 - authors: Ngoc-Hoang-Lam Le, Thi-An Le, Dinh-Hung Le, Manh-Hung Nguyen, Kai-Lung
     Hua, Ching-Chun Huang
   date: '2026-10-07'
