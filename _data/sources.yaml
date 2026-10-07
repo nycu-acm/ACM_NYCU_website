@@ -254,6 +254,14 @@
 # -------------------------------------------------------------
 # -------------------------------------------------------------
 
+- authors: Ngoc-Hoang-Lam Le, Thi-An Le, Dinh-Hung Le, Manh-Hung Nguyen, Kai-Lung Hua, Ching-Chun Huang
+  date: 2026-10-07
+  image: 'images/international-conferences/2026-10-07-MMAsia_2026.jpg'
+  publisher: 'MMAsia 2026'
+  title: 'DAP-MR: Degradation-Aware Prompt–Magnitude Routing for Real-World Ultrasound Super-Resolution'
+  type: conference
+  link: 
+
 - authors: Yu-Kai Wang, Chun-Xin Tan, Manh-Hung Nguyen, Ching-Chun Huang
   date: 2026-09-28
   image: 'images/international-conferences/2026-09-28-APSIPA-Style-Driven.png'
