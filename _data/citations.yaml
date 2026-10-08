@@ -303,7 +303,7 @@
   title: 'From Global Alignment to Local Grounding: Zero-Shot Chinese Character Recognition
     with Radical Verification'
   type: conference
-  link: null
+  link: https://arxiv.org/abs/2610.09449
   plugin: sources.py
   file: sources.yaml
 - authors: Ngoc-Hoang-Lam Le, Thi-An Le, Dinh-Hung Le, Manh-Hung Nguyen, Kai-Lung
