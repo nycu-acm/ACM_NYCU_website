@@ -295,6 +295,26 @@
   link: https://ieeexplore.ieee.org/document/5604282
   plugin: sources.py
   file: sources.yaml
+- authors: Huu-Phu Do, I-Hsuan Lo, Thanh-Nguyen Truong, Duy-Khanh Ngo, Ching-Chun
+    Huang
+  date: '2026-10-25'
+  image: images/international-conferences/2026_10_25_WACV_2027_AniTrIF.png
+  publisher: WACV 2027
+  title: 'AniTrIF: Animatable Head Avatar Reconstruction from Sparse Views via Triplane-conditioned
+    Implicit Gaussian Regression Field'
+  type: conference
+  link: null
+  plugin: sources.py
+  file: sources.yaml
+- authors: Thanh-Nguyen Truong, Vu-Hoang Tran, Ching-Chun Huang
+  date: '2026-10-25'
+  image: images/international-conferences/2026_10_25_WACV_2027_Friction.png
+  publisher: WACV 2027
+  title: Explicit Frictional Contact Modeling in Neural Garment Simulation
+  type: conference
+  link: null
+  plugin: sources.py
+  file: sources.yaml
 - authors: Yu-Heng Shih, Bing-Chen Wu, Tsz-To Wong, Ting-En Yen, Hong-Han Shuai, Bin-Hua
     Hsieh, Chien-An Chen, Yi-Ren Yeh, Ching-Chun Huang
   date: '2026-10-07'
