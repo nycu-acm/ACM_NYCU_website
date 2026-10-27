@@ -312,7 +312,7 @@
   publisher: WACV 2027
   title: Explicit Frictional Contact Modeling in Neural Garment Simulation
   type: conference
-  link: null
+  link: https://arxiv.org/abs/2610.33492
   plugin: sources.py
   file: sources.yaml
 - authors: Yu-Heng Shih, Bing-Chen Wu, Tsz-To Wong, Ting-En Yen, Hong-Han Shuai, Bin-Hua
