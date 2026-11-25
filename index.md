@@ -39,18 +39,16 @@ Besides, we also try to build an international environment in our lab, you may f
   link="https://www.facebook.com/profile.php?id=100057112133591"
 %}
 
-<video
-  controls
-  playsinline
-  preload="none"
+<iframe
+  src="https://www.youtube.com/embed/f4KXxl3d2ww"
+  title="ACM Lab Introduction 2026"
   width="1920"
   height="1080"
-  style="display: block; width: 100%; height: auto; margin: 1.5rem auto 0;"
-  aria-label="ACM Lab Introduction 2026"
->
-  <source src="{{ '/videos/ACM_Lab_Introduction_2026_with_intro.mp4' | relative_url }}" type="video/mp4">
-  <a href="{{ '/videos/ACM_Lab_Introduction_2026_with_intro.mp4' | relative_url }}">Download the ACM Lab introduction video</a>
-</video>
+  loading="lazy"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen
+  style="display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; margin: 1.5rem auto 0; border: 0;"
+></iframe>
 
 <!--- START HIGHLIGHT -->
 

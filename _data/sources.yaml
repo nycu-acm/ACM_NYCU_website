@@ -40,27 +40,21 @@
 
 - authors: Luu, Van-Tin; Chen, Tao-Ting; Bui, Khanh-Phong; Tran, Vu-Hoang; Li, Yung-Hui; Huang, Ching-Chun
   date: '2026-01-19'
-  image: nan
   publisher: APSIPA Transactions on Signal and Information Processing 
   title: 'IZeroDNAS: Innovative Differentiable NAS Using Zero-Cost Metrics and SuperNet Initialization'
   type: journal
-  link: nan
 
 - authors: Hsueh, Hao-Chien; Do, Huu-Phu; Chen, Chi-Han; Chiang, Tzu-Hao; Peng, Wen-Hsiao; Huang, Ching-Chun
   date: '2025-10-23'
-  image: nan
   publisher: ACM Transactions on Intelligent Systems and Technology
   title: 'ExReg: Wide-range Photo Exposure Correction via a Multi-dimensional Regressor with Attention'
   type: journal
-  link: nan
 
 - authors: Limantoro, Stephen Ekaputra; Huang, Ching-Chun; Shuai, Hong-Han; Cheng, Wen-Huang
   date: '2025-04-12'
-  image: nan
   publisher: Multimedia Systems
   title: 'Swapped Logit Distillation via Bi-level Teacher Alignment'
   type: journal
-  link: nan
 
 - authors: Huu-Phu Do, Yan-An Chen, Nhat-Tuong Do-Tran, Kai-Lung Hua, Wen-Hsiao Peng
     & Ching-Chun Huang
@@ -208,7 +202,6 @@
   link: https://ieeexplore.ieee.org/document/7399146
 - authors: Hung Nguyen Manh, Ching-Chun Huang and Lee Hsiao-Yi 1
   date: '2015-11-18'
-  image: images/international-journals/nan
   publisher: Wireless Communications and Mobile Computing
   title: Landmark‐based device calibration and region‐based modeling for RSS‐based
     localization
@@ -557,7 +550,6 @@
   link: https://ieeexplore.ieee.org/document/10317140
 - authors: ' Wei-Jie Hung, Egor Poliakov and Ching-Chun Huang'
   date: '2023-10-01'
-  image: nan
   publisher: 2023 Asia Pacific Signal and Information Processing Association Annual
     Summit and Conference (APSIPA ASC)
   title: ' Efficient Constraint-Aware Neural Architecture Search for Object Detection'
@@ -675,7 +667,6 @@
   link: https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_Video_Rescaling_Networks_With_Joint_Optimization_Strategies_for_Downscaling_and_CVPR_2021_paper.pdf
 - authors: ' Manh Hung Nguyen, Tzu-Yin Chao, Ching-Chun Huang*'
   date: 2021-1-01
-  image: nan
   publisher: ' IEEE International Conference on Pattern Recognition.'
   title: Vacant Parking Space Detection based on Task Consistency and Reinforcement
     Learning
@@ -691,7 +682,6 @@
 - authors: Nelson Chong Ngee Bow; Vu-Hoang Tran; Punchok Kerdsiri; Yuen Peng Loh;
     Ching-Chun Huang
   date: '2020-12-01'
-  image: nan
   publisher: ' IEEE International Conference on Visual Communications and Image Processing
     (VCIP)'
   title: ' DEN: Disentanglement and Enhancement Networks for Low Illumination Images'
@@ -715,7 +705,6 @@
   link: https://ieeexplore.ieee.org/document/9053567/
 - authors: Hung Nguyen Manh, Ching-Chun Huang
   date: '2019-10-01'
-  image: nan
   publisher: IEEE International Conference on Systems, Man, and Cybernetics
   title: A Robust Multi-Kinect 3D Skeleton Tracking Considering Left-Right Confusion
     and Self-Occlusion
@@ -738,7 +727,6 @@
   link: https://ieeexplore.ieee.org/abstract/document/8914497
 - authors: Tzu-Ying Chao, Manh-Hung Nguyen, Ching-Chun Huang
   date: '2019-10-01'
-  image: nan
   publisher: IEEE International Conference on Systems, Man, and Cybernetics
   title: Online Learning for High Accuracy HVAC Control and Energy Saving
   type: conference
@@ -811,7 +799,6 @@
   link: https://ieeexplore.ieee.org/document/8616220
 - authors: Wei-Yuan Lin, Ching-Chun Huang, Hung Nguyen Manh and Nguyen Tran Duc
   date: 2018-8-01
-  image: nan
   publisher: IEEE Vehicular Technology Society Asia Pacific Wireless Communications
     Symposium
   title: Deep Learning-based RSS Indoor Localization
@@ -836,7 +823,6 @@
   link: https://ieeexplore.ieee.org/document/8448424
 - authors: Ching-Chun Huang, Yi-Ning Chuang, Atul Kumar
   date: '2017-11-01'
-  image: nan
   publisher: The 13th Asian Conference on Computer Aided Surgery
   title: 3D Object Reconstruction based on Structure from Motion and Shape from Shading
   type: conference
@@ -851,7 +837,6 @@
 - authors: Yi-Ting Tsai, Shih-Jou Yu, Xin-Yen Chen, Oscal Tzyh-Chiang Chen, Jerry
     Chih-Yuan Sun, Ching-Chun Huang
   date: 2017-9-01
-  image: nan
   publisher: International Conference on IoT as a Service
   title: Personalized Mobile Learning System via Smart Glasses
   type: conference
@@ -865,7 +850,6 @@
   link: https://ieeexplore.ieee.org/document/7991004
 - authors: Hsiang-Hui Hung, Huu-Phu Do, Yung-Hui Li, Ching-Chun Huang
   date: 2016-8-01
-  image: nan
   publisher: The 9th IEEE International Conference on Ubi-Media Computing
   title: A Hybrid Method for Visitor Localization and Tracking in a Museum Environment
   type: conference
@@ -945,7 +929,6 @@
   link: https://www.researchgate.net/publication/267039713_Inter-Vehicle_Communication_License_Plate_Verification_and_Distance_Estimation_for_the_Construction_of_Driving_Surroundings
 - authors: Ching-Chun Huang, Yu-Shiun Wang, Wei-Li Huang, and Hung Nguyen Manh,
   date: 2014-8-01
-  image: nan
   publisher: IEEE Asia Pacific Wireless Communications Symposium,
   title: Automatic Landmark-based RSS Compensation for Device Diversity in an Indoor
     Positioning System
@@ -975,14 +958,12 @@
   link: https://ieeexplore.ieee.org/document/6820918
 - authors: Ching-Chun Huang, Hung-Nguyen Manh, Tai-Hwei Hwang
   date: '2013-12-01'
-  image: nan
   publisher: International Conference on Connected Vechicles & Expo
   title: 'Vehicle Trajectory Prediction across Non-overlapping Camera Networks '
   type: conference
   link: https://ieeexplore.ieee.org/document/6799823
 - authors: Ching-Chun Huang, Nguyen Manh Hung, and Atul Kumar
   date: '2013-11-01'
-  image: nan
   publisher: International conference on control automation & information sciences
   title: A Hybrid Method for 3D Instrument Reconstruction and Tracking in Laparoscopy
     Surgery
@@ -990,21 +971,18 @@
   link: https://ieeexplore.ieee.org/document/6720526
 - authors: Ching-Chun Huang*, and De-Kai Huang
   date: 2013-2-01
-  image: nan
   publisher: IS&T/SPIE Electronic Imaging Symposium 2013
   title: A Study of Non-diagonal Models for Image White Balance
   type: conference
   link: https://www.researchgate.net/publication/258813863_A_Study_of_Non-diagonal_Models_for_Image_White_balance
 - authors: 'Ching-Chun Huang*, Yu-Shu Dai and Sheng-Jyh Wang '
   date: '2012-11-01'
-  image: nan
   publisher: IEEE International Conference on ITS Telecommunications (ITST)
   title: A Surface-based Vacant Space Detection for an Intelligent Parking Lot
   type: conference
   link: https://ieeexplore.ieee.org/document/6425183
 - authors: ' Shih-Ming Huang, Ching-Chun Huang, Cheng-Chuan Chou,'
   date: '2012-11-01'
-  image: nan
   publisher: 'IEEE International Conference on ITS Telecommunications '
   title: Image Registration among UAV Image Sequence and Google Satellite Image Under
     Quality Mismatch
@@ -1012,7 +990,6 @@
   link: https://www.researchgate.net/publication/261342016_Image_registration_among_UAV_image_sequence_and_Google_satellite_image_under_quality_mismatch
 - authors: Ching-chun Huang*, Jay Choub, Jia-hau Shiub, Sheng-Jyh Wangb
   date: 2012-1-01
-  image: nan
   publisher: Proceeding of IS&T/SPIE Electronic Imaging
   title: Multi-view Face Detection Based on Position Estimation over Multi-camera
     Surveillance System
@@ -1020,14 +997,12 @@
   link: https://ir.lib.nycu.edu.tw/bitstream/11536/146328/1/1471649b2e37b66a7e2ad0fbbb2700e8.pdf
 - authors: Ching-Chun Huang, Sheng-Jyh Wang
   date: 2010-9-01
-  image: nan
   publisher: IEEE International Conference on International Conference Image Processing
   title: A Cascaded Hierarchical Framework for Moving Object Detection and Tracking
   type: conference
   link: https://www.researchgate.net/publication/224199353_A_cascaded_hierarchical_framework_for_moving_object_detection_and_tracking
 - authors: Ching-Chun Huang, Wei-Chen Chiu, Sheng-Jyh Wang, and Jen-Hui Chuang
   date: 2010-8-01
-  image: nan
   publisher: IEEE International Conference on Pattern Recognition
   title: Probabilistic Modeling of Dynamic Traffic Flow across Non-overlapping Camera
     Views
@@ -1035,7 +1010,6 @@
   link: https://ieeexplore.ieee.org/document/5597517
 - authors: Ching-Chun Huang and Sheng-Jyh Wang
   date: 2009-6-01
-  image: nan
   publisher: IEEE International Conference on Multimedia and Expo
   title: Moving Targets Labeling and Correspondence over Multi-Camera Surveillance
     System Based on Markov Network
@@ -1044,7 +1018,6 @@
 - authors: Arvind Kandhalu, Anthony Rowe, Ragunathan Rajkumar, Ching-Chun Huang, and
     Chao-Chun Yeh
   date: 2009-4-01
-  image: nan
   publisher: IEEE International Real-Time and Embedded Technology and Applications
     Symposium
   title: Real-Time Video Surveillance over IEEE 802.11 Mesh Networks
@@ -1052,7 +1025,6 @@
   link: https://ieeexplore.ieee.org/abstract/document/4840581
 - authors: Ching-Chun Huang and Sheng-Jyh Wang
   date: 2008-8-01
-  image: nan
   publisher: European Conference on Computer Vision (ECCV) Workshop on Multi-camera
     and Multi-modal Sensor Fusion Algorithms and Application
   title: A Monte Carlo Based Framework for Multi-Target Detection and Tracking Over
@@ -1061,7 +1033,6 @@
   link: https://www.researchgate.net/publication/29621512_A_Monte_Carlo_Based_Framework_for_Multi-Target_Detection_and_Tracking_Over_Multi-Camera_Surveillance_System
 - authors: Ching-Chun Huang, Sheng-Jyh Wang, Yao-Jen Chang, and Tsuhan Chen
   date: 2008-3-01
-  image: nan
   publisher: IEEE International Conference on Acoustics, Speech, and Signal Processing
     (
   title: A Bayesian Hierarchical Detection Framework for Parking Space Detection
@@ -1069,28 +1040,24 @@
   link: https://ieeexplore.ieee.org/document/4518055/
 - authors: Ming-Yu Shih, Yao-Jen Chang, Bwo-Chau Fu, and Ching-Chun Huang
   date: 2007-8-01
-  image: nan
   publisher: First International Workshop on Multimedia Analysis and Processing
   title: Motion-based Background Modeling for Moving Object Detection on Moving Platforms
   type: conference
   link: https://ieeexplore.ieee.org/document/4317979
 - authors: Q. Wu, Ching-Chun Huang, S.Y. Wang, W.C. Chiu, and T. Chen
   date: 2007-7-01
-  image: nan
   publisher: IEEE International Conference on Multimedia and Expo
   title: Robust Parking Space Detection Considering Inter-space Correlation
   type: conference
   link: https://ieeexplore.ieee.org/document/4284736
 - authors: Ching-Chun Huang and Cheng Yi Liu
   date: 2005-3-01
-  image: nan
   publisher: Proceedings of SPIE
   title: Novel Illumination-Normalization Method Based on Region Information
   type: conference
   link: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5672/0000/Novel-illumination-normalization-method-based-on-region-information/10.1117/12.586626.full
 - authors: Y. H. Tsai and Ching-Chun Huang
   date: '2003-11-01'
-  image: nan
   publisher: Digital Image Computing - Techniques and Applications
   title: Handheld Person Verification System Using Face Image
   type: conference
@@ -1107,7 +1074,6 @@
 
 - authors: 黃敬群、鄭景閎、陳靖雯
   date: '2025-02-09'
-  description: nan
   publisher: 國立陽明交通大學
   title: 用於無柵欄停車場的多車輛追蹤方法及系統
   type: invention
@@ -1121,7 +1087,6 @@
 
 - authors: 陳信銘、周逸凡、林多常、黃敬群、鄭智仁
   date: '2022-01-01'
-  description: nan
   publisher: 中華電信
   title: 具備距離適應性之快速光達點雲物件偵測技術
   type: invention
