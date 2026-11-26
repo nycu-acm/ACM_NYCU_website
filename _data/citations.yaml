@@ -327,7 +327,7 @@
   title: "DAP-MR: Degradation-Aware Prompt\u2013Magnitude Routing for Real-World Ultrasound\
     \ Super-Resolution"
   type: conference
-  link: null
+  link: https://arxiv.org/pdf/2611.22331
   plugin: sources.py
   file: sources.yaml
 - authors: Yu-Kai Wang, Chun-Xin Tan, Manh-Hung Nguyen, Ching-Chun Huang
