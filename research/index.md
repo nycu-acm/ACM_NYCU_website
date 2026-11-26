@@ -30,6 +30,9 @@ nav:
 
 | Number | Record | Year | 
 | :----: | :----: | :----: |
+| 30 | Congratulations to 陳道亭 Tao-Ting Chen for winning fourth place in the AlpaSim End to End Closed Loop Challenge organized by NVIDIA | 2026 |
+| 29 | Congratulations to Do Tran Nhat Tuong for winning The 19th TOPCO Thesis Award for his thesis: “UI-Styler: Ultrasound Image Style Transfer with Class-Aware Prompts for Cross-Device Diagnosis Using a Frozen Black-Box Inference Network.” | 2026 |
+| 28 | Congratulations to Dr. 陳紀翰 on successfully completing his PhD in October | 2026 |
 | 27 | 恭賀原瑄同學榮獲電腦視覺、圖學暨影像處理研討會論文獎佳作(題目:Handling Diverse Degradations via Dual Branch Representations in Blind Super-Resolution) | 2024 |
 | 26 | 恭賀蔡宜廷同學榮獲電腦視覺、圖學暨影像處理研討會論文獎佳作(題目:ARASFSR: Arbitrary-Resolution and Arbitrary-Scale Face Super-Resolution) | 2024 |
 | 25 | Congratulations to 施孟成 for winning the Master's Thesis Award (Excellent Work) at 中華民國影像處理與模式辨識學會(題目:基於特徵解耦和重耦提升細節與語義捕捉 的簽名驗證) | 2024 |
